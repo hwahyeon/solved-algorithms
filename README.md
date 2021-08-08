@@ -1,6 +1,6 @@
 # Algorithm
 
-I post my solution every day. This challenge aims to develop my problem-solving skills.
+I post my solutions every day. This challenge aims to develop my problem-solving skills.
 
 
 |No.|Platform|Name|Language|etc|YYMMDD|

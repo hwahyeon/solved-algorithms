@@ -8,11 +8,24 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |000|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|
 |000|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |000|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
-|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
-|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
-|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
-|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
-|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
+|000|Codewars|[Calculate BMI](URL)|Python|8kyu|210726|
+|000|Codewars|[Triangle area](URL)|Python|7kyu|210726|
+|000|Codewars|[Stop gninnipS My sdroW!](URL)|Python|6kyu|210726|
+|000|Codewars|[FIXME: Replace all dots](URL)|Python|8kyu|210726|
+|000|Codewars|[Greatest Common Factor of an Array](URL)|Python|6kyu|210726|
+|000|Codewars|[Square(n) Sum](URL)|Python|8kyu|210726|
+|000|Codewars|[Friend or Foe?](URL)|Python|7kyu|210726|
+|000|Codewars|[Remove exclamation marks](URL)|Python|7kyu|210726|
+|000|Codewars|[SQL Basics: Simple WHERE and ORDER BY](URL)|SQL|8kyu|210726|
+|000|Codewars|[SQL Basics: Simple SUM](URL)|SQL|8kyu|210726|
+|000|Codewars|[1. Find all active students](URL)|SQL|8kyu|210726|
+|000|Codewars|[SQL with Pokemon: Damage Multipliers](URL)|SQL|7kyu|210726|
+|000|Codewars|[Chicken Sexing](URL)|Python|7kyu|210726|
+|000|Codewars|[SQL Basics: Simple MIN / MAX](URL)|SQL|8kyu|210726|
+|000|Codewars|[SQL Grasshopper: Select Columns](URL)|SQL|8kyu|210726|
+|000|Codewars|[Easy SQL: LowerCase](URL)|SQL|8kyu|210726|
+|000|Codewars|[SQL Basics: Simple JOIN with COUNT](URL)|SQL|7kyu|210726|
+|000|Codewars|[Return Negative](URL)|Python|7kyu|210726|
 |000|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
 |000|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|
 |000|Codewars|[Arabian String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arabian%20String.py)|Python|6kyu|210729|

@@ -25,7 +25,21 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |000|Codewars|[SQL Grasshopper: Select Columns](URL)|SQL|8kyu|210726|
 |000|Codewars|[Easy SQL: LowerCase](URL)|SQL|8kyu|210726|
 |000|Codewars|[SQL Basics: Simple JOIN with COUNT](URL)|SQL|7kyu|210726|
-|000|Codewars|[Return Negative](URL)|Python|7kyu|210726|
+|000|Codewars|[Count by X](URL)|Python|8kyu|210726|
+|000|Codewars|[Easy SQL - Ordering](URL)|SQL|8kyu|210726|
+|000|Codewars|[Adults only (SQL for Beginners #1)](URL)|SQL|8kyu|210726|
+|000|Codewars|[SQL Basics: Simple DISTINCT](URL)|SQL|8kyu|210726|
+|000|Codewars|[Easy SQL: Square Root and Log](URL)|SQL|8kyu|210726|
+|000|Codewars|[Remove First and Last Character](URL)|Python|8kyu|210726|
+|000|Codewars|[Vowels Back](URL)|Python|6kyu|210726|
+|000|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|210726|
+|000|Codewars|[Cost of my ride](URL)|Python|7kyu|210726|
+|000|Codewars|[Replace With Alphabet Position](URL)|Python|6kyu|210726|
+|000|Codewars|[Christmas tree](URL)|Python|6kyu|210726|
+|000|Codewars|[MakeUpperCase](URL)|Python|8kyu|210726|
+|000|Codewars|[Find the vowels](URL)|Python|7kyu|210726|
+|000|Codewars|[Easy SQL: Convert to Hexadecimal](URL)|SQL|8kyu|210726|
+|000|Codewars|[Return Negative](URL)|Python|8kyu|210726|
 |000|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
 |000|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|
 |000|Codewars|[Arabian String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arabian%20String.py)|Python|6kyu|210729|

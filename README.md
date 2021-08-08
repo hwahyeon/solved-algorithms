@@ -7,4 +7,4 @@ ex : [Web Platform] Name
 
 |No.|Platform|Name|Language|etc|Day|
 |---|---|---|---|---|---|
-|1|Codewars|Simple Pig Latin|Python|5kyu|210800|
+|000|Codewars|Extract the domain name from a URL|Python|5kyu|210808|

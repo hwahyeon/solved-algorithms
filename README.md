@@ -5,6 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |---|---|---|---|---|---|
+|000|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|
+|000|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
+|000|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
+|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
+|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
+|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
+|000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
 |000|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210726|
 |000|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
 |000|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|

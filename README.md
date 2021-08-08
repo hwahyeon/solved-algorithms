@@ -4,7 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 
 |No.|Platform|Name|Language|etc|YYMMDD|
-|---|---|---|---|---|---|
+|:---:|---|---|---|---|:---:|
 |0056|Codewars|[ISBN-10 Validation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20ISBN-10%20Validation.py)|Python|5kyu|210809|
 |0055|Codewars|[Extract the domain name from a URL](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Extract%20the%20domain%20name%20from%20a%20URL.py)|Python|5kyu|210808|
 |0054|Codewars|[Name Shuffler](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Name%20Shuffler.py)|Python|8kyu|210807|

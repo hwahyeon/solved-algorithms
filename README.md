@@ -8,38 +8,38 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
-|0004|Codewars|[Calculate BMI](URL)|Python|8kyu|210726|
-|0005|Codewars|[Triangle area](URL)|Python|7kyu|210726|
-|0006|Codewars|[Stop gninnipS My sdroW!](URL)|Python|6kyu|210726|
-|0007|Codewars|[FIXME: Replace all dots](URL)|Python|8kyu|210726|
-|0008|Codewars|[Greatest Common Factor of an Array](URL)|Python|6kyu|210726|
-|0009|Codewars|[Square(n) Sum](URL)|Python|8kyu|210726|
-|0010|Codewars|[Friend or Foe?](URL)|Python|7kyu|210726|
-|0011|Codewars|[Remove exclamation marks](URL)|Python|7kyu|210726|
-|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](URL)|SQL|8kyu|210726|
-|0013|Codewars|[SQL Basics: Simple SUM](URL)|SQL|8kyu|210726|
-|0014|Codewars|[1. Find all active students](URL)|SQL|8kyu|210726|
-|0015|Codewars|[SQL with Pokemon: Damage Multipliers](URL)|SQL|7kyu|210726|
-|0016|Codewars|[Chicken Sexing](URL)|Python|7kyu|210726|
-|0017|Codewars|[SQL Basics: Simple MIN / MAX](URL)|SQL|8kyu|210726|
-|0018|Codewars|[SQL Grasshopper: Select Columns](URL)|SQL|8kyu|210726|
-|0019|Codewars|[Easy SQL: LowerCase](URL)|SQL|8kyu|210726|
-|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](URL)|SQL|7kyu|210726|
-|0021|Codewars|[Count by X](URL)|Python|8kyu|210726|
-|0022|Codewars|[Easy SQL - Ordering](URL)|SQL|8kyu|210726|
-|0023|Codewars|[Adults only (SQL for Beginners #1)](URL)|SQL|8kyu|210726|
-|0024|Codewars|[SQL Basics: Simple DISTINCT](URL)|SQL|8kyu|210726|
-|0025|Codewars|[Easy SQL: Square Root and Log](URL)|SQL|8kyu|210726|
-|0026|Codewars|[Remove First and Last Character](URL)|Python|8kyu|210726|
-|0027|Codewars|[Vowels Back](URL)|Python|6kyu|210726|
-|0028|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|210726|
-|0029|Codewars|[Cost of my ride](URL)|Python|7kyu|210726|
-|0030|Codewars|[Replace With Alphabet Position](URL)|Python|6kyu|210726|
-|0031|Codewars|[Christmas tree](URL)|Python|6kyu|210726|
-|0032|Codewars|[MakeUpperCase](URL)|Python|8kyu|210726|
-|0033|Codewars|[Find the vowels](URL)|Python|7kyu|210726|
-|0034|Codewars|[Easy SQL: Convert to Hexadecimal](URL)|SQL|8kyu|210726|
-|0035|Codewars|[Return Negative](URL)|Python|8kyu|210726|
+|0004|Codewars|[Calculate BMI](URL)|Python|8kyu|-|
+|0005|Codewars|[Triangle area](URL)|Python|7kyu|-|
+|0006|Codewars|[Stop gninnipS My sdroW!](URL)|Python|6kyu|-|
+|0007|Codewars|[FIXME: Replace all dots](URL)|Python|8kyu|-|
+|0008|Codewars|[Greatest Common Factor of an Array](URL)|Python|6kyu|-|
+|0009|Codewars|[Square(n) Sum](URL)|Python|8kyu|-|
+|0010|Codewars|[Friend or Foe?](URL)|Python|7kyu|-|
+|0011|Codewars|[Remove exclamation marks](URL)|Python|7kyu|-|
+|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](URL)|SQL|8kyu|-|
+|0013|Codewars|[SQL Basics: Simple SUM](URL)|SQL|8kyu|-|
+|0014|Codewars|[1. Find all active students](URL)|SQL|8kyu|-|
+|0015|Codewars|[SQL with Pokemon: Damage Multipliers](URL)|SQL|7kyu|-|
+|0016|Codewars|[Chicken Sexing](URL)|Python|7kyu|-|
+|0017|Codewars|[SQL Basics: Simple MIN / MAX](URL)|SQL|8kyu|-|
+|0018|Codewars|[SQL Grasshopper: Select Columns](URL)|SQL|8kyu|-|
+|0019|Codewars|[Easy SQL: LowerCase](URL)|SQL|8kyu|-|
+|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](URL)|SQL|7kyu|-|
+|0021|Codewars|[Count by X](URL)|Python|8kyu|-|
+|0022|Codewars|[Easy SQL - Ordering](URL)|SQL|8kyu|-|
+|0023|Codewars|[Adults only (SQL for Beginners #1)](URL)|SQL|8kyu|-|
+|0024|Codewars|[SQL Basics: Simple DISTINCT](URL)|SQL|8kyu|-|
+|0025|Codewars|[Easy SQL: Square Root and Log](URL)|SQL|8kyu|-|
+|0026|Codewars|[Remove First and Last Character](URL)|Python|8kyu|-|
+|0027|Codewars|[Vowels Back](URL)|Python|6kyu|-|
+|0028|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|-|
+|0029|Codewars|[Cost of my ride](URL)|Python|7kyu|-|
+|0030|Codewars|[Replace With Alphabet Position](URL)|Python|6kyu|-|
+|0031|Codewars|[Christmas tree](URL)|Python|6kyu|-|
+|0032|Codewars|[MakeUpperCase](URL)|Python|8kyu|-|
+|0033|Codewars|[Find the vowels](URL)|Python|7kyu|-|
+|0034|Codewars|[Easy SQL: Convert to Hexadecimal](URL)|SQL|8kyu|-|
+|0035|Codewars|[Return Negative](URL)|Python|8kyu|-|
 |0036|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
 |0037|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|
 |0038|Codewars|[Arabian String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arabian%20String.py)|Python|6kyu|210729|

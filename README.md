@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0061|Codewars|[Sum Arrays](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20Arrays.r)|R|8kyu|210810|
 |0060|Codewars|[Remove String Spaces](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Remove%20String%20Spaces.r)|R|8kyu|210810|
 |0059|Codewars|[Hex to Decimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hex%20to%20Decimal.py)|Python|8kyu|210809|
 |0058|Codewars|[Convert a Boolean to a String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20Boolean%20to%20a%20String.py)|Python|8kyu|210809|

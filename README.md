@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0062|BaekJoon|[최댓값](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EB%8C%93%EA%B0%92.py)|Python|2562|210810|
 |0061|Codewars|[Sum Arrays](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20Arrays.r)|R|8kyu|210810|
 |0060|Codewars|[Remove String Spaces](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Remove%20String%20Spaces.r)|R|8kyu|210810|
 |0059|Codewars|[Hex to Decimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hex%20to%20Decimal.py)|Python|8kyu|210809|

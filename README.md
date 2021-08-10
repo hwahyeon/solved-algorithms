@@ -40,33 +40,33 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0038|Codewars|[Arabian String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arabian%20String.py)|Python|6kyu|210729|
 |0037|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|
 |0036|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
-|0035|Codewars|[Return Negative](URL)|Python|8kyu|-|
-|0034|Codewars|[Easy SQL: Convert to Hexadecimal](URL)|SQL|8kyu|-|
-|0033|Codewars|[Find the vowels](URL)|Python|7kyu|-|
-|0032|Codewars|[MakeUpperCase](URL)|Python|8kyu|-|
-|0031|Codewars|[Christmas tree](URL)|Python|6kyu|-|
-|0030|Codewars|[Replace With Alphabet Position](URL)|Python|6kyu|-|
-|0029|Codewars|[Cost of my ride](URL)|Python|7kyu|-|
+|0035|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Negative.py)|Python|8kyu|-|
+|0034|Codewars|[Easy SQL: Convert to Hexadecimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Convert%20to%20Hexadecimal.sql)|SQL|8kyu|-|
+|0033|Codewars|[Find the vowels](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20vowels.py)|Python|7kyu|-|
+|0032|Codewars|[MakeUpperCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20MakeUpperCase.py)|Python|8kyu|-|
+|0031|Codewars|[Christmas tree](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Christmas%20tree.py)|Python|6kyu|-|
+|0030|Codewars|[Replace With Alphabet Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Replace%20With%20Alphabet%20Position.py)|Python|6kyu|-|
+|0029|Codewars|[Cost of my ride](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Cost%20of%20my%20ride.py)|Python|7kyu|-|
 |0028|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|-|
-|0027|Codewars|[Vowels Back](URL)|Python|6kyu|-|
-|0026|Codewars|[Remove First and Last Character](URL)|Python|8kyu|-|
-|0025|Codewars|[Easy SQL: Square Root and Log](URL)|SQL|8kyu|-|
-|0024|Codewars|[SQL Basics: Simple DISTINCT](URL)|SQL|8kyu|-|
-|0023|Codewars|[Adults only (SQL for Beginners #1)](URL)|SQL|8kyu|-|
-|0022|Codewars|[Easy SQL - Ordering](URL)|SQL|8kyu|-|
-|0021|Codewars|[Count by X](URL)|Python|8kyu|-|
-|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](URL)|SQL|7kyu|-|
-|0019|Codewars|[Easy SQL: LowerCase](URL)|SQL|8kyu|-|
-|0018|Codewars|[SQL Grasshopper: Select Columns](URL)|SQL|8kyu|-|
-|0017|Codewars|[SQL Basics: Simple MIN / MAX](URL)|SQL|8kyu|-|
-|0016|Codewars|[Chicken Sexing](URL)|Python|7kyu|-|
-|0015|Codewars|[SQL with Pokemon: Damage Multipliers](URL)|SQL|7kyu|-|
-|0014|Codewars|[1. Find all active students](URL)|SQL|8kyu|-|
-|0013|Codewars|[SQL Basics: Simple SUM](URL)|SQL|8kyu|-|
-|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](URL)|SQL|8kyu|-|
-|0011|Codewars|[Remove exclamation marks](URL)|Python|7kyu|-|
-|0010|Codewars|[Friend or Foe?](URL)|Python|7kyu|-|
-|0009|Codewars|[Square(n) Sum](URL)|Python|8kyu|-|
+|0027|Codewars|[Vowels Back](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowels%20Back.py)|Python|6kyu|-|
+|0026|Codewars|[Remove First and Last Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20First%20and%20Last%20Character.py)|Python|8kyu|-|
+|0025|Codewars|[Easy SQL: Square Root and Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Square%20Root%20and%20Log.sql)|SQL|8kyu|-|
+|0024|Codewars|[SQL Basics: Simple DISTINCT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20DISTINCT.sql)|SQL|8kyu|-|
+|0023|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|SQL|8kyu|-|
+|0022|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|SQL|8kyu|-|
+|0021|Codewars|[Count by X](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20by%20X.py)|Python|8kyu|-|
+|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20with%20COUNT.sql)|SQL|7kyu|-|
+|0019|Codewars|[Easy SQL: LowerCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20LowerCase.sql)|SQL|8kyu|-|
+|0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|SQL|8kyu|-|
+|0017|Codewars|[SQL Basics: Simple MIN / MAX](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20MIN%20%EF%BC%8F%20MAX.sql)|SQL|8kyu|-|
+|0016|Codewars|[Chicken Sexing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chicken%20Sexing.py)|Python|7kyu|-|
+|0015|Codewars|[SQL with Pokemon: Damage Multipliers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Pokemon:%20Damage%20Multipliers.sql)|SQL|7kyu|-|
+|0014|Codewars|[1. Find all active students](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%201.%20Find%20all%20active%20students.sql)|SQL|8kyu|-|
+|0013|Codewars|[SQL Basics: Simple SUM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20SUM.sql)|SQL|8kyu|-|
+|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WHERE%20and%20ORDER%20BY.sql)|SQL|8kyu|-|
+|0011|Codewars|[Remove exclamation marks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20exclamation%20marks.py)|Python|7kyu|-|
+|0010|Codewars|[Friend or Foe?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Friend%20or%20Foe.py)|Python|7kyu|-|
+|0009|Codewars|[Square(n) Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Square(n)%20Sum.py)|Python|8kyu|-|
 |0008|Codewars|[Greatest Common Factor of an Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greatest%20Common%20Factor%20of%20an%20Array.py)|Python|6kyu|21071?|
 |0007|Codewars|[FIXME: Replace all dots](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20FIXME:%20Replace%20all%20dots.py)|Python|8kyu|21071?|
 |0006|Codewars|[Stop gninnipS My sdroW!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Stop%20gninnipS%20My%20sdroW.py)|Python|6kyu|21071?|

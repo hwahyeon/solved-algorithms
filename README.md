@@ -60,19 +60,19 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|SQL|8kyu|-|
 |0017|Codewars|[SQL Basics: Simple MIN / MAX](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20MIN%20%EF%BC%8F%20MAX.sql)|SQL|8kyu|-|
 |0016|Codewars|[Chicken Sexing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chicken%20Sexing.py)|Python|7kyu|-|
-|0015|Codewars|[SQL with Pokemon: Damage Multipliers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Pokemon:%20Damage%20Multipliers.sql)|SQL|7kyu|-|
-|0014|Codewars|[1. Find all active students](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%201.%20Find%20all%20active%20students.sql)|SQL|8kyu|-|
-|0013|Codewars|[SQL Basics: Simple SUM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20SUM.sql)|SQL|8kyu|-|
-|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WHERE%20and%20ORDER%20BY.sql)|SQL|8kyu|-|
-|0011|Codewars|[Remove exclamation marks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20exclamation%20marks.py)|Python|7kyu|-|
-|0010|Codewars|[Friend or Foe?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Friend%20or%20Foe.py)|Python|7kyu|-|
-|0009|Codewars|[Square(n) Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Square(n)%20Sum.py)|Python|8kyu|-|
-|0008|Codewars|[Greatest Common Factor of an Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greatest%20Common%20Factor%20of%20an%20Array.py)|Python|6kyu|21071?|
-|0007|Codewars|[FIXME: Replace all dots](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20FIXME:%20Replace%20all%20dots.py)|Python|8kyu|21071?|
-|0006|Codewars|[Stop gninnipS My sdroW!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Stop%20gninnipS%20My%20sdroW.py)|Python|6kyu|21071?|
-|0005|Codewars|[Triangle area](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triangle%20area.py)|Python|7kyu|21071?|
-|0004|Codewars|[Calculate BMI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20BMI.py)|Python|8kyu|21071?|
-|0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
+|0015|Codewars|[SQL with Pokemon: Damage Multipliers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Pokemon:%20Damage%20Multipliers.sql)|SQL|7kyu|210711|
+|0014|Codewars|[1. Find all active students](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%201.%20Find%20all%20active%20students.sql)|SQL|8kyu|210710|
+|0013|Codewars|[SQL Basics: Simple SUM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20SUM.sql)|SQL|8kyu|210710|
+|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WHERE%20and%20ORDER%20BY.sql)|SQL|8kyu|210710|
+|0011|Codewars|[Remove exclamation marks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20exclamation%20marks.py)|Python|7kyu|210710|
+|0010|Codewars|[Friend or Foe?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Friend%20or%20Foe.py)|Python|7kyu|210710|
+|0009|Codewars|[Square(n) Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Square(n)%20Sum.py)|Python|8kyu|210709|
+|0008|Codewars|[Greatest Common Factor of an Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greatest%20Common%20Factor%20of%20an%20Array.py)|Python|6kyu|210709|
+|0007|Codewars|[FIXME: Replace all dots](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20FIXME:%20Replace%20all%20dots.py)|Python|8kyu|210709|
+|0006|Codewars|[Stop gninnipS My sdroW!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Stop%20gninnipS%20My%20sdroW.py)|Python|6kyu|210709|
+|0005|Codewars|[Triangle area](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triangle%20area.py)|Python|7kyu|210709|
+|0004|Codewars|[Calculate BMI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20BMI.py)|Python|8kyu|210709|
+|0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210709|
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|
 

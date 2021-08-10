@@ -67,11 +67,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0011|Codewars|[Remove exclamation marks](URL)|Python|7kyu|-|
 |0010|Codewars|[Friend or Foe?](URL)|Python|7kyu|-|
 |0009|Codewars|[Square(n) Sum](URL)|Python|8kyu|-|
-|0008|Codewars|[Greatest Common Factor of an Array](URL)|Python|6kyu|-|
-|0007|Codewars|[FIXME: Replace all dots](URL)|Python|8kyu|-|
-|0006|Codewars|[Stop gninnipS My sdroW!](URL)|Python|6kyu|-|
-|0005|Codewars|[Triangle area](URL)|Python|7kyu|-|
-|0004|Codewars|[Calculate BMI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20BMI.py)|Python|8kyu|2107??|
+|0008|Codewars|[Greatest Common Factor of an Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greatest%20Common%20Factor%20of%20an%20Array.py)|Python|6kyu|21071?|
+|0007|Codewars|[FIXME: Replace all dots](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20FIXME:%20Replace%20all%20dots.py)|Python|8kyu|21071?|
+|0006|Codewars|[Stop gninnipS My sdroW!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Stop%20gninnipS%20My%20sdroW.py)|Python|6kyu|21071?|
+|0005|Codewars|[Triangle area](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triangle%20area.py)|Python|7kyu|21071?|
+|0004|Codewars|[Calculate BMI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20BMI.py)|Python|8kyu|21071?|
 |0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|

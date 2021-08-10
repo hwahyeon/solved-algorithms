@@ -5,7 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
-|0066|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|
+|0068|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|CommonLisp|8kyu|210810|
+|0067|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|
 |0066|BaekJoon|[사분면 고르기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|Python|14681|210810|
 |0066|BaekJoon|[윤년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A4%EB%85%84.py)|Python|2753|210810|
 |0065|BaekJoon|[시험 성적](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.py)|Python|9498|210810|

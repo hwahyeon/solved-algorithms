@@ -71,7 +71,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0007|Codewars|[FIXME: Replace all dots](URL)|Python|8kyu|-|
 |0006|Codewars|[Stop gninnipS My sdroW!](URL)|Python|6kyu|-|
 |0005|Codewars|[Triangle area](URL)|Python|7kyu|-|
-|0004|Codewars|[Calculate BMI](URL)|Python|8kyu|-|
+|0004|Codewars|[Calculate BMI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20BMI.py)|Python|8kyu|2107??|
 |0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210710|
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|

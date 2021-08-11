@@ -54,7 +54,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0024|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|SQL|8kyu|210715|
 |0023|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|SQL|8kyu|210715|
 |0022|Codewars|[Count by X](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20by%20X.py)|Python|8kyu|210714|
-|0021|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|210713|
+|0021|Codewars|[Maximum Depth of Nested Brackets](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Maximum%20Depth%20of%20Nested%20Brackets.py)|Python|6kyu|210713|
 |0020|Codewars|[SQL Basics: Simple JOIN with COUNT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20with%20COUNT.sql)|SQL|7kyu|210713|
 |0019|Codewars|[Easy SQL: LowerCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20LowerCase.sql)|SQL|8kyu|210712|
 |0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|SQL|8kyu|210712|

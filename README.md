@@ -5,10 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
-|0069|Codewars|[Function 1 - hello world](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Function%201%20-%20hello%20world.lisp)|CommonLisp|8kyu|210810|
-|0068|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|CommonLisp|8kyu|210810|
-|0067|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|
-|0066|BaekJoon|[사분면 고르기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|Python|14681|210810|
+|0070|Codewars|[Function 1 - hello world](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Function%201%20-%20hello%20world.lisp)|CommonLisp|8kyu|210810|
+|0069|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|CommonLisp|8kyu|210810|
+|0068|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|
+|0067|BaekJoon|[사분면 고르기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|Python|14681|210810|
 |0066|BaekJoon|[윤년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A4%EB%85%84.py)|Python|2753|210810|
 |0065|BaekJoon|[시험 성적](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.py)|Python|9498|210810|
 |0064|BaekJoon|[소트인사이드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)|Python|1427|210810|
@@ -47,14 +47,14 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0031|Codewars|[Christmas tree](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Christmas%20tree.py)|Python|6kyu|210723|
 |0030|Codewars|[Replace With Alphabet Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Replace%20With%20Alphabet%20Position.py)|Python|6kyu|210722|
 |0029|Codewars|[Cost of my ride](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Cost%20of%20my%20ride.py)|Python|7kyu|210721|
-|0028|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|210720|
-|0027|Codewars|[Vowels Back](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowels%20Back.py)|Python|6kyu|210720|
-|0026|Codewars|[Remove First and Last Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20First%20and%20Last%20Character.py)|Python|8kyu|210719|
-|0025|Codewars|[Easy SQL: Square Root and Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Square%20Root%20and%20Log.sql)|SQL|8kyu|210716|
-|0024|Codewars|[SQL Basics: Simple DISTINCT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20DISTINCT.sql)|SQL|8kyu|210715|
-|0023|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|SQL|8kyu|210715|
-|0022|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|SQL|8kyu|210715|
-|0021|Codewars|[Count by X](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20by%20X.py)|Python|8kyu|210714|
+|0028|Codewars|[Vowels Back](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowels%20Back.py)|Python|6kyu|210720|
+|0027|Codewars|[Remove First and Last Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20First%20and%20Last%20Character.py)|Python|8kyu|210719|
+|0026|Codewars|[Easy SQL: Square Root and Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Square%20Root%20and%20Log.sql)|SQL|8kyu|210716|
+|0025|Codewars|[SQL Basics: Simple DISTINCT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20DISTINCT.sql)|SQL|8kyu|210715|
+|0024|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|SQL|8kyu|210715|
+|0023|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|SQL|8kyu|210715|
+|0022|Codewars|[Count by X](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20by%20X.py)|Python|8kyu|210714|
+|0021|Codewars|[Maximum Depth of Nested Brackets](URL)|Python|6kyu|210713|
 |0020|Codewars|[SQL Basics: Simple JOIN with COUNT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20with%20COUNT.sql)|SQL|7kyu|210713|
 |0019|Codewars|[Easy SQL: LowerCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20LowerCase.sql)|SQL|8kyu|210712|
 |0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|SQL|8kyu|210712|

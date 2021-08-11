@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0071|Codewars|[Sum The Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20The%20Strings.py)|Python|8kyu|210811|
 |0070|Codewars|[Function 1 - hello world](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Function%201%20-%20hello%20world.lisp)|CommonLisp|8kyu|210810|
 |0069|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|CommonLisp|8kyu|210810|
 |0068|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|

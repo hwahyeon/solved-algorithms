@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0075|Codewars|[SQL Basics: Mod](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Mod.sql)|SQL|8kyu|210812|
 |0074|BaekJoon|[단어의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|1152|210812|
 |0073|BaekJoon|[숫자의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9.py)|Python|11720|210812|
 |0072|BaekJoon|[한수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EC%88%98.py)|Python|1065|210811|

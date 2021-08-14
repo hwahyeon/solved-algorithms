@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0080|Codewars|[
+Valid Phone Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Valid%20Phone%20Number.py)|Python|6kyu|210814|
 |0079|BaekJoon|[명령 프롬프트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%85%EB%A0%B9%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.py)|Python|1032|210813|
 |0078|Codewars|[Collect Tuition (SQL for Beginners #4)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)|SQL|8kyu|210813|
 |0077|Codewars|[Register for the Party (SQL for Beginners #3)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).sql)|SQL|8kyu|210813|

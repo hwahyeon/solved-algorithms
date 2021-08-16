@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0093|Codewars|[Gravity Flip](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Gravity%20Flip.lisp)|CommonLisp|8kyu|210816|
 |0092|Codewars|[Playing with digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Playing%20with%20digits.py)|Python|6kyu|210816|
 |0091|Codewars|[Drying Potatoes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Drying%20Potatoes.lisp)|CommonLisp|7kyu|210815|
 |0090|BaekJoon|[아스키 코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C.py)|Python|11654|210815|

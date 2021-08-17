@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0096|Codewars|[Multiples of 3 or 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiples%20of%203%20or%205.py)|Python|6kyu|210817|
 |0095|Codewars|[Find the odd int](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20odd%20int.py)|Python|6kyu|210817|
 |0094|BaekJoon|[A+B - 7](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%207.py)|Python|11021|210816|
 |0093|Codewars|[Gravity Flip](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Gravity%20Flip.lisp)|CommonLisp|8kyu|210816|

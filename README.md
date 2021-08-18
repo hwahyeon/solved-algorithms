@@ -5,10 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
-|0103|BaekJoon|[A+B - 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|2558|210817|
-|0102|BaekJoon|[A/B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|1008|210817|
-|0101|BaekJoon|[A-B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|1001|210817|
-|0100|BaekJoon|[A×B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|10998|210817|
+|0103|BaekJoon|[A+B - 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%202.py)|Python|2558|210817|
+|0102|BaekJoon|[A/B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%EF%BC%8FB.py)|Python|1008|210817|
+|0101|BaekJoon|[A-B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A-B.py)|Python|1001|210817|
+|0100|BaekJoon|[A×B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%C3%97B.py)|Python|10998|210817|
 |0099|Codewars|[Is it a number?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20a%20number.py)|Python|8kyu|210818|
 |0098|BaekJoon|[문자열 반복](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|2675|210817|
 |0097|Codewars|[altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20altERnaTIng%20cAsE%20%3C%3D%3E%20ALTerNAtiNG%20CaSe.py)|Python|8kyu|210817|

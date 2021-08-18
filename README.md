@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0099|Codewars|[Is it a number?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20a%20number.py)|Python|8kyu|210818|
 |0098|BaekJoon|[문자열 반복](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.py)|Python|2675|210817|
 |0097|Codewars|[altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20altERnaTIng%20cAsE%20%3C%3D%3E%20ALTerNAtiNG%20CaSe.py)|Python|8kyu|210817|
 |0096|Codewars|[Multiples of 3 or 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiples%20of%203%20or%205.py)|Python|6kyu|210817|

@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0105|BaekJoon|[팰린드롬인지 확인하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)|Python|10988|210819|
+|0104|BaekJoon|[큰 수 A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20A%2BB.py)|Python|10757|210819|
 |0103|BaekJoon|[A+B - 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%202.py)|Python|2558|210818|
 |0102|BaekJoon|[A/B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%EF%BC%8FB.py)|Python|1008|210818|
 |0101|BaekJoon|[A-B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A-B.py)|Python|1001|210818|

@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0108|Codewars|[Jenny's secret message](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Jenny's%20secret%20message.py)|Python|8kyu|210820|
 |0107|BaekJoon|[A+B - 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%205.py)|Python|10952|210820|
 |0106|Codewars|[V A P O R C O D E](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20V%20A%20P%20O%20R%20C%20O%20D%20E.py)|Python|7kyu|210819|
 |0105|BaekJoon|[팰린드롬인지 확인하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)|Python|10988|210819|

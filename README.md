@@ -5,7 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
-|0112|Programmers|[음양 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|8958|210822|
+|0112|Programmers|[음양 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|Level1|210822|
 |0111|BaekJoon|[OX퀴즈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20OX%ED%80%B4%EC%A6%88.py)|Python|8958|210821|
 |0110|Codewars|[Grasshopper - Summation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Grasshopper%20-%20Summation.lisp)|CommonLisp|8kyu|210821|
 |0109|Codewars|[Reverse words](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20words.py)|Python|7kyu|210821|

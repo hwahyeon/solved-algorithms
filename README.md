@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|---|---|---|---|:---:|
+|0111|BaekJoon|[OX퀴즈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20OX%ED%80%B4%EC%A6%88.py)|Python|8958|210821|
+|0110|Codewars|[Grasshopper - Summation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Grasshopper%20-%20Summation.lisp)|CommonLisp|8kyu|210821|
 |0109|Codewars|[Reverse words](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20words.py)|Python|7kyu|210821|
 |0108|Codewars|[Jenny's secret message](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Jenny's%20secret%20message.py)|Python|8kyu|210820|
 |0107|BaekJoon|[A+B - 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%205.py)|Python|10952|210820|

@@ -5,13 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0123|Programmers|[NULL 처리하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59410|210824|
-|0123|Programmers|[이름이 있는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59407|210824|
-|0123|Programmers|[이름이 없는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59039|210824|
-|0123|Programmers|[중복 제거하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.mysql)|MySQL|59408|210824|
-|0123|Programmers|[동물 수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59406|210824|
-|0123|Programmers|[최솟값 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59038|210824|
-|0123|Programmers|[최댓값 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59415|210824|
+|0130|Programmers|[NULL 처리하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59410|210824|
+|0129|Programmers|[이름이 있는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59407|210824|
+|0128|Programmers|[이름이 없는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59039|210824|
+|0127|Programmers|[중복 제거하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.mysql)|MySQL|59408|210824|
+|0126|Programmers|[동물 수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59406|210824|
+|0125|Programmers|[최솟값 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59038|210824|
+|0124|Programmers|[최댓값 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59415|210824|
 |0123|Programmers|[상위 n개 레코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%83%81%EC%9C%84%20n%EA%B0%9C%20%EB%A0%88%EC%BD%94%EB%93%9C.mysql)|MySQL|59405|210824|
 |0122|Programmers|[여러 기준으로 정렬하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%97%AC%EB%9F%AC%20%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59404|210824|
 |0121|Programmers|[동물의 아이디와 이름](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%20%EC%9D%B4%EB%A6%84.mysql)|MySQL|59403|210824|

@@ -6,7 +6,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
 |0117|Programmers|[모든 레코드 조회하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%AA%A8%EB%93%A0%20%EB%A0%88%EC%BD%94%EB%93%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.mysql)|MySQL|59034|210824|
-|0116|Programmers|[위클리 챌린지 08월 1주차](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%2008%EC%9B%94%201%EC%A3%BC%EC%B0%A8.py|Python|82612|210824|
+|0116|Programmers|[위클리 챌린지 08월 1주차](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%2008%EC%9B%94%201%EC%A3%BC%EC%B0%A8.py)|Python|82612|210824|
 |0115|Codewars|[Grasshopper - Messi Goals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Messi%20Goals.py)|Python|8kyu|210823|
 |0114|BaekJoon|[크냐?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%AC%EB%83%90.py)|Python|4101|210822|
 |0113|Codewars|[Grasshopper - Function syntax debugging](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Function%20syntax%20debugging.py)|Python|8kyu|210822|

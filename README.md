@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0137|Codewars|[SQL Basics: Simple GROUP BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20GROUP%20BY.sql)|SQL|7kyu|210824|
 |0136|Programmers|[이름에 el이 들어가는 동물 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%97%90%20el%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59047|210824|
 |0135|Programmers|[루시와 엘라 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59046|210824|
 |0134|Programmers|[입양 시각 구하기(2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(2).mysql)|MySQL|59413|210824|

@@ -5,6 +5,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0136|Programmers|[이름에 el이 들어가는 동물 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%97%90%20el%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59047|210824|
+|0135|Programmers|[루시와 엘라 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59046|210824|
+|0134|Programmers|[입양 시각 구하기(2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(2).mysql)|MySQL|59413|210824|
+|0133|Programmers|[입양 시각 구하기(1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1).mysql)|MySQL|59412|210824|
+|0132|Programmers|[동명 동물 수 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59041|210824|
+|0131|Programmers|[고양이와 개는 몇 마리 있을까](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.mysql)|MySQL|59040|210824|
 |0130|Programmers|[NULL 처리하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.mysql)|MySQL|59410|210824|
 |0129|Programmers|[이름이 있는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59407|210824|
 |0128|Programmers|[이름이 없는 동물의 아이디](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.mysql)|MySQL|59039|210824|

@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0145|Codewars|[Highest Scoring Word](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Highest%20Scoring%20Word.py)|Python|6kyu|210825|
 |0144|Programmers|[보호소에서 중성화한 동물](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%20%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%20%EB%8F%99%EB%AC%BC.mysql)|MySQL|59045|210825|
 |0143|Programmers|[있었는데요 없었습니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94%20%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.mysql)|MySQL|59043|210825|
 |0142|Programmers|[없어진 기록 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%97%86%EC%96%B4%EC%A7%84%20%EA%B8%B0%EB%A1%9D%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59042|210825|

@@ -5,11 +5,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0144|Programmers|[핸드폰 번호 가리기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|Python|12948|210826|
-|0144|Programmers|[가운데 글자 가져오기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py)|Python|12903|210826|
-|0144|Programmers|[문자열 내 p와 y의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|12916|210826|
-|0144|Programmers|[두 개 뽑아서 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|68644|210826|
-|0144|Programmers|[행렬의 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py)|Python|12950|210826|
+|0150|Programmers|[핸드폰 번호 가리기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|Python|12948|210826|
+|0149|Programmers|[가운데 글자 가져오기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py)|Python|12903|210826|
+|0148|Programmers|[문자열 내 p와 y의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|12916|210826|
+|0147|Programmers|[두 개 뽑아서 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|68644|210826|
+|0146|Programmers|[행렬의 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py)|Python|12950|210826|
 |0145|Codewars|[Highest Scoring Word](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Highest%20Scoring%20Word.py)|Python|6kyu|210825|
 |0144|Programmers|[보호소에서 중성화한 동물](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%20%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%20%EB%8F%99%EB%AC%BC.mysql)|MySQL|59045|210825|
 |0143|Programmers|[있었는데요 없었습니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94%20%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.mysql)|MySQL|59043|210825|

@@ -5,7 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0151|Codewars|[Vowel Count](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowel%20Count.py)|Python|7kyu|210827|
+|0153|BaekJoon|[A+B - 8](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%208.py)|Python|11022|210827|
+|0152|Codewars|[Vowel Count](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowel%20Count.py)|Python|7kyu|210827|
 |0151|Codewars|[Words to sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Words%20to%20sentence.py)|Python|7kyu|210826|
 |0150|Programmers|[핸드폰 번호 가리기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|Python|12948|210826|
 |0149|Programmers|[가운데 글자 가져오기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py)|Python|12903|210826|

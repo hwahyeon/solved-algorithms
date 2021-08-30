@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0157|BaekJoon|[평균 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%20%EC%A0%90%EC%88%98.py)|Python|10039|210830|
+|0156|Codewars|[Sort and Star](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20and%20Star.py)|Python|8kyu|210830|
 |0157|BaekJoon|[나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%A8%B8%EC%A7%80.py)|Python|10430|210829|
 |0156|Codewars|[Returning Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Returning%20Strings.py)|Python|8kyu|210829|
 |0155|BaekJoon|[세 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%20%EC%88%98.py)|Python|10817|210828|

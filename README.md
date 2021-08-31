@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0156|Codewars|[Calculate average](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20average.py)|Python|8kyu|210831|
+|0157|BaekJoon|[0 = not cute / 1 = cute](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%200%20%3D%20not%20cute%201%20%3D%20cute.py)|Python|10886|210831|
 |0157|BaekJoon|[평균 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%20%EC%A0%90%EC%88%98.py)|Python|10039|210830|
 |0156|Codewars|[Sort and Star](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20and%20Star.py)|Python|8kyu|210830|
 |0157|BaekJoon|[나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%A8%B8%EC%A7%80.py)|Python|10430|210829|

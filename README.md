@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0164|Codewars|[Chinese Numeral Encoder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chinese%20Numeral%20Encoder.py)|Python|4kyu|210901|
+|0163|BaekJoon|[학점계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0.py)|Python|2754|210901|
+|0162|BaekJoon|[Yangjojang of The Year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Yangjojang%20of%20The%20Year.py)|Python|11557|210901|
 |0161|Codewars|[Calculate average](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Calculate%20average.py)|Python|8kyu|210831|
 |0160|BaekJoon|[0 = not cute / 1 = cute](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%200%20%3D%20not%20cute%201%20%3D%20cute.py)|Python|10886|210831|
 |0159|BaekJoon|[평균 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%20%EC%A0%90%EC%88%98.py)|Python|10039|210830|

@@ -5,6 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0173|Programmers|[자연수 뒤집어 배열로 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|12932|210903|
+|0172|Programmers|[문자열을 정수로 바꾸기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.py)|Python|12925|210903|
+|0171|Programmers|[수박수박수박수박수박수?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py)|Python|12922|210903|
+|0170|Programmers|[서울에서 김서방 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.py)|Python|12919|210903|
+|0169|Programmers|[시저 암호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.py)|Python|12926|210903|
+|0168|Programmers|[x만큼 간격이 있는 n개의 숫자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py)|Python|12954|210903|
+|0167|Programmers|[직사각형 별찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.py)|Python|12969|210902|
 |0166|Programmers|[3진법 뒤집기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|Python|68935|210902|
 |0165|Codewars|[Even or Odd](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Even%20or%20Odd.py)|Python|8kyu|210902|
 |0164|Codewars|[Chinese Numeral Encoder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chinese%20Numeral%20Encoder.py)|Python|4kyu|210901|

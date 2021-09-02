@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0166|Programmers|[3진법 뒤집기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|Python|68935|210902|
+|0165|Codewars|[Even or Odd](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Even%20or%20Odd.py)|Python|8kyu|210902|
 |0164|Codewars|[Chinese Numeral Encoder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chinese%20Numeral%20Encoder.py)|Python|4kyu|210901|
 |0163|BaekJoon|[학점계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0.py)|Python|2754|210901|
 |0162|BaekJoon|[Yangjojang of The Year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Yangjojang%20of%20The%20Year.py)|Python|11557|210901|

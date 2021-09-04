@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0177|Codewars|[Quarter of the year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Quarter%20of%20the%20year.py)|Python|8kyu|210904|
+|0176|BaekJoon|[곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B1%EC%85%88.py)|Python|2588|210904|
 |0175|Codewars|[Highest and Lowest](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Highest%20and%20Lowest.py)|Python|7kyu|210903|
 |0174|Programmers|[K번째수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20K%EB%B2%88%EC%A7%B8%EC%88%98.py)|Python|42748|210903|
 |0173|Programmers|[자연수 뒤집어 배열로 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|12932|210903|

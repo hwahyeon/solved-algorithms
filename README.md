@@ -5,6 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0186|Codewars|[SQL Basics - Trimming the Field](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Trimming%20the%20Field.sql)|SQL|7kyu|210905|
+|0185|Codewars|[Easy SQL: Counting and Grouping](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Counting%20and%20Grouping.sql)|SQL|7kyu|210905|
+|0184|Codewars|[Best-Selling Books (SQL for Beginners #5)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)|SQL|7kyu|210905|
+|0183|Codewars|[SQL Basics: Simple JOIN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN.sql)|SQL|7kyu|210905|
 |0182|Programmers|[두 정수 사이의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.py)|Python|12912|210905|
 |0181|Programmers|[문자열 내림차순으로 배치하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python|12917|210905|
 |0180|Programmers|[평균 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|12944|210905|

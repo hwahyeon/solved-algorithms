@@ -5,6 +5,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0182|Programmers|[두 정수 사이의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.py)|Python|12912|210905|
+|0181|Programmers|[문자열 내림차순으로 배치하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python|12917|210905|
+|0180|Programmers|[평균 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|12944|210905|
+|0179|Programmers|[자릿수 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|12931|210905|
+|0178|Programmers|[문자열 다루기 기본](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.py)|Python|12918|210905|
 |0177|Codewars|[Quarter of the year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Quarter%20of%20the%20year.py)|Python|8kyu|210904|
 |0176|BaekJoon|[곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B1%EC%85%88.py)|Python|2588|210904|
 |0175|Codewars|[Highest and Lowest](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Highest%20and%20Lowest.py)|Python|7kyu|210903|

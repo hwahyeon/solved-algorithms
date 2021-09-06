@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0186|Codewars|[SQL with Harry Potter: Sorting Hat Comparators](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Harry%20Potter:%20Sorting%20Hat%20Comparators.sql)|SQL|7kyu|210906|
 |0186|Codewars|[SQL Basics - Trimming the Field](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Trimming%20the%20Field.sql)|SQL|7kyu|210905|
 |0185|Codewars|[Easy SQL: Counting and Grouping](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Counting%20and%20Grouping.sql)|SQL|7kyu|210905|
 |0184|Codewars|[Best-Selling Books (SQL for Beginners #5)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)|SQL|7kyu|210905|

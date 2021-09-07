@@ -5,11 +5,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0187|Codewars|[GROCERY STORE: Inventory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Inventory.sql)|SQL|7kyu|210907|
-|0187|Codewars|[GROCERY STORE: Support Local Products](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Support%20Local%20Products.sql)|SQL|7kyu|210907|
-|0187|Codewars|[GROCERY STORE: Logistic Optimisation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Logistic%20Optimisation.sql)|SQL|7kyu|210907|
-|0187|Codewars|[BASICS: Length based SELECT with LIKE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20BASICS:%20Length%20based%20SELECT%20with%20LIKE.sql)|SQL|7kyu|210907|
-|0187|Codewars|[Easy SQL: Absolute Value and Log to Base](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Absolute%20Value%20and%20Log%20to%20Base.sql)|SQL|7kyu|210907|
+|0199|Codewars|[GROCERY STORE: Inventory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Inventory.sql)|SQL|7kyu|210907|
+|0198|Codewars|[GROCERY STORE: Support Local Products](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Support%20Local%20Products.sql)|SQL|7kyu|210907|
+|0197|Codewars|[GROCERY STORE: Logistic Optimisation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Logistic%20Optimisation.sql)|SQL|7kyu|210907|
+|0196|Codewars|[BASICS: Length based SELECT with LIKE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20BASICS:%20Length%20based%20SELECT%20with%20LIKE.sql)|SQL|7kyu|210907|
+|0195|Codewars|[Easy SQL: Absolute Value and Log to Base](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Absolute%20Value%20and%20Log%20to%20Base.sql)|SQL|7kyu|210907|
 |0194|Programmers|[이상한 문자 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|12930|210907|
 |0193|Programmers|[제일 작은 수 제거하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)|Python|12935|210907|
 |0192|Programmers|[정수 내림차순으로 배치하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python|12933|210907|

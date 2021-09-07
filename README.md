@@ -94,7 +94,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0113|Codewars|[Grasshopper - Function syntax debugging](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Function%20syntax%20debugging.py)|Python|8kyu|210822|
 |0112|Programmers|[음양 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|76501|210822|
 |0111|BaekJoon|[OX퀴즈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20OX%ED%80%B4%EC%A6%88.py)|Python|8958|210821|
-|0110|Codewars|[Grasshopper - Summation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Grasshopper%20-%20Summation.lisp)|Common Lisp|8kyu|210821|
+|0110|Codewars|[Grasshopper - Summation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20Grasshopper%20-%20Summation.lisp)|Common Lisp|8kyu|210821|
 |0109|Codewars|[Reverse words](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20words.py)|Python|7kyu|210821|
 |0108|Codewars|[Jenny's secret message](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Jenny's%20secret%20message.py)|Python|8kyu|210820|
 |0107|BaekJoon|[A+B - 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%205.py)|Python|10952|210820|
@@ -111,11 +111,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0096|Codewars|[Multiples of 3 or 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiples%20of%203%20or%205.py)|Python|6kyu|210817|
 |0095|Codewars|[Find the odd int](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20odd%20int.py)|Python|6kyu|210817|
 |0094|BaekJoon|[A+B - 7](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%207.py)|Python|11021|210816|
-|0093|Codewars|[Gravity Flip](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Gravity%20Flip.lisp)|Common Lisp|8kyu|210816|
+|0093|Codewars|[Gravity Flip](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20Gravity%20Flip.lisp)|Common Lisp|8kyu|210816|
 |0092|Codewars|[Playing with digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Playing%20with%20digits.py)|Python|6kyu|210816|
-|0091|Codewars|[Drying Potatoes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Drying%20Potatoes.lisp)|Common Lisp|7kyu|210815|
+|0091|Codewars|[Drying Potatoes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20Drying%20Potatoes.lisp)|Common Lisp|7kyu|210815|
 |0090|BaekJoon|[아스키 코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C.py)|Python|11654|210815|
-|0089|Codewars|[Maximum Multiple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Maximum%20Multiple.lisp)|Common Lisp|7kyu|210815|
+|0089|Codewars|[Maximum Multiple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20Maximum%20Multiple.lisp)|Common Lisp|7kyu|210815|
 |0088|BaekJoon|[별 찍기 - 8](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%208.py)|Python|2445|210814|
 |0087|BaekJoon|[별 찍기 - 7](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%207.py)|Python|2444|210814|
 |0086|BaekJoon|[별 찍기 - 6](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%206.py)|Python|2443|210814|
@@ -134,8 +134,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0073|BaekJoon|[숫자의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9.py)|Python|11720|210812|
 |0072|BaekJoon|[한수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EC%88%98.py)|Python|1065|210811|
 |0071|Codewars|[Sum The Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20The%20Strings.py)|Python|8kyu|210811|
-|0070|Codewars|[Function 1 - hello world](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20Function%201%20-%20hello%20world.lisp)|Common Lisp|8kyu|210810|
-|0069|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/CommonLisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|Common Lisp|8kyu|210810|
+|0070|Codewars|[Function 1 - hello world](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20Function%201%20-%20hello%20world.lisp)|Common Lisp|8kyu|210810|
+|0069|Codewars|[You Can't Code Under Pressure #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/Codewars%20%7C%20You%20Can't%20Code%20Under%20Pressure%20%231.lisp)|Common Lisp|8kyu|210810|
 |0068|BaekJoon|[알람 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.py)|Python|2884|210810|
 |0067|BaekJoon|[사분면 고르기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|Python|14681|210810|
 |0066|BaekJoon|[윤년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A4%EB%85%84.py)|Python|2753|210810|

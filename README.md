@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0201|Codewars|[You only need one - Beginner](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You%20only%20need%20one%20-%20Beginner.py)|Python|8kyu|210909|
+|0200|Codewars|[The Feast of Many Beasts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20The%20Feast%20of%20Many%20Beasts.py)|Python|8kyu|210908|
 |0199|Codewars|[GROCERY STORE: Inventory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Inventory.sql)|SQL|7kyu|210907|
 |0198|Codewars|[GROCERY STORE: Support Local Products](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Support%20Local%20Products.sql)|SQL|7kyu|210907|
 |0197|Codewars|[GROCERY STORE: Logistic Optimisation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Logistic%20Optimisation.sql)|SQL|7kyu|210907|

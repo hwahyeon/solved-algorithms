@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0204|Codewars|[SQL Basics: Truncating](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Truncating.sql)|SQL|7kyu|210910|
+|0203|BaekJoon|[소음](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EC%9D%8C.py)|Python|2935|210910|
 |0202|BaekJoon|[과자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%9E%90.py)|Python|10156|210909|
 |0201|Codewars|[You only need one - Beginner](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You%20only%20need%20one%20-%20Beginner.py)|Python|8kyu|210909|
 |0200|Codewars|[The Feast of Many Beasts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20The%20Feast%20of%20Many%20Beasts.py)|Python|8kyu|210908|

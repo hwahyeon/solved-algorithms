@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0206|Programmers|[약수의 개수와 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py)|Python|77884|210911|
+|0205|Codewars|[What is between?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What%20is%20between.py)|Python|8kyu|210911|
 |0204|Codewars|[SQL Basics: Truncating](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Truncating.sql)|SQL|7kyu|210910|
 |0203|BaekJoon|[소음](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EC%9D%8C.py)|Python|2935|210910|
 |0202|BaekJoon|[과자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%9E%90.py)|Python|10156|210909|

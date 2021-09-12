@@ -5,6 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0213|Codewars|[Is it a palindrome?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20a%20palindrome.py)|Python|8kyu|210912|
+|0212|Programmers|[약수의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.py)|Python|12928|210912|
+|0211|Programmers|[2016년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%202016%EB%85%84.py)|Python|12901|210912|
+|0210|Programmers|[나누어 떨어지는 숫자 배열](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.py)|Python|12910|210912|
+|0209|Programmers|[행렬의 곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py)|Python|12949|210912|
+|0208|Programmers|[피보나치 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py)|Python|12945|210912|
+|0207|Programmers|[로또의 최고 순위와 최저 순위](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py)|Python|77484|210912|
 |0206|Programmers|[약수의 개수와 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py)|Python|77884|210911|
 |0205|Codewars|[What is between?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What%20is%20between.py)|Python|8kyu|210911|
 |0204|Codewars|[SQL Basics: Truncating](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Truncating.sql)|SQL|7kyu|210910|

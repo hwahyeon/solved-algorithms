@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0215|Codewars|[USD => CNY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20USD%20%3D%3E%20CNY.py)|Python|8kyu|210913|
+|0214|Programmers|[없는 숫자 더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|86051|210913|
 |0213|Codewars|[Is it a palindrome?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20a%20palindrome.py)|Python|8kyu|210912|
 |0212|Programmers|[약수의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.py)|Python|12928|210912|
 |0211|Programmers|[2016년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%202016%EB%85%84.py)|Python|12901|210912|

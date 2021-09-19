@@ -5,6 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0222|Codewars|[Format words into a sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Format%20words%20into%20a%20sentence.py)|Python|6kyu|210919|
+|0222|Codewars|[Sort Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20Numbers.py)|Python|7kyu|210918|
+|0222|Codewars|[Reversed Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reversed%20Strings.py)|Python|8kyu|210918|
+|0222|Codewars|[Float Precision](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Float%20Precision.py)|Python|7kyu|210917|
 |0222|Codewars|[Two Oldest Ages](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20Oldest%20Ages.py)|Python|7kyu|210916|
 |0221|BaekJoon|[주사위 세개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)|Python|2480|210916|
 |0220|Codewars|[All Star Code Challenge #18](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20Star%20Code%20Challenge%20%2318.py)|Python|7kyu|210915|

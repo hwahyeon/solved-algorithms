@@ -21,9 +21,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0223|BaekJoon|[개표](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C%ED%91%9C.py)|Python|10102|210917|
 |0222|Codewars|[Two Oldest Ages](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20Oldest%20Ages.py)|Python|7kyu|210916|
 |0221|BaekJoon|[주사위 세개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)|Python|2480|210916|
-|0219|BaekJoon|[저작권](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%EC%9E%91%EA%B6%8C.py)|Python|2914|210915|
-|0218|BaekJoon|[그릇](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B7%B8%EB%A6%87.py)|Python|7567|210915|
-|0220|Codewars|[All Star Code Challenge #18](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20Star%20Code%20Challenge%20%2318.py)|Python|7kyu|210915|
+|0220|BaekJoon|[저작권](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%EC%9E%91%EA%B6%8C.py)|Python|2914|210915|
+|0219|BaekJoon|[그릇](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B7%B8%EB%A6%87.py)|Python|7567|210915|
+|0218|Codewars|[All Star Code Challenge #18](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20Star%20Code%20Challenge%20%2318.py)|Python|7kyu|210915|
 |0217|Codewars|[Fundamentals: Return](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fundamentals:%20Return.py)|Python|8kyu|210914|
 |0216|BaekJoon|[알파벳 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.py)|Python|10809|210914|
 |0215|Codewars|[USD => CNY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20USD%20%3D%3E%20CNY.py)|Python|8kyu|210913|

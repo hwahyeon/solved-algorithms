@@ -5,20 +5,20 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0222|Codewars|[Leap Years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leap%20Years.py)|Python|7kyu|210921|
-|0221|BaekJoon|[R2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20R2.py)|Python|3046|210921|
-|0222|Codewars|[How many lightsabers do you own](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20lightsabers%20do%20you%20own.py)|Python|8kyu|210920|
-|0221|BaekJoon|[카드 바꿔치기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.py)|Python|18766|210920|
-|0222|Codewars|[Format words into a sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Format%20words%20into%20a%20sentence.py)|Python|6kyu|210919|
-|0221|BaekJoon|[합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%A9.py)|Python|8393|210919|
-|0221|BaekJoon|[N 찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%20%EC%B0%8D%EA%B8%B0.py)|Python|2741|210919|
-|0221|BaekJoon|[기찍 N](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B0%EC%B0%8D%20N.py)|Python|2742|210919|
-|0209|Programmers|[숫자 문자열과 영단어](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py)|Python|81301|210919|
-|0221|BaekJoon|[단어 공부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80.py)|Python|1157|210918|
-|0222|Codewars|[Sort Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20Numbers.py)|Python|7kyu|210918|
-|0222|Codewars|[Reversed Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reversed%20Strings.py)|Python|8kyu|210918|
-|0222|Codewars|[Float Precision](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Float%20Precision.py)|Python|7kyu|210917|
-|0221|BaekJoon|[개표](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C%ED%91%9C.py)|Python|10102|210917|
+|0236|Codewars|[Leap Years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leap%20Years.py)|Python|7kyu|210921|
+|0235|BaekJoon|[R2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20R2.py)|Python|3046|210921|
+|0234|Codewars|[How many lightsabers do you own](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20lightsabers%20do%20you%20own.py)|Python|8kyu|210920|
+|0233|BaekJoon|[카드 바꿔치기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.py)|Python|18766|210920|
+|0232|Codewars|[Format words into a sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Format%20words%20into%20a%20sentence.py)|Python|6kyu|210919|
+|0231|BaekJoon|[합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%A9.py)|Python|8393|210919|
+|0230|BaekJoon|[N 찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%20%EC%B0%8D%EA%B8%B0.py)|Python|2741|210919|
+|0229|BaekJoon|[기찍 N](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B0%EC%B0%8D%20N.py)|Python|2742|210919|
+|0228|Programmers|[숫자 문자열과 영단어](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py)|Python|81301|210919|
+|0227|BaekJoon|[단어 공부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80.py)|Python|1157|210918|
+|0226|Codewars|[Sort Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20Numbers.py)|Python|7kyu|210918|
+|0225|Codewars|[Reversed Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reversed%20Strings.py)|Python|8kyu|210918|
+|0224|Codewars|[Float Precision](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Float%20Precision.py)|Python|7kyu|210917|
+|0223|BaekJoon|[개표](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C%ED%91%9C.py)|Python|10102|210917|
 |0222|Codewars|[Two Oldest Ages](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20Oldest%20Ages.py)|Python|7kyu|210916|
 |0221|BaekJoon|[주사위 세개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)|Python|2480|210916|
 |0219|BaekJoon|[저작권](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%EC%9E%91%EA%B6%8C.py)|Python|2914|210915|

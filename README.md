@@ -8,7 +8,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0222|Codewars|[Leap Years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leap%20Years.py)|Python|7kyu|210921|
 |0221|BaekJoon|[R2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20R2.py)|Python|3046|210921|
 |0222|Codewars|[How many lightsabers do you own](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20lightsabers%20do%20you%20own.py)|Python|8kyu|210920|
-|0221|BaekJoon|[카드 바꿔치기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20R2.py)|Python|18766|210920|
+|0221|BaekJoon|[카드 바꿔치기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.py)|Python|18766|210920|
 |0222|Codewars|[Format words into a sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Format%20words%20into%20a%20sentence.py)|Python|6kyu|210919|
 |0221|BaekJoon|[합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%A9.py)|Python|8393|210919|
 |0221|BaekJoon|[N 찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%20%EC%B0%8D%EA%B8%B0.py)|Python|2741|210919|

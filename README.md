@@ -5,9 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0240|BaekJoon|[인공지능 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%8B%9C%EA%B3%84.py)|Python|2530|210925|
-|0240|BaekJoon|[화성 수학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%94%EC%84%B1%20%EC%88%98%ED%95%99.py)|Python|5355|210925|
-|0240|BaekJoon|[주사위 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84.py)|Python|10103|210924|
+|0245|BaekJoon|[인공지능 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%8B%9C%EA%B3%84.py)|Python|2530|210925|
+|0244|BaekJoon|[화성 수학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%94%EC%84%B1%20%EC%88%98%ED%95%99.py)|Python|5355|210925|
+|0243|BaekJoon|[주사위 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84.py)|Python|10103|210924|
 |0242|Codewars|[Convert string to camel case](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20string%20to%20camel%20case.py)|Python|6kyu|210924|
 |0241|Codewars|[Convert boolean values to strings 'Yes' or 'No'.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)|Python|8kyu|210923|
 |0240|BaekJoon|[TGN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20TGN.py)|Python|5063|210923|

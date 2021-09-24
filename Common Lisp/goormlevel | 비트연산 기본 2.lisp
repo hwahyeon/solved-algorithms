@@ -1,0 +1,5 @@
+(setq n (read))
+(setq w (read))
+(write (ash n (- w)))
+(terpri)
+(write (ash n w))

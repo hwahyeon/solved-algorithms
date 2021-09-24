@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0245|goormlevel|[비트연산 기본 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%20%EA%B8%B0%EB%B3%B8%201.lisp)|Common Lisp|1단계|210925|
+|0245|goormlevel|[비트연산 기본 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%20%EA%B8%B0%EB%B3%B8%202.lisp)|Common Lisp|1단계|210925|
 |0245|BaekJoon|[인공지능 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%8B%9C%EA%B3%84.py)|Python|2530|210925|
 |0244|BaekJoon|[화성 수학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%94%EC%84%B1%20%EC%88%98%ED%95%99.py)|Python|5355|210925|
 |0243|BaekJoon|[주사위 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84.py)|Python|10103|210924|
@@ -30,6 +32,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0223|BaekJoon|[개표](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C%ED%91%9C.py)|Python|10102|210917|
 |0222|Codewars|[Two Oldest Ages](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20Oldest%20Ages.py)|Python|7kyu|210916|
 |0221|BaekJoon|[주사위 세개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.py)|Python|2480|210916|
+|0245|goormlevel|[문자열 뒤집기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/goormlevel%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|Python|2단계|210915|
 |0220|BaekJoon|[저작권](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%EC%9E%91%EA%B6%8C.py)|Python|2914|210915|
 |0219|BaekJoon|[그릇](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B7%B8%EB%A6%87.py)|Python|7567|210915|
 |0218|Codewars|[All Star Code Challenge #18](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20Star%20Code%20Challenge%20%2318.py)|Python|7kyu|210915|

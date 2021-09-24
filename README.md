@@ -5,6 +5,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0234|Codewars|[Convert boolean values to strings 'Yes' or 'No'.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)|Python|8kyu|210923|
+|0235|BaekJoon|[TGN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20TGN.py)|Python|5063|210923|
+|0235|BaekJoon|[사칙연산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py)|Python|10869|210923|
+|0234|Codewars|[Number Of Occurrences](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Number%20Of%20Occurrences.py)|Python|7kyu|210922|
+|0235|BaekJoon|[오늘 날짜](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C.py)|Python|10699|210922|
 |0236|Codewars|[Leap Years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leap%20Years.py)|Python|7kyu|210921|
 |0235|BaekJoon|[R2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20R2.py)|Python|3046|210921|
 |0234|Codewars|[How many lightsabers do you own](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20lightsabers%20do%20you%20own.py)|Python|8kyu|210920|

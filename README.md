@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0251|Codewars|[Twisted Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Twisted%20Sum.py)|Python|6kyu|210925|
 |0250|Codewars|[Grouped by commas](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grouped%20by%20commas.py)|Python|6kyu|210925|
 |0249|BaekJoon|[Baseball](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Baseball.py)|Python|10214|210925|
 |0248|goormlevel|[비트연산 기본 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%20%EA%B8%B0%EB%B3%B8%201.lisp)|Common Lisp|1단계|210925|

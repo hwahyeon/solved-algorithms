@@ -1,0 +1,5 @@
+(setq n1 (read))
+(setq n2 (read))
+(setq n3 (read))
+(setq n4 (read))
+(write (* n1 n2 n3 n4))

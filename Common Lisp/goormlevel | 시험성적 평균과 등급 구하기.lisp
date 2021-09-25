@@ -11,5 +11,4 @@
 						(write-string "C")
 						(if (> res 59)
 								(write-string "D")
-								(write-string "F"))))
-		)
+								(write-string "F")))))

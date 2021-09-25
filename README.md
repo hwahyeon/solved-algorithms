@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0254|Codewars|[Collatz](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Collatz.py)|Python|6kyu|210926|
 |0253|goormlevel|[네 수의 곱](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%84%A4%20%EC%88%98%EC%9D%98%20%EA%B3%B1.lisp)|Common Lisp|1단계|210926|
 |0252|goormlevel|[시험성적 평균과 등급 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B7%A0%EA%B3%BC%20%EB%93%B1%EA%B8%89%20%EA%B5%AC%ED%95%98%EA%B8%B0.lisp)|Common Lisp|1단계|210926|
 |0251|Codewars|[Twisted Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Twisted%20Sum.py)|Python|6kyu|210925|

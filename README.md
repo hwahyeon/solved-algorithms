@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0250|Codewars|[Grouped by commas](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grouped%20by%20commas.py)|Python|6kyu|210925|
+|0249|BaekJoon|[Baseball](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Baseball.py)|Python|10214|210925|
 |0248|goormlevel|[비트연산 기본 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%20%EA%B8%B0%EB%B3%B8%201.lisp)|Common Lisp|1단계|210925|
 |0247|goormlevel|[비트연산 기본 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%20%EA%B8%B0%EB%B3%B8%202.lisp)|Common Lisp|1단계|210925|
 |0246|BaekJoon|[인공지능 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%8B%9C%EA%B3%84.py)|Python|2530|210925|

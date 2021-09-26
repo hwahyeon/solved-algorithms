@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0257|BaekJoon|[연세대학교](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90.py)|Python|15680|210926|
+|0256|BaekJoon|[Covid-19](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Covid-19.py)|Python|20673|210926|
+|0255|BaekJoon|[1998년생인 내가 태국에서는 2541년생?!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%201998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.py)|Python|18108|210926|
 |0254|Codewars|[Collatz](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Collatz.py)|Python|6kyu|210926|
 |0253|goormlevel|[네 수의 곱](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%84%A4%20%EC%88%98%EC%9D%98%20%EA%B3%B1.lisp)|Common Lisp|1단계|210926|
 |0252|goormlevel|[시험성적 평균과 등급 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B7%A0%EA%B3%BC%20%EB%93%B1%EA%B8%89%20%EA%B5%AC%ED%95%98%EA%B8%B0.lisp)|Common Lisp|1단계|210926|

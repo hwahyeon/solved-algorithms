@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0260|BaekJoon|[약수들의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py)|Python|9506|210927|
+|0259|Codewars|[Find the Mine!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20Mine!.py)|Python|6kyu|210927|
+|0258|Codewars|[Twisted Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Get%20Planet%20Name%20By%20ID.py)|Python|8kyu|210926|
 |0257|BaekJoon|[연세대학교](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90.py)|Python|15680|210926|
 |0256|BaekJoon|[Covid-19](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Covid-19.py)|Python|20673|210926|
 |0255|BaekJoon|[1998년생인 내가 태국에서는 2541년생?!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%201998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.py)|Python|18108|210926|

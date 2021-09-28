@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0261|Codewars|[Simple Sentences](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Sentences.py)|Python|6kyu|210929|
+|0261|Codewars|[Bit Counting](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Bit%20Counting.py)|Python|6kyu|210929|
 |0265|BaekJoon|[빠른 A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%A0%EB%A5%B8%20A%2BB.py)|Python|15552|210928|
 |0264|BaekJoon|[개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C.py)|Python|10172|210928|
 |0263|BaekJoon|[고양이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EC%96%91%EC%9D%B4.py)|Python|10171|210928|

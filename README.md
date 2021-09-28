@@ -5,6 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0265|BaekJoon|[빠른 A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%A0%EB%A5%B8%20A%2BB.py)|Python|15552|210928|
+|0264|BaekJoon|[개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C.py)|Python|10172|210928|
+|0263|BaekJoon|[고양이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EC%96%91%EC%9D%B4.py)|Python|10171|210928|
+|0262|BaekJoon|[A+B - 4](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%204.py)|Python|10951|210928|
 |0261|Codewars|[Matrix Addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Matrix%20Addition.py)|Python|6kyu|210928|
 |0260|BaekJoon|[약수들의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py)|Python|9506|210927|
 |0259|Codewars|[Find the Mine!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20Mine!.py)|Python|6kyu|210927|

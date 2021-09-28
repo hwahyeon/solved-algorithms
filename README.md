@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0261|Codewars|[Matrix Addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Matrix%20Addition.py)|Python|6kyu|210928|
 |0260|BaekJoon|[약수들의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py)|Python|9506|210927|
 |0259|Codewars|[Find the Mine!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20Mine!.py)|Python|6kyu|210927|
 |0258|Codewars|[Get Planet Name By ID](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Get%20Planet%20Name%20By%20ID.py)|Python|8kyu|210926|

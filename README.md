@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0272|Codewars|[Opposite number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Opposite%20number.py)|Python|8kyu|211001|
+|0271|BaekJoon|[구구단](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|Python|2739|211001|
 |0270|BaekJoon|[A+B - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%209.py)|Python|15740|210930|
 |0269|BaekJoon|[A+B - 6](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%206.py)|Python|10953|210929|
 |0268|BaekJoon|[A+B - 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%203.py)|Python|10950|210929|

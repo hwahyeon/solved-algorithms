@@ -5,6 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0276|Codewars|[Find the Missing Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20Missing%20Number.py)|Python|7kyu|211002|
+|0275|BaekJoon|[평균](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0.py)|Python|1546|211002|
+|0274|BaekJoon|[나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%A8%B8%EC%A7%80_.py)|Python|3052|211002|
+|0273|BaekJoon|[숫자의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|2577|211002|
 |0272|Codewars|[Opposite number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Opposite%20number.py)|Python|8kyu|211001|
 |0271|BaekJoon|[구구단](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|Python|2739|211001|
 |0270|BaekJoon|[A+B - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%2BB%20-%209.py)|Python|15740|210930|

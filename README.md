@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0279|BaekJoon|[직각삼각형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py)|Python|4153|211004|
+|0278|Codewars|[Sum of Digits / Digital Root](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20Digits%20%EF%BC%8F%20Digital%20Root.py)|Python|6kyu|211003|
+|0277|BaekJoon|[정수 N개의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%95%EC%88%98%20N%EA%B0%9C%EC%9D%98%20%ED%95%A9.py)|Python|15596|211003|
 |0276|Codewars|[Find the Missing Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20Missing%20Number.py)|Python|7kyu|211002|
 |0275|BaekJoon|[평균](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0.py)|Python|1546|211002|
 |0274|BaekJoon|[나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%A8%B8%EC%A7%80_.py)|Python|3052|211002|

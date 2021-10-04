@@ -1,0 +1,8 @@
+(setq n (read))
+(defparameter *res* (read))
+(dotimes (i (- n 1))
+	(setq r (read))
+	(if (> r *res*)
+			(defparameter *res* *res*)
+			(defparameter *res* r)))
+(write *res*)

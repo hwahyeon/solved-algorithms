@@ -1,0 +1,5 @@
+(setq n1 (read))
+(setq n2 (read))
+(write (floor n1 n2))
+(princ " ")
+(write (mod n1 n2))

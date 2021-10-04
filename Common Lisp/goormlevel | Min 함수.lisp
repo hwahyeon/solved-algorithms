@@ -1,0 +1,5 @@
+(setq n1 (read))
+(setq n2 (read))
+(if (> n1 n2)
+		(write n2)
+		(write n1))

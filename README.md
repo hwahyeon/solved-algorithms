@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0285|goormlevel|[Min 함수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Min%20%ED%95%A8%EC%88%98.lisp)|Common Lisp|1단계|211005|
 |0284|Codewars|[HTML dynamic color string generation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20HTML%20dynamic%20color%20string%20generation.py)|Python|6kyu|211005|
 |0283|Codewars|[Counting Duplicates](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Counting%20Duplicates.py)|Python|6kyu|211005|
 |0282|Codewars|[Hello, Name or World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hello%2C%20Name%20or%20World!.py)|Python|8kyu|211004|

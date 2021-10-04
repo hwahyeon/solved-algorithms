@@ -1,0 +1,7 @@
+(setq n (read))
+(do ((i 1 (1+ i)))
+    ((>= i (+ n 1)))
+		(if (= (mod i 3) 0)
+			(write-string "X ")
+			(format t "~D " i)
+			))

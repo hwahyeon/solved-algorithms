@@ -5,6 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0298|goormlevel|[3의 배수 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%203%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B2%8C%EC%9E%84.lisp)|Common Lisp|1단계|211005|
+|0297|goormlevel|[홀짝 판별](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%ED%99%80%EC%A7%9D%20%ED%8C%90%EB%B3%84.lisp)|Common Lisp|1단계|211005|
+|0296|goormlevel|[3과 5의 배수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%203%EA%B3%BC%205%EC%9D%98%20%EB%B0%B0%EC%88%98.lisp)|Common Lisp|1단계|211005|
+|0295|goormlevel|[리그 경기 횟수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%A6%AC%EA%B7%B8%20%EA%B2%BD%EA%B8%B0%20%ED%9A%9F%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
+|0294|goormlevel|[최소값](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%B5%9C%EC%86%8C%EA%B0%92.lisp)|Common Lisp|1단계|211005|
+|0293|goormlevel|[Substring](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Substring.lisp)|Common Lisp|1단계|211005|
+|0292|goormlevel|[윤년 (Leap Year)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%9C%A4%EB%85%84%20(Leap%20Year).lisp)|Common Lisp|1단계|211005|
 |0291|goormlevel|[Hello Goorm !](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Hello%20Goorm%20!.lisp)|Common Lisp|1단계|211005|
 |0290|goormlevel|[공백 없애기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EA%B3%B5%EB%B0%B1%20%EC%97%86%EC%95%A0%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
 |0289|goormlevel|[ASCII 코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20ASCII%20%EC%BD%94%EB%93%9C.lisp)|Common Lisp|1단계|211005|

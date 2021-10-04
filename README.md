@@ -5,12 +5,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0285|goormlevel|[Hello Goorm !](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Hello%20Goorm%20!.lisp)|Common Lisp|1단계|211005|
-|0285|goormlevel|[공백 없애기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EA%B3%B5%EB%B0%B1%20%EC%97%86%EC%95%A0%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
-|0285|goormlevel|[ASCII 코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20ASCII%20%EC%BD%94%EB%93%9C.lisp)|Common Lisp|1단계|211005|
-|0285|goormlevel|[몫과 나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%AA%AB%EA%B3%BC%20%EB%82%98%EB%A8%B8%EC%A7%80.lisp)|Common Lisp|1단계|211005|
-|0285|goormlevel|[삼각형의 넓이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4.lisp)|Common Lisp|1단계|211005|
-|0285|goormlevel|[특정 문자 개수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
+|0291|goormlevel|[Hello Goorm !](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Hello%20Goorm%20!.lisp)|Common Lisp|1단계|211005|
+|0290|goormlevel|[공백 없애기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EA%B3%B5%EB%B0%B1%20%EC%97%86%EC%95%A0%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
+|0289|goormlevel|[ASCII 코드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20ASCII%20%EC%BD%94%EB%93%9C.lisp)|Common Lisp|1단계|211005|
+|0288|goormlevel|[몫과 나머지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EB%AA%AB%EA%B3%BC%20%EB%82%98%EB%A8%B8%EC%A7%80.lisp)|Common Lisp|1단계|211005|
+|0287|goormlevel|[삼각형의 넓이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4.lisp)|Common Lisp|1단계|211005|
+|0286|goormlevel|[특정 문자 개수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.lisp)|Common Lisp|1단계|211005|
 |0285|goormlevel|[Min 함수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20Min%20%ED%95%A8%EC%88%98.lisp)|Common Lisp|1단계|211005|
 |0284|Codewars|[HTML dynamic color string generation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20HTML%20dynamic%20color%20string%20generation.py)|Python|6kyu|211005|
 |0283|Codewars|[Counting Duplicates](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Counting%20Duplicates.py)|Python|6kyu|211005|

@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0301|Codewars|[Hello SQL World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Hello%20SQL%20World!.sql)|SQL|7kyu|211005|
+|0300|BaekJoon|[X보다 작은 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98.py)|Python|10871|211005|
+|0299|BaekJoon|[평균은 넘겠지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80.py)|Python|4344|211005|
 |0298|goormlevel|[3의 배수 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%203%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B2%8C%EC%9E%84.lisp)|Common Lisp|1단계|211005|
 |0297|goormlevel|[홀짝 판별](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%20%ED%99%80%EC%A7%9D%20%ED%8C%90%EB%B3%84.lisp)|Common Lisp|1단계|211005|
 |0296|goormlevel|[3과 5의 배수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%203%EA%B3%BC%205%EC%9D%98%20%EB%B0%B0%EC%88%98.lisp)|Common Lisp|1단계|211005|

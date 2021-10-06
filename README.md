@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0303|Codewars|[Welcome to the City](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Welcome%20to%20the%20City.py)|Python|8kyu|211006|
+|0302|BaekJoon|[별 찍기 - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%209.py)|Python|10871|211006|
 |0301|Codewars|[Hello SQL World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Hello%20SQL%20World!.sql)|SQL|7kyu|211005|
 |0300|BaekJoon|[X보다 작은 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98.py)|Python|10871|211005|
 |0299|BaekJoon|[평균은 넘겠지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80.py)|Python|4344|211005|

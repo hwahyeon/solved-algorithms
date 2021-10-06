@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0304|goormlevel|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%2016%EC%A7%84%EC%88%98.lisp)|Common Lisp|1단계|211007|
 |0303|Codewars|[Welcome to the City](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Welcome%20to%20the%20City.py)|Python|8kyu|211006|
 |0302|BaekJoon|[별 찍기 - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%209.py)|Python|10871|211006|
 |0301|Codewars|[Hello SQL World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Hello%20SQL%20World!.sql)|SQL|7kyu|211005|

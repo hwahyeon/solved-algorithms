@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0306|BaekJoon|[상수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%81%EC%88%98.py)|Python|2908|211007|
+|0305|Codewars|[Remove anchor from URL](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20anchor%20from%20URL.py)|Python|7kyu|211007|
 |0304|goormlevel|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%2016%EC%A7%84%EC%88%98.lisp)|Common Lisp|1단계|211007|
 |0303|Codewars|[Welcome to the City](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Welcome%20to%20the%20City.py)|Python|8kyu|211006|
 |0302|BaekJoon|[별 찍기 - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%209.py)|Python|10871|211006|

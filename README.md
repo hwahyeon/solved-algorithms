@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0308|Codewars|[What's the real floor?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What's%20the%20real%20floor%3F.py)|Python|8kyu|211008|
+|0307|BaekJoon|[소수 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|Python|1978|211008|
 |0306|BaekJoon|[상수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%81%EC%88%98.py)|Python|2908|211007|
 |0305|Codewars|[Remove anchor from URL](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20anchor%20from%20URL.py)|Python|7kyu|211007|
 |0304|goormlevel|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%2016%EC%A7%84%EC%88%98.lisp)|Common Lisp|1단계|211007|

@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0312|BaekJoon|[큰 수 곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20%EA%B3%B1%EC%85%88.py)|Python|13277|211010|
+|0311|Codewars|[Keypad horror](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Keypad%20horror.py)|Python|7kyu|211010|
 |0310|BaekJoon|[8진수 2진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%208%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98.py)|Python|1212|211009|
 |0309|Codewars|[Area of a Square](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20of%20a%20Square.py)|Python|8kyu|211009|
 |0308|Codewars|[What's the real floor?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What's%20the%20real%20floor%3F.py)|Python|8kyu|211008|

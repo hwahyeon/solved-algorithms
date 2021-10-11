@@ -5,6 +5,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0316|Codewars|[SQL Basics: Create a FUNCTION](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION.py)|SQL|7kyu|211011|
+|0315|BaekJoon|[긴자리 계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B4%EC%9E%90%EB%A6%AC%20%EA%B3%84%EC%82%B0.py)|Python|2338|211011|
+|0314|BaekJoon|[Rats](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rats.py)|Python|18301|211011|
+|0313|BaekJoon|[홍익대학교](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90.py)|Python|16394|211011|
 |0312|BaekJoon|[큰 수 곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20%EA%B3%B1%EC%85%88.py)|Python|13277|211010|
 |0311|Codewars|[Keypad horror](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Keypad%20horror.py)|Python|7kyu|211010|
 |0310|BaekJoon|[8진수 2진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%208%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98.py)|Python|1212|211009|

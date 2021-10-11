@@ -5,7 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
-|0316|Codewars|[SQL Basics: Create a FUNCTION](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION.py)|SQL|7kyu|211011|
+|0316|Codewars|[SQL Basics: Up and Down](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Up%20and%20Down.sql)|SQL|7kyu|211011|
+|0316|Codewars|[Easy SQL: Cube Root and Natural Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Cube%20Root%20and%20Natural%20Log.sql)|SQL|7kyu|211011|
+|0316|Codewars|[SQL Basics: Create a FUNCTION](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION.sql)|SQL|7kyu|211011|
 |0315|BaekJoon|[긴자리 계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B4%EC%9E%90%EB%A6%AC%20%EA%B3%84%EC%82%B0.py)|Python|2338|211011|
 |0314|BaekJoon|[Rats](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rats.py)|Python|18301|211011|
 |0313|BaekJoon|[홍익대학교](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90.py)|Python|16394|211011|

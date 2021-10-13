@@ -5,6 +5,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0321|Codewars|[Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)|SQL|7kyu|211013|
 |0320|Codewars|[String repeat](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20repeat.py)|Python|8kyu|211012|
 |0319|BaekJoon|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2016%EC%A7%84%EC%88%98.py)|Python|1550|211012|
 |0318|Codewars|[SQL Basics: Up and Down](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Up%20and%20Down.sql)|SQL|7kyu|211011|

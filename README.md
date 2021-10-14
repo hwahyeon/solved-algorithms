@@ -5,6 +5,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|YYMMDD|
 |:---:|:---:|---|---|---|:---:|
+|0322|BaekJoon|[웰컴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9B%B0%EC%BB%B4.py)|Python|5337|211014|
+|0322|BaekJoon|[마이크로소프트 로고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%A1%9C%EA%B3%A0.py)|Python|5338|211014|
+|0323|Codewars|[SQL Basics: Raise to the Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Raise%20to%20the%20Power.sql)|SQL|7kyu|211014|
 |0322|BaekJoon|[조별과제를 하려는데 조장이 사라졌다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%20%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%20%EC%A1%B0%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4.py)|Python|15727|211013|
 |0321|Codewars|[Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)|SQL|7kyu|211013|
 |0320|Codewars|[String repeat](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20repeat.py)|Python|8kyu|211012|

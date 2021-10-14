@@ -3,7 +3,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 
 
-|No.|Platform|Name|Language|etc|YYMMDD|
+|No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |0322|BaekJoon|[웰컴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9B%B0%EC%BB%B4.py)|Python|5337|211014|
 |0322|BaekJoon|[마이크로소프트 로고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%A1%9C%EA%B3%A0.py)|Python|5338|211014|

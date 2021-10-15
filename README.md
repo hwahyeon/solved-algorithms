@@ -6,7 +6,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |0327|BaekJoon|[콜센터](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BD%9C%EC%84%BC%ED%84%B0.py)|Python|5339|211015|
-|0326|Codewars|[SQL Basics: Repeat and Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Raise%20to%20the%20Power.sql)|SQL|7kyu|211015|
+|0326|Codewars|[SQL Basics: Repeat and Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Repeat%20and%20Reverse.sql)|SQL|7kyu|211015|
 |0325|BaekJoon|[웰컴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9B%B0%EC%BB%B4.py)|Python|5337|211014|
 |0324|BaekJoon|[마이크로소프트 로고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%A1%9C%EA%B3%A0.py)|Python|5338|211014|
 |0323|Codewars|[SQL Basics: Raise to the Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Raise%20to%20the%20Power.sql)|SQL|7kyu|211014|

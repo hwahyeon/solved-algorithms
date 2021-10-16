@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0329|Codewars|[SQL Basics - Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Position.sql)|SQL|7kyu|211016|
+|0328|BaekJoon|[오늘의 날짜는?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EB%8A%98%EC%9D%98%20%EB%82%A0%EC%A7%9C%EB%8A%94%3F.py)|Python|16170|211016|
 |0327|BaekJoon|[콜센터](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BD%9C%EC%84%BC%ED%84%B0.py)|Python|5339|211015|
 |0326|Codewars|[SQL Basics: Repeat and Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Repeat%20and%20Reverse.sql)|SQL|7kyu|211015|
 |0325|BaekJoon|[웰컴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9B%B0%EC%BB%B4.py)|Python|5337|211014|

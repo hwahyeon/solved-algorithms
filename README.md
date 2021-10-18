@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0333|BaekJoon|[큰 수 (BIG)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20(BIG).py)|Python|14928|211018|
+|0332|Codewars|[Can Santa save Christmas?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Can%20Santa%20save%20Christmas%3F.py)|Python|7kyu|211018|
 |0331|Codewars|[SQL: Concatenating Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Concatenating%20Columns.sql)|SQL|7kyu|211017|
 |0330|BaekJoon|[한글 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EA%B8%80%202.py)|Python|11283|211017|
 |0329|Codewars|[SQL Basics - Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Position.sql)|SQL|7kyu|211016|

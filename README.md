@@ -5,6 +5,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0337|BaekJoon|[저항](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%ED%95%AD.py)|Python|1076|211020|
+|0336|Codewars|[SQL with LOTR: Elven Wildcards](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20LOTR:%20Elven%20Wildcards.sql)|SQL|7kyu|211020|
 |0335|Codewars|[SQL: Regex AlphaNumeric Split](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20AlphaNumeric%20Split.sql)|SQL|6kyu|211019|
 |0334|BaekJoon|[네 번째 점](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90.py)|Python|3009|211019|
 |0333|BaekJoon|[큰 수 (BIG)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20(BIG).py)|Python|14928|211018|

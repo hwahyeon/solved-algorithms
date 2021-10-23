@@ -2,43 +2,42 @@
 
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 
-
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0349|Codewars|[GROCERY STORE: Real Price!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Real%20Price!.sql)|SQL|7kyu|211023|
-|0348|Codewars|[SQL with Sailor Moon: Thinking about JOINs...](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Sailor%20Moon:%20Thinking%20about%20JOINs....sql)|SQL|7kyu|211023|
+|0349|Codewars|[GROCERY STORE: Real Price!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Real%20Price!.sql)|PostgreSQL|7kyu|211023|
+|0348|Codewars|[SQL with Sailor Moon: Thinking about JOINs...](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Sailor%20Moon:%20Thinking%20about%20JOINs....sql)|PostgreSQL|7kyu|211023|
 |0347|Codewars|[Grasshopper - Messi goals function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Messi%20goals%20function.py)|Python|8kyu|211022|
 |0346|BaekJoon|[수학은 체육과목 입니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%ED%95%99%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4.py)|Python|15894|211022|
-|0345|Codewars|[SQL: Right and Left](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Right%20and%20Left.sql)|SQL|7kyu|211022|
-|0344|Codewars|[Easy SQL: ASCII Converter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20ASCII%20Converter.sql)|SQL|7kyu|211022|
-|0343|Codewars|[SQL: Disorder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Disorder.sql)|SQL|7kyu|211022|
-|0342|Codewars|[SQL Basics: Maths with String Manipulations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Maths%20with%20String%20Manipulations.sql)|SQL|7kyu|211022|
-|0341|Codewars|[SQL: Bytes in String from Ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Bytes%20in%20String%20from%20Ints.sql)|SQL|7kyu|211022|
-|0340|Codewars|[Easy SQL: Bit Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Bit%20Length.py)|SQL|7kyu|211021|
+|0345|Codewars|[SQL: Right and Left](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Right%20and%20Left.sql)|PostgreSQL|7kyu|211022|
+|0344|Codewars|[Easy SQL: ASCII Converter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20ASCII%20Converter.sql)|PostgreSQL|7kyu|211022|
+|0343|Codewars|[SQL: Disorder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Disorder.sql)|PostgreSQL|7kyu|211022|
+|0342|Codewars|[SQL Basics: Maths with String Manipulations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Maths%20with%20String%20Manipulations.sql)|PostgreSQL|7kyu|211022|
+|0341|Codewars|[SQL: Bytes in String from Ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Bytes%20in%20String%20from%20Ints.sql)|PostgreSQL|7kyu|211022|
+|0340|Codewars|[Easy SQL: Bit Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Bit%20Length.py)|PostgreSQL|7kyu|211021|
 |0339|BaekJoon|[거꾸로 구구단](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|Python|13410|211021|
 |0338|BaekJoon|[일곱 난쟁이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)|Python|2309|211021|
 |0337|BaekJoon|[저항](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%ED%95%AD.py)|Python|1076|211020|
-|0336|Codewars|[SQL with LOTR: Elven Wildcards](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20LOTR:%20Elven%20Wildcards.sql)|SQL|7kyu|211020|
+|0336|Codewars|[SQL with LOTR: Elven Wildcards](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20LOTR:%20Elven%20Wildcards.sql)|PostgreSQL|7kyu|211020|
 |0335|Codewars|[SQL: Regex AlphaNumeric Split](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20AlphaNumeric%20Split.sql)|SQL|6kyu|211019|
 |0334|BaekJoon|[네 번째 점](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90.py)|Python|3009|211019|
 |0333|BaekJoon|[큰 수 (BIG)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20(BIG).py)|Python|14928|211018|
 |0332|Codewars|[Can Santa save Christmas?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Can%20Santa%20save%20Christmas%3F.py)|Python|7kyu|211018|
-|0331|Codewars|[SQL: Concatenating Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Concatenating%20Columns.sql)|SQL|7kyu|211017|
+|0331|Codewars|[SQL: Concatenating Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Concatenating%20Columns.sql)|PostgreSQL|7kyu|211017|
 |0330|BaekJoon|[한글 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EA%B8%80%202.py)|Python|11283|211017|
-|0329|Codewars|[SQL Basics - Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Position.sql)|SQL|7kyu|211016|
+|0329|Codewars|[SQL Basics - Position](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Position.sql)|PostgreSQL|7kyu|211016|
 |0328|BaekJoon|[오늘의 날짜는?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EB%8A%98%EC%9D%98%20%EB%82%A0%EC%A7%9C%EB%8A%94%3F.py)|Python|16170|211016|
 |0327|BaekJoon|[콜센터](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BD%9C%EC%84%BC%ED%84%B0.py)|Python|5339|211015|
-|0326|Codewars|[SQL Basics: Repeat and Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Repeat%20and%20Reverse.sql)|SQL|7kyu|211015|
+|0326|Codewars|[SQL Basics: Repeat and Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Repeat%20and%20Reverse.sql)|PostgreSQL|7kyu|211015|
 |0325|BaekJoon|[웰컴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9B%B0%EC%BB%B4.py)|Python|5337|211014|
 |0324|BaekJoon|[마이크로소프트 로고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%A1%9C%EA%B3%A0.py)|Python|5338|211014|
-|0323|Codewars|[SQL Basics: Raise to the Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Raise%20to%20the%20Power.sql)|SQL|7kyu|211014|
+|0323|Codewars|[SQL Basics: Raise to the Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Raise%20to%20the%20Power.sql)|PostgreSQL|7kyu|211014|
 |0322|BaekJoon|[조별과제를 하려는데 조장이 사라졌다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%20%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%20%EC%A1%B0%EC%9E%A5%EC%9D%B4%20%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4.py)|Python|15727|211013|
-|0321|Codewars|[Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)|SQL|7kyu|211013|
+|0321|Codewars|[Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)|PostgreSQL|7kyu|211013|
 |0320|Codewars|[String repeat](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20repeat.py)|Python|8kyu|211012|
 |0319|BaekJoon|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2016%EC%A7%84%EC%88%98.py)|Python|1550|211012|
-|0318|Codewars|[SQL Basics: Up and Down](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Up%20and%20Down.sql)|SQL|7kyu|211011|
-|0317|Codewars|[Easy SQL: Cube Root and Natural Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Cube%20Root%20and%20Natural%20Log.sql)|SQL|7kyu|211011|
-|0316|Codewars|[SQL Basics: Create a FUNCTION](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION.sql)|SQL|7kyu|211011|
+|0318|Codewars|[SQL Basics: Up and Down](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Up%20and%20Down.sql)|PostgreSQL|7kyu|211011|
+|0317|Codewars|[Easy SQL: Cube Root and Natural Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Cube%20Root%20and%20Natural%20Log.sql)|PostgreSQL|7kyu|211011|
+|0316|Codewars|[SQL Basics: Create a FUNCTION](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION.sql)|PostgreSQL|7kyu|211011|
 |0315|BaekJoon|[긴자리 계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B4%EC%9E%90%EB%A6%AC%20%EA%B3%84%EC%82%B0.py)|Python|2338|211011|
 |0314|BaekJoon|[Rats](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rats.py)|Python|18301|211011|
 |0313|BaekJoon|[홍익대학교](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90.py)|Python|16394|211011|
@@ -53,7 +52,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0304|goormlevel|[16진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%2016%EC%A7%84%EC%88%98.lisp)|Common Lisp|1단계|211007|
 |0303|Codewars|[Welcome to the City](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Welcome%20to%20the%20City.py)|Python|8kyu|211006|
 |0302|BaekJoon|[별 찍기 - 9](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%209.py)|Python|10871|211006|
-|0301|Codewars|[Hello SQL World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Hello%20SQL%20World!.sql)|SQL|7kyu|211005|
+|0301|Codewars|[Hello SQL World!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Hello%20SQL%20World!.sql)|PostgreSQL|7kyu|211005|
 |0300|BaekJoon|[X보다 작은 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98.py)|Python|10871|211005|
 |0299|BaekJoon|[평균은 넘겠지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80.py)|Python|4344|211005|
 |0298|goormlevel|[3의 배수 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Common%20Lisp/goormlevel%20%7C%203%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B2%8C%EC%9E%84.lisp)|Common Lisp|1단계|211005|
@@ -150,16 +149,16 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0207|Programmers|[로또의 최고 순위와 최저 순위](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py)|Python|77484|210912|
 |0206|Programmers|[약수의 개수와 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py)|Python|77884|210911|
 |0205|Codewars|[What is between?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What%20is%20between.py)|Python|8kyu|210911|
-|0204|Codewars|[SQL Basics: Truncating](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Truncating.sql)|SQL|7kyu|210910|
+|0204|Codewars|[SQL Basics: Truncating](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Truncating.sql)|PostgreSQL|7kyu|210910|
 |0203|BaekJoon|[소음](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EC%9D%8C.py)|Python|2935|210910|
 |0202|BaekJoon|[과자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%9E%90.py)|Python|10156|210909|
 |0201|Codewars|[You only need one - Beginner](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You%20only%20need%20one%20-%20Beginner.py)|Python|8kyu|210909|
 |0200|Codewars|[The Feast of Many Beasts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20The%20Feast%20of%20Many%20Beasts.py)|Python|8kyu|210908|
-|0199|Codewars|[GROCERY STORE: Inventory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Inventory.sql)|SQL|7kyu|210907|
-|0198|Codewars|[GROCERY STORE: Support Local Products](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Support%20Local%20Products.sql)|SQL|7kyu|210907|
-|0197|Codewars|[GROCERY STORE: Logistic Optimisation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Logistic%20Optimisation.sql)|SQL|7kyu|210907|
-|0196|Codewars|[BASICS: Length based SELECT with LIKE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20BASICS:%20Length%20based%20SELECT%20with%20LIKE.sql)|SQL|7kyu|210907|
-|0195|Codewars|[Easy SQL: Absolute Value and Log to Base](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Absolute%20Value%20and%20Log%20to%20Base.sql)|SQL|7kyu|210907|
+|0199|Codewars|[GROCERY STORE: Inventory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Inventory.sql)|PostgreSQL|7kyu|210907|
+|0198|Codewars|[GROCERY STORE: Support Local Products](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Support%20Local%20Products.sql)|PostgreSQL|7kyu|210907|
+|0197|Codewars|[GROCERY STORE: Logistic Optimisation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Logistic%20Optimisation.sql)|PostgreSQL|7kyu|210907|
+|0196|Codewars|[BASICS: Length based SELECT with LIKE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20BASICS:%20Length%20based%20SELECT%20with%20LIKE.sql)|PostgreSQL|7kyu|210907|
+|0195|Codewars|[Easy SQL: Absolute Value and Log to Base](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Absolute%20Value%20and%20Log%20to%20Base.sql)|PostgreSQL|7kyu|210907|
 |0194|Programmers|[이상한 문자 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|12930|210907|
 |0193|Programmers|[제일 작은 수 제거하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)|Python|12935|210907|
 |0192|Programmers|[정수 내림차순으로 배치하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python|12933|210907|
@@ -167,11 +166,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0190|Programmers|[짝수와 홀수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py)|Python|12937|210907|
 |0189|Programmers|[콜라츠 추측](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.py)|Python|12943|210907|
 |0188|Programmers|[정수 제곱근 판별](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.py)|Python|12934|210906|
-|0187|Codewars|[SQL with Harry Potter: Sorting Hat Comparators](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Harry%20Potter:%20Sorting%20Hat%20Comparators.sql)|SQL|7kyu|210906|
-|0186|Codewars|[SQL Basics - Trimming the Field](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Trimming%20the%20Field.sql)|SQL|7kyu|210905|
-|0185|Codewars|[Easy SQL: Counting and Grouping](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Counting%20and%20Grouping.sql)|SQL|7kyu|210905|
-|0184|Codewars|[Best-Selling Books (SQL for Beginners #5)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)|SQL|7kyu|210905|
-|0183|Codewars|[SQL Basics: Simple JOIN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN.sql)|SQL|7kyu|210905|
+|0187|Codewars|[SQL with Harry Potter: Sorting Hat Comparators](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Harry%20Potter:%20Sorting%20Hat%20Comparators.sql)|PostgreSQL|7kyu|210906|
+|0186|Codewars|[SQL Basics - Trimming the Field](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Trimming%20the%20Field.sql)|PostgreSQL|7kyu|210905|
+|0185|Codewars|[Easy SQL: Counting and Grouping](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Counting%20and%20Grouping.sql)|PostgreSQL|7kyu|210905|
+|0184|Codewars|[Best-Selling Books (SQL for Beginners #5)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)|PostgreSQL|7kyu|210905|
+|0183|Codewars|[SQL Basics: Simple JOIN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN.sql)|PostgreSQL|7kyu|210905|
 |0182|Programmers|[두 정수 사이의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.py)|Python|12912|210905|
 |0181|Programmers|[문자열 내림차순으로 배치하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python|12917|210905|
 |0180|Programmers|[평균 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|12944|210905|
@@ -217,7 +216,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0140|Programmers|[오랜 기간 보호한 동물(2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(2).mysql)|MySQL|59411|210825|
 |0139|Programmers|[DATETIME에서 DATE로 형 변환](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98.mysql)|MySQL|59414|210825|
 |0138|Programmers|[중성화 여부 파악하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.mysql)|MySQL|59409|210825|
-|0137|Codewars|[SQL Basics: Simple GROUP BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20GROUP%20BY.sql)|SQL|7kyu|210824|
+|0137|Codewars|[SQL Basics: Simple GROUP BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20GROUP%20BY.sql)|PostgreSQL|7kyu|210824|
 |0136|Programmers|[이름에 el이 들어가는 동물 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9D%B4%EB%A6%84%EC%97%90%20el%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59047|210824|
 |0135|Programmers|[루시와 엘라 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.mysql)|MySQL|59046|210824|
 |0134|Programmers|[입양 시각 구하기(2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Programmers%20%7C%20%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(2).mysql)|MySQL|59413|210824|
@@ -276,10 +275,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0081|BaekJoon|[별 찍기 - 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%201.py)|Python|2438|210814|
 |0080|Codewars|[Valid Phone Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Valid%20Phone%20Number.py)|Python|6kyu|210814|
 |0079|BaekJoon|[명령 프롬프트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%85%EB%A0%B9%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.py)|Python|1032|210813|
-|0078|Codewars|[Collect Tuition (SQL for Beginners #4)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)|SQL|8kyu|210813|
-|0077|Codewars|[Register for the Party (SQL for Beginners #3)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).sql)|SQL|8kyu|210813|
-|0076|Codewars|[On the Canadian Border (SQL for Beginners #2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20On%20the%20Canadian%20Border%20(SQL%20for%20Beginners%20%232).sql)|SQL|8kyu|210813|
-|0075|Codewars|[SQL Basics: Mod](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Mod.sql)|SQL|8kyu|210812|
+|0078|Codewars|[Collect Tuition (SQL for Beginners #4)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)|PostgreSQL|8kyu|210813|
+|0077|Codewars|[Register for the Party (SQL for Beginners #3)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).sql)|PostgreSQL|8kyu|210813|
+|0076|Codewars|[On the Canadian Border (SQL for Beginners #2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20On%20the%20Canadian%20Border%20(SQL%20for%20Beginners%20%232).sql)|PostgreSQL|8kyu|210813|
+|0075|Codewars|[SQL Basics: Mod](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Mod.sql)|PostgreSQL|8kyu|210812|
 |0074|BaekJoon|[단어의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|1152|210812|
 |0073|BaekJoon|[숫자의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9.py)|Python|11720|210812|
 |0072|BaekJoon|[한수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EC%88%98.py)|Python|1065|210811|
@@ -305,7 +304,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0052|Codewars|[Who likes it?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20likes%20it.py)|Python|6kyu|210806|
 |0051|Codewars|[Ensure question](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ensure%20question.py)|Python|8kyu|210805|
 |0050|Codewars|[Counting sheep...](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Counting%20sheep....py)|Python|8kyu|210805|
-|0049|Codewars|[Easy SQL: Rounding Decimals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20Rounding%20Decimals.sql)|SQL|8kyu|210805|
+|0049|Codewars|[Easy SQL: Rounding Decimals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20Rounding%20Decimals.sql)|PostgreSQL|8kyu|210805|
 |0048|Codewars|[Switcheroo](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|Python|7kyu|210804|
 |0047|Codewars|[Convert A Hex String To RGB](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20A%20Hex%20String%20To%20RGB.py)|Python|5kyu|210804|
 |0046|Codewars|[How do I compare numbers?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20do%20I%20compare%20numbers.py)|Python|8kyu|210803|
@@ -320,7 +319,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0037|Codewars|[RGB To Hex Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20RGB%20To%20Hex%20Conversion.py)|Python|5kyu|210728|
 |0036|Codewars|[Simple Pig Latin](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Pig%20Latin.py)|Python|5kyu|210727|
 |0035|Codewars|[Return Negative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Negative.py)|Python|8kyu|210726|
-|0034|Codewars|[Easy SQL: Convert to Hexadecimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Convert%20to%20Hexadecimal.sql)|SQL|8kyu|210725|
+|0034|Codewars|[Easy SQL: Convert to Hexadecimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Convert%20to%20Hexadecimal.sql)|PostgreSQL|8kyu|210725|
 |0033|Codewars|[Find the vowels](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20vowels.py)|Python|7kyu|210724|
 |0032|Codewars|[MakeUpperCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20MakeUpperCase.py)|Python|8kyu|210724|
 |0031|Codewars|[Christmas tree](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Christmas%20tree.py)|Python|6kyu|210723|
@@ -328,21 +327,21 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0029|Codewars|[Cost of my ride](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Cost%20of%20my%20ride.py)|Python|7kyu|210721|
 |0028|Codewars|[Vowels Back](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowels%20Back.py)|Python|6kyu|210720|
 |0027|Codewars|[Remove First and Last Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20First%20and%20Last%20Character.py)|Python|8kyu|210719|
-|0026|Codewars|[Easy SQL: Square Root and Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Square%20Root%20and%20Log.sql)|SQL|8kyu|210716|
-|0025|Codewars|[SQL Basics: Simple DISTINCT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20DISTINCT.sql)|SQL|8kyu|210715|
-|0024|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|SQL|8kyu|210715|
-|0023|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|SQL|8kyu|210715|
+|0026|Codewars|[Easy SQL: Square Root and Log](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Square%20Root%20and%20Log.sql)|PostgreSQL|8kyu|210716|
+|0025|Codewars|[SQL Basics: Simple DISTINCT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20DISTINCT.sql)|PostgreSQL|8kyu|210715|
+|0024|Codewars|[Adults only (SQL for Beginners #1)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Adults%20only%20(SQL%20for%20Beginners%20%231).sql)|PostgreSQL|8kyu|210715|
+|0023|Codewars|[Easy SQL - Ordering](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL%20-%20Ordering.sql)|PostgreSQL|8kyu|210715|
 |0022|Codewars|[Count by X](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20by%20X.py)|Python|8kyu|210714|
 |0021|Codewars|[Maximum Depth of Nested Brackets](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Maximum%20Depth%20of%20Nested%20Brackets.py)|Python|6kyu|210713|
-|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20with%20COUNT.sql)|SQL|7kyu|210713|
-|0019|Codewars|[Easy SQL: LowerCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20LowerCase.sql)|SQL|8kyu|210712|
-|0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|SQL|8kyu|210712|
-|0017|Codewars|[SQL Basics: Simple MIN / MAX](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20MIN%20%EF%BC%8F%20MAX.sql)|SQL|8kyu|210712|
+|0020|Codewars|[SQL Basics: Simple JOIN with COUNT](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20with%20COUNT.sql)|PostgreSQL|7kyu|210713|
+|0019|Codewars|[Easy SQL: LowerCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20LowerCase.sql)|PostgreSQL|8kyu|210712|
+|0018|Codewars|[SQL Grasshopper: Select Columns](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Grasshopper:%20Select%20Columns.sql)|PostgreSQL|8kyu|210712|
+|0017|Codewars|[SQL Basics: Simple MIN / MAX](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20MIN%20%EF%BC%8F%20MAX.sql)|PostgreSQL|8kyu|210712|
 |0016|Codewars|[Chicken Sexing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Chicken%20Sexing.py)|Python|7kyu|210712|
-|0015|Codewars|[SQL with Pokemon: Damage Multipliers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Pokemon:%20Damage%20Multipliers.sql)|SQL|7kyu|210711|
-|0014|Codewars|[1. Find all active students](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%201.%20Find%20all%20active%20students.sql)|SQL|8kyu|210710|
-|0013|Codewars|[SQL Basics: Simple SUM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20SUM.sql)|SQL|8kyu|210710|
-|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WHERE%20and%20ORDER%20BY.sql)|SQL|8kyu|210710|
+|0015|Codewars|[SQL with Pokemon: Damage Multipliers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Pokemon:%20Damage%20Multipliers.sql)|PostgreSQL|7kyu|210711|
+|0014|Codewars|[1. Find all active students](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%201.%20Find%20all%20active%20students.sql)|PostgreSQL|8kyu|210710|
+|0013|Codewars|[SQL Basics: Simple SUM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20SUM.sql)|PostgreSQL|8kyu|210710|
+|0012|Codewars|[SQL Basics: Simple WHERE and ORDER BY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WHERE%20and%20ORDER%20BY.sql)|PostgreSQL|8kyu|210710|
 |0011|Codewars|[Remove exclamation marks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20exclamation%20marks.py)|Python|7kyu|210710|
 |0010|Codewars|[Friend or Foe?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Friend%20or%20Foe.py)|Python|7kyu|210710|
 |0009|Codewars|[Square(n) Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Square(n)%20Sum.py)|Python|8kyu|210709|
@@ -354,4 +353,3 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0003|Codewars|[Area or Perimeter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Area%20or%20Perimeter.py)|Python|8kyu|210709|
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|Python|8kyu|210709|
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|R|8kyu|210709|
-

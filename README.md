@@ -5,6 +5,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0347|Codewars|[Grasshopper - Messi goals function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Messi%20goals%20function.py)|Python|8kyu|211023|
+|0346|BaekJoon|[수학은 체육과목 입니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%ED%95%99%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4.py)|Python|15894|211022|
+|0345|Codewars|[SQL: Right and Left](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Right%20and%20Left.sql)|SQL|7kyu|211022|
+|0344|Codewars|[Easy SQL: ASCII Converter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20ASCII%20Converter.sql)|SQL|7kyu|211022|
+|0343|Codewars|[SQL: Disorder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Disorder.sql)|SQL|7kyu|211022|
+|0342|Codewars|[SQL Basics: Maths with String Manipulations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Maths%20with%20String%20Manipulations.sql)|SQL|7kyu|211022|
+|0341|Codewars|[SQL: Bytes in String from Ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Bytes%20in%20String%20from%20Ints.sql)|SQL|7kyu|211022|
 |0340|Codewars|[Easy SQL: Bit Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Bit%20Length.py)|SQL|7kyu|211021|
 |0339|BaekJoon|[거꾸로 구구단](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|Python|13410|211021|
 |0338|BaekJoon|[일곱 난쟁이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)|Python|2309|211021|

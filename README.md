@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0351|Codewars|[Pyramid Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Pyramid%20Array.py)|Python|6kyu|211024|
 |0350|BaekJoon|[사분면](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4.py)|Python|9610|211022|
 |0349|Codewars|[GROCERY STORE: Real Price!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20GROCERY%20STORE:%20Real%20Price!.sql)|PostgreSQL|7kyu|211023|
 |0348|Codewars|[SQL with Sailor Moon: Thinking about JOINs...](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Sailor%20Moon:%20Thinking%20about%20JOINs....sql)|PostgreSQL|7kyu|211023|

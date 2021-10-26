@@ -4,8 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0352|BaekJoon|[심부름 가는 길](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%AC%EB%B6%80%EB%A6%84%20%EA%B0%80%EB%8A%94%20%EA%B8%B8.py)|Python|5554|211024|
-|0351|Codewars|[Substring fun](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Substring%20fun.py)|Python|7kyu|211025|
+|0356|BaekJoon|[캥거루 세마리2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC2.py)|Python|11034|211026|
+|0355|Codewars|[Incrementer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Incrementer.py)|Python|7kyu|211026|
+|0354|BaekJoon|[심부름 가는 길](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%AC%EB%B6%80%EB%A6%84%20%EA%B0%80%EB%8A%94%20%EA%B8%B8.py)|Python|5554|211025|
+|0353|Codewars|[Substring fun](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Substring%20fun.py)|Python|7kyu|211025|
 |0352|BaekJoon|[주사위 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84_.py)|Python|2476|211024|
 |0351|Codewars|[Pyramid Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Pyramid%20Array.py)|Python|6kyu|211024|
 |0350|BaekJoon|[사분면](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%B6%84%EB%A9%B4.py)|Python|9610|211023|

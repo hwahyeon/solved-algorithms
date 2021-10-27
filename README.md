@@ -4,13 +4,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0357|Codewars|[Subtract the Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Subtract%20the%20Sum.sql)|PostgreSQL|8kyu|211028|
-|0357|Codewars|[Grasshopper - Terminal game move function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Grasshopper%20-%20Terminal%20game%20move%20function.sql)|PostgreSQL|8kyu|211028
-|0357|Codewars|[Keep Hydrated!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Keep%20Hydrated!.sql)|PostgreSQL|8kyu|211028|
-|0357|Codewars|[Grasshopper - Check for factor](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Grasshopper%20-%20Check%20for%20factor.sql)|PostgreSQL|8kyu|211028|
-|0357|Codewars|[Expressions Matter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Expressions%20Matter.sql)|PostgreSQL|8kyu|211028|
-|0357|Codewars|[Beginner Series #2 Clock](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Beginner%20Series%20%232%20Clock.sql)|PostgreSQL|8kyu|211028|
-|0357|Codewars|[Is n divisible by x and y?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Is%20n%20divisible%20by%20x%20and%20y%3F.sql)|PostgreSQL|8kyu|211028|
+|0365|Codewars|[Subtract the Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Subtract%20the%20Sum.sql)|PostgreSQL|8kyu|211028|
+|0364|Codewars|[Grasshopper - Terminal game move function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Grasshopper%20-%20Terminal%20game%20move%20function.sql)|PostgreSQL|8kyu|211028
+|0363|Codewars|[Keep Hydrated!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Keep%20Hydrated!.sql)|PostgreSQL|8kyu|211028|
+|0362|Codewars|[Grasshopper - Check for factor](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Grasshopper%20-%20Check%20for%20factor.sql)|PostgreSQL|8kyu|211028|
+|0361|Codewars|[Expressions Matter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Expressions%20Matter.sql)|PostgreSQL|8kyu|211028|
+|0360|Codewars|[Beginner Series #2 Clock](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Beginner%20Series%20%232%20Clock.sql)|PostgreSQL|8kyu|211028|
+|0359|Codewars|[Is n divisible by x and y?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Is%20n%20divisible%20by%20x%20and%20y%3F.sql)|PostgreSQL|8kyu|211028|
 |0358|BaekJoon|[농구 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%86%8D%EA%B5%AC%20%EA%B2%BD%EA%B8%B0.py)|Python|1159|211027|
 |0357|Codewars|[Century From Year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Century%20From%20Year.sql)|PostgreSQL|8kyu|211027|
 |0356|BaekJoon|[캥거루 세마리2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC2.py)|Python|11034|211026|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0358|BaekJoon|[농구 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%86%8D%EA%B5%AC%20%EA%B2%BD%EA%B8%B0.py)|Python|1159|211027|
+|0357|Codewars|[Century From Year](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Century%20From%20Year.sql)|PostgreSQL|8kyu|211027|
 |0356|BaekJoon|[캥거루 세마리2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC2.py)|Python|11034|211026|
 |0355|Codewars|[Incrementer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Incrementer.py)|Python|7kyu|211026|
 |0354|BaekJoon|[심부름 가는 길](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%AC%EB%B6%80%EB%A6%84%20%EA%B0%80%EB%8A%94%20%EA%B8%B8.py)|Python|5554|211025|

@@ -4,7 +4,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0369|BaekJoon|[팩토리얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)|Python|10872|211027|
+|0375|Codewars|[Sum of odd numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Sum%20of%20odd%20numbers.sql)|PostgreSQL|7kyu|211029|
+|0374|Codewars|[SQL: Regex String to Table](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20String%20to%20Table.sql)|PostgreSQL|7kyu|211029|
+|0373|Codewars|[SQL: Regex Replace](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20Replace.sql)|PostgreSQL|7kyu|211029|
+|0372|Codewars|[SQL Basics: Top 10 customers by total payments amount](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Top%2010%20customers%20by%20total%20payments%20amount.sql)|PostgreSQL|6kyu|211029|
+|0371|BaekJoon|[홀수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%80%EC%88%98.py)|Python|2576|211029|
+|0370|BaekJoon|[검증수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%80%EC%A6%9D%EC%88%98.py)|Python|2475|211029|
+|0369|BaekJoon|[팩토리얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)|Python|10872|211028|
 |0368|Codewars|[SQL easy regex extraction](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20easy%20regex%20extraction.sql)|PostgreSQL|7kyu|211028|
 |0367|Codewars|[SQL: Padding Encryption](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Padding%20Encryption.sql)|PostgreSQL|7kyu|211028|
 |0366|Codewars|[Sum of angles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Sum%20of%20angles.sql)|PostgreSQL|7kyu|211028|

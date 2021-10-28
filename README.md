@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0368|Codewars|[SQL easy regex extraction](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20easy%20regex%20extraction.sql)|PostgreSQL|7kyu|211028|
+|0367|Codewars|[SQL: Padding Encryption](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Padding%20Encryption.sql)|PostgreSQL|7kyu|211028|
+|0366|Codewars|[Sum of angles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Sum%20of%20angles.sql)|PostgreSQL|7kyu|211028|
 |0365|Codewars|[Subtract the Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Subtract%20the%20Sum.sql)|PostgreSQL|8kyu|211028|
 |0364|Codewars|[Grasshopper - Terminal game move function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Grasshopper%20-%20Terminal%20game%20move%20function.sql)|PostgreSQL|8kyu|211028
 |0363|Codewars|[Keep Hydrated!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Keep%20Hydrated!.sql)|PostgreSQL|8kyu|211028|

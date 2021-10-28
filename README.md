@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0369|BaekJoon|[팩토리얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)|Python|10872|211027|
 |0368|Codewars|[SQL easy regex extraction](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20easy%20regex%20extraction.sql)|PostgreSQL|7kyu|211028|
 |0367|Codewars|[SQL: Padding Encryption](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Padding%20Encryption.sql)|PostgreSQL|7kyu|211028|
 |0366|Codewars|[Sum of angles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Sum%20of%20angles.sql)|PostgreSQL|7kyu|211028|
@@ -37,7 +38,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0338|BaekJoon|[일곱 난쟁이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)|Python|2309|211021|
 |0337|BaekJoon|[저항](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%ED%95%AD.py)|Python|1076|211020|
 |0336|Codewars|[SQL with LOTR: Elven Wildcards](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20LOTR:%20Elven%20Wildcards.sql)|PostgreSQL|7kyu|211020|
-|0335|Codewars|[SQL: Regex AlphaNumeric Split](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20AlphaNumeric%20Split.sql)|SQL|6kyu|211019|
+|0335|Codewars|[SQL: Regex AlphaNumeric Split](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20AlphaNumeric%20Split.sql)|PostgreSQL|6kyu|211019|
 |0334|BaekJoon|[네 번째 점](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90.py)|Python|3009|211019|
 |0333|BaekJoon|[큰 수 (BIG)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%81%B0%20%EC%88%98%20(BIG).py)|Python|14928|211018|
 |0332|Codewars|[Can Santa save Christmas?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Can%20Santa%20save%20Christmas%3F.py)|Python|7kyu|211018|

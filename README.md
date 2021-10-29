@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0377|Codewars|[Simple Fun #74: Growing Plant](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Simple%20Fun%20%2374:%20Growing%20Plant.sql)|PostgreSQL|7kyu|211029|
+|0376|Codewars|[Easy SQL: Moving Values](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Moving%20Values.sql)|PostgreSQL|7kyu|211029|
 |0375|Codewars|[Sum of odd numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Sum%20of%20odd%20numbers.sql)|PostgreSQL|7kyu|211029|
 |0374|Codewars|[SQL: Regex String to Table](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20String%20to%20Table.sql)|PostgreSQL|7kyu|211029|
 |0373|Codewars|[SQL: Regex Replace](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Regex%20Replace.sql)|PostgreSQL|7kyu|211029|

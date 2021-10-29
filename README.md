@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0380|BaekJoon|[Plane](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Plane.py)|Python|8370|211029|
 |0379|Codewars|[Alphabetical Addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Alphabetical%20Addition.sql)|PostgreSQL|7kyu|211029|
 |0378|Codewars|[SQL with Street Fighter: Total Wins](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Street%20Fighter:%20Total%20Wins.sql)|PostgreSQL|7kyu|211029|
 |0377|Codewars|[Simple Fun #74: Growing Plant](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Simple%20Fun%20%2374:%20Growing%20Plant.sql)|PostgreSQL|7kyu|211029|

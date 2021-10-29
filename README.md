@@ -42,7 +42,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0343|Codewars|[SQL: Disorder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Disorder.sql)|PostgreSQL|7kyu|211022|
 |0342|Codewars|[SQL Basics: Maths with String Manipulations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Maths%20with%20String%20Manipulations.sql)|PostgreSQL|7kyu|211022|
 |0341|Codewars|[SQL: Bytes in String from Ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL:%20Bytes%20in%20String%20from%20Ints.sql)|PostgreSQL|7kyu|211022|
-|0340|Codewars|[Easy SQL: Bit Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Bit%20Length.py)|PostgreSQL|7kyu|211021|
+|0340|Codewars|[Easy SQL: Bit Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Easy%20SQL:%20Bit%20Length.sql)|PostgreSQL|7kyu|211021|
 |0339|BaekJoon|[거꾸로 구구단](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EA%B5%AC%EA%B5%AC%EB%8B%A8.py)|Python|13410|211021|
 |0338|BaekJoon|[일곱 난쟁이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)|Python|2309|211021|
 |0337|BaekJoon|[저항](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%80%ED%95%AD.py)|Python|1076|211020|

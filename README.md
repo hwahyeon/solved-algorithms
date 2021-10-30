@@ -4,6 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0384|Codewars|[SQL Basics - Monsters using CASE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Monsters%20using%20CASE.sql)|PostgreSQL|6kyu|211031|
+|0383|Codewars|[SQL Basics: Simple EXISTS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20EXISTS.sql)|PostgreSQL|6kyu|211030|
+|0382|BaekJoon|[최소공배수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)|Python|1934|211030|
+|0381|BaekJoon|[상근이의 친구들](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%B9%9C%EA%B5%AC%EB%93%A4.py)|Python|5717|211030|
 |0380|BaekJoon|[Plane](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Plane.py)|Python|8370|211029|
 |0379|Codewars|[Alphabetical Addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Alphabetical%20Addition.sql)|PostgreSQL|7kyu|211029|
 |0378|Codewars|[SQL with Street Fighter: Total Wins](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20with%20Street%20Fighter:%20Total%20Wins.sql)|PostgreSQL|7kyu|211029|

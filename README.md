@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0386|Codewars|[SQL Basics: Simple HAVING](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20HAVING.sql)|PostgreSQL|6kyu|211031|
+|0385|BaekJoon|[오븐 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84.py)|Python|2525|211031|
 |0384|Codewars|[SQL Basics - Monsters using CASE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Monsters%20using%20CASE.sql)|PostgreSQL|6kyu|211031|
 |0383|Codewars|[SQL Basics: Simple EXISTS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20EXISTS.sql)|PostgreSQL|6kyu|211030|
 |0382|BaekJoon|[최소공배수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)|Python|1934|211030|

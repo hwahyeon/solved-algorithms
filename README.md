@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0388|BaekJoon|[이 문제는 D2 입니다.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%20%EB%AC%B8%EC%A0%9C%EB%8A%94%20D2%20%EC%9E%85%EB%8B%88%EB%8B%A4..py)|Python|23303|211101|
+|0387|Codewars|[SQL Basics: Create a FUNCTION (DATES)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Create%20a%20FUNCTION%20(DATES).sql)|PostgreSQL|6kyu|211101|
 |0386|Codewars|[SQL Basics: Simple HAVING](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20HAVING.sql)|PostgreSQL|6kyu|211031|
 |0385|BaekJoon|[오븐 시계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EB%B8%90%20%EC%8B%9C%EA%B3%84.py)|Python|2525|211031|
 |0384|Codewars|[SQL Basics - Monsters using CASE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics%20-%20Monsters%20using%20CASE.sql)|PostgreSQL|6kyu|211031|

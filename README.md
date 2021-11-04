@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0397|BaekJoon|[백발백준하는 명사수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%B1%EB%B0%9C%EB%B0%B1%EC%A4%80%ED%95%98%EB%8A%94%20%EB%AA%85%EC%82%AC%EC%88%98.py)|Python|22938|211104|
+|0396|Codewars|[Transportation on vacation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Transportation%20on%20vacation.py)|Python|8kyu|211104|
 |0395|BaekJoon|[수들의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py)|Python|1789|211103|
 |0394|BaekJoon|[초콜릿 자르기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|Python|2163|211103|
 |0393|BaekJoon|[배수와 약수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%95%BD%EC%88%98.py)|Python|5086|211103|

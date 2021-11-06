@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0401|BaekJoon|[슈퍼 마리오](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4.py)|Python|2851|211106|
+|0400|Codewars|[SELECT prime numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SELECT%20prime%20numbers.sql)|PostgreSQL|6kyu|211106|
 |0399|Codewars|[SQL Basics: Simple UNION ALL](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20UNION%20ALL.sql)|PostgreSQL|6kyu|211105|
 |0398|BaekJoon|[거스름돈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)|Python|5585|211105|
 |0397|BaekJoon|[백발백준하는 명사수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%B1%EB%B0%9C%EB%B0%B1%EC%A4%80%ED%95%98%EB%8A%94%20%EB%AA%85%EC%82%AC%EC%88%98.py)|Python|22938|211104|

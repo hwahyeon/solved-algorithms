@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0403|BaekJoon|[하얀 칸](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%98%EC%96%80%20%EC%B9%B8.py)|Python|1100|211107|
 |0402|Codewars|[You're a square!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You're%20a%20square!.py)|Python|7kyu|211107|
 |0401|BaekJoon|[슈퍼 마리오](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4.py)|Python|2851|211106|
 |0400|Codewars|[SELECT prime numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SELECT%20prime%20numbers.sql)|PostgreSQL|6kyu|211106|

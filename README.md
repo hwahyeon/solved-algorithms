@@ -4,6 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0407|Codewars|[Keep up the hoop](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Keep%20up%20the%20hoop.py)|Python|8kyu|211109|
+|0406|BaekJoon|[킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0.py)|Python|3003|211109|
+|0405|BaekJoon|[파티가 끝나고 난 뒤](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%8C%ED%8B%B0%EA%B0%80%20%EB%81%9D%EB%82%98%EA%B3%A0%20%EB%82%9C%20%EB%92%A4.py)|Python|2845|211108|
+|0404|Codewars|[Remove First and Last Character Part Two](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20First%20and%20Last%20Character%20Part%20Two.py)|Python|8kyu|211108|
 |0403|BaekJoon|[하얀 칸](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%98%EC%96%80%20%EC%B9%B8.py)|Python|1100|211107|
 |0402|Codewars|[You're a square!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You're%20a%20square!.py)|Python|7kyu|211107|
 |0401|BaekJoon|[슈퍼 마리오](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4.py)|Python|2851|211106|

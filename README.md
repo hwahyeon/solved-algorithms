@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0410|Codewars|[SQL Basics: Simple table totaling.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20table%20totaling.sql)|PostgreSQL|6kyu|211110|
+|0409|BaekJoon|[준살 프로그래밍 대회](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%80%EC%82%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C.py)|Python|7513|211110|
+|0408|BaekJoon|[CASIO](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20CASIO.py)|Python|15963|211110|
 |0407|Codewars|[Keep up the hoop](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Keep%20up%20the%20hoop.py)|Python|8kyu|211109|
 |0406|BaekJoon|[킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%82%B9%2C%20%ED%80%B8%2C%20%EB%A3%A9%2C%20%EB%B9%84%EC%88%8D%2C%20%EB%82%98%EC%9D%B4%ED%8A%B8%2C%20%ED%8F%B0.py)|Python|3003|211109|
 |0405|BaekJoon|[파티가 끝나고 난 뒤](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%8C%ED%8B%B0%EA%B0%80%20%EB%81%9D%EB%82%98%EA%B3%A0%20%EB%82%9C%20%EB%92%A4.py)|Python|2845|211108|

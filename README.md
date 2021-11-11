@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0412|Codewars|[Double Char](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Double%20Char.py)|Python|8kyu|211111|
+|0411|BaekJoon|[달팽이는 올라가고 싶다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%20%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%20%EC%8B%B6%EB%8B%A4.py)|Python|2869|211111|
 |0410|Codewars|[SQL Basics: Simple table totaling.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20table%20totaling.sql)|PostgreSQL|6kyu|211110|
 |0409|BaekJoon|[준살 프로그래밍 대회](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%80%EC%82%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C.py)|Python|7513|211110|
 |0408|BaekJoon|[CASIO](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20CASIO.py)|Python|15963|211110|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0419|BaekJoon|[시험 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98.py)|Python|5596|211114|
+|0418|BaekJoon|[사파리월드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C.py)|Python|2420|211114|
 |0417|Codewars|[SQL Basics: Simple WITH](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WITH.sql)|PostgreSQL|6kyu|211114|
 |0416|BaekJoon|[사칙연산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0_.py)|Python|13420|211113|
 |0415|Codewars|[Can we divide it?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Can%20we%20divide%20it%3F.py)|Python|8kyu|211113|

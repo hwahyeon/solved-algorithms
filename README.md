@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0421|Codewars|[SQL Basics: Simple NULL handling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20NULL%20handling.sql)|PostgreSQL|6kyu|211115|
+|0420|BaekJoon|[영화감독 숌](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)|Python|1436|211115|
 |0419|BaekJoon|[시험 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98.py)|Python|5596|211114|
 |0418|BaekJoon|[사파리월드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C.py)|Python|2420|211114|
 |0417|Codewars|[SQL Basics: Simple WITH](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20WITH.sql)|PostgreSQL|6kyu|211114|

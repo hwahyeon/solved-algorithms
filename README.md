@@ -4,6 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0421|Codewars|[Digitize](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Digitize.py)|Python|7kyu|211116|
+|0421|Codewars|[Grasshopper - Variable Assignment Debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Variable%20Assignment%20Debug.py)|Python|8kyu|211116|
+|0421|Codewars|[Grasshopper - Basic Function Fixer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Basic%20Function%20Fixer.py)|Python|8kyu|211116|
+|0422|BaekJoon|[세탁소 사장 동혁](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%ED%83%81%EC%86%8C%20%EC%82%AC%EC%9E%A5%20%EB%8F%99%ED%98%81.py)|Python|2720|211116|
 |0421|Codewars|[SQL Basics: Simple NULL handling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20NULL%20handling.sql)|PostgreSQL|6kyu|211115|
 |0420|BaekJoon|[영화감독 숌](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)|Python|1436|211115|
 |0419|BaekJoon|[시험 점수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%ED%97%98%20%EC%A0%90%EC%88%98.py)|Python|5596|211114|

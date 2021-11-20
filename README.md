@@ -4,9 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0422|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
-|0413|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|
-|0413|Codewars|[Convert a String to a Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20String%20to%20a%20Number!.py)|Python|8kyu|211120|
+|0435|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
+|0434|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|
+|0433|Codewars|[Convert a String to a Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20String%20to%20a%20Number!.py)|Python|8kyu|211120|
 |0432|BaekJoon|[30](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2030.py)|Python|10610|211119|
 |0431|Codewars|[SQL Basics: Simple JOIN and RANK](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20and%20RANK.sql)|PostgreSQL|6kyu|211119|
 |0430|Codewars|[String ends with?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20ends%20with%3F.py)|Python|7kyu|211118|

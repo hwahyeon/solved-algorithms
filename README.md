@@ -4,6 +4,15 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0422|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
+|0413|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|
+|0413|Codewars|[Convert a String to a Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20String%20to%20a%20Number!.py)|Python|8kyu|211120|
+|0422|BaekJoon|[30](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2030.py)|Python|10610|211119|
+|0421|Codewars|[SQL Basics: Simple JOIN and RANK](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Basics:%20Simple%20JOIN%20and%20RANK.sql)|PostgreSQL|6kyu|211119|
+|0421|Codewars|[String ends with?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20ends%20with%3F.py)|Python|7kyu|211118|
+|0422|BaekJoon|[설탕 배달](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC.py)|Python|2839|211118|
+|0421|Codewars|[Exes and Ohs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Exes%20and%20Ohs.py)|Python|7kyu|211117|
+|0422|BaekJoon|[세수정렬](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC.py)|Python|2752|211118|
 |0424|Programmers|[오픈채팅방](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Programmers%20%7C%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)|Python|42888|211117|
 |0423|Codewars|[Digitize](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Digitize.py)|Python|7kyu|211116|
 |0422|Codewars|[Grasshopper - Variable Assignment Debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Variable%20Assignment%20Debug.py)|Python|8kyu|211116|

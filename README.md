@@ -6,12 +6,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |:---:|:---:|---|---|---|:---:|
 |0434|Codewars|[Break camelCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Break%20camelCase.py)|Python|6kyu|211124|
 |0435|BaekJoon|[다이얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|Python|5622|211124|
-
-
+|0435|BaekJoon|[우유 축제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B0%EC%9C%A0%20%EC%B6%95%EC%A0%9C.py)|Python|14720|211123|
+|0435|BaekJoon|[욱제는 효도쟁이야!!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B1%EC%A0%9C%EB%8A%94%20%ED%9A%A8%EB%8F%84%EC%9F%81%EC%9D%B4%EC%95%BC!!.py)|Python|14487|211123|
+|0434|Codewars|[I love you, a little , a lot, passionately ... not at all](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20I%20love%20you%2C%20a%20little%20%2C%20a%20lot%2C%20passionately%20...%20not%20at%20all.py)|Python|8kyu|211123|
 |0440|Codewars|[SQL Bug Fixing: Fix the QUERY - Totaling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Bug%20Fixing:%20Fix%20the%20QUERY%20-%20Totaling.sql)|PostgreSQL|6kyu|211122|
 |0439|BaekJoon|[쿠폰](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BF%A0%ED%8F%B0.py)|Python|10179|211122|
 |0438|Codewars|[Your order, please](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Your%20order%2C%20please.py)|Python|6kyu|211121|
-|0437|Codewars|[Convert a Number to a String!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20Number%20to%20a%20String!.py)|Python|6kyu|211121|
+|0437|Codewars|[Convert a Number to a String!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20Number%20to%20a%20String!.py)|Python|8kyu|211121|
 |0436|BaekJoon|[10부제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2010%EB%B6%80%EC%A0%9C.py)|Python|10797|211121|
 |0435|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
 |0434|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|

@@ -4,6 +4,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0434|Codewars|[Break camelCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Break%20camelCase.py)|Python|6kyu|211124|
+|0435|BaekJoon|[다이얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|Python|5622|211124|
+
+
+
+
 |0435|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
 |0434|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|
 |0433|Codewars|[Convert a String to a Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20String%20to%20a%20Number!.py)|Python|8kyu|211120|

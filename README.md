@@ -8,8 +8,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0435|BaekJoon|[다이얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|Python|5622|211124|
 
 
-
-
+|0440|Codewars|[SQL Bug Fixing: Fix the QUERY - Totaling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20SQL%20Bug%20Fixing:%20Fix%20the%20QUERY%20-%20Totaling.sql)|PostgreSQL|6kyu|211122|
+|0439|BaekJoon|[쿠폰](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BF%A0%ED%8F%B0.py)|Python|10179|211122|
+|0438|Codewars|[Your order, please](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Your%20order%2C%20please.py)|Python|6kyu|211121|
+|0437|Codewars|[Convert a Number to a String!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20Number%20to%20a%20String!.py)|Python|6kyu|211121|
+|0436|BaekJoon|[10부제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2010%EB%B6%80%EC%A0%9C.py)|Python|10797|211121|
 |0435|BaekJoon|[수도요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88.py)|Python|10707|211120|
 |0434|Codewars|[Beginner Series #4 Cockroach](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%234%20Cockroach.py)|Python|8kyu|211120|
 |0433|Codewars|[Convert a String to a Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20String%20to%20a%20Number!.py)|Python|8kyu|211120|

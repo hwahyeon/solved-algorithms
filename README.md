@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0447|Codewars|[ASCII Total](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20ASCII%20Total.py)|Python|8kyu|211125|
+|0446|BaekJoon|[벌집](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B2%8C%EC%A7%91.py)|Python|2292|211125|
 |0445|Codewars|[Break camelCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Break%20camelCase.py)|Python|6kyu|211124|
 |0444|BaekJoon|[다이얼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|Python|5622|211124|
 |0443|BaekJoon|[우유 축제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B0%EC%9C%A0%20%EC%B6%95%EC%A0%9C.py)|Python|14720|211123|

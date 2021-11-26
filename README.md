@@ -4,6 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0451|Codewars|[Convert a string to an array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20string%20to%20an%20array.py)|Python|8kyu|211126|
+|0450|Codewars|[Function 3 - multiplying two numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Function%203%20-%20multiplying%20two%20numbers.py)|Python|8kyu|211126|
+|0449|Codewars|[Function 2 - squaring an argument](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Function%202%20-%20squaring%20an%20argument.py)|Python|8kyu|211126|
+|0448|BaekJoon|[수 정렬하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)|Python|2750|211126|
 |0447|Codewars|[ASCII Total](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20ASCII%20Total.py)|Python|8kyu|211125|
 |0446|BaekJoon|[벌집](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B2%8C%EC%A7%91.py)|Python|2292|211125|
 |0445|Codewars|[Break camelCase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Break%20camelCase.py)|Python|6kyu|211124|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0453|Codewars|[Beginner Series #1 School Paperwork](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%231%20School%20Paperwork.py)|Python|8kyu|211127|
+|0452|BaekJoon|[17배](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2017%EB%B0%B0.py)|Python|5893|211127|
 |0451|Codewars|[Convert a string to an array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20string%20to%20an%20array.py)|Python|8kyu|211126|
 |0450|Codewars|[Function 3 - multiplying two numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Function%203%20-%20multiplying%20two%20numbers.py)|Python|8kyu|211126|
 |0449|Codewars|[Function 2 - squaring an argument](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Function%202%20-%20squaring%20an%20argument.py)|Python|8kyu|211126|

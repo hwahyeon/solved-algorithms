@@ -4,6 +4,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0456|Codewars|[Sum of positive](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20positive.py)|Python|8kyu|211129|
+|0456|Codewars|[Is it even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20even%3F.py)|Python|8kyu|211129|
+|0456|Codewars|[Basic variable assignment](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Basic%20variable%20assignment.py)|Python|8kyu|211129|
+|0455|BaekJoon|[파일 옮기기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%8C%EC%9D%BC%20%EC%98%AE%EA%B8%B0%EA%B8%B0.py)|Python|11943|211129|
+|0456|Codewars|[DNA to RNA Conversion](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20DNA%20to%20RNA%20Conversion.py)|Python|8kyu|211128|
+|0455|BaekJoon|[한글](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EA%B8%80.py)|Python|11282|211128|
+|0454|BaekJoon|[특별한 날](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8A%B9%EB%B3%84%ED%95%9C%20%EB%82%A0.py)|Python|10768|211128|
 |0453|Codewars|[Beginner Series #1 School Paperwork](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Beginner%20Series%20%231%20School%20Paperwork.py)|Python|8kyu|211127|
 |0452|BaekJoon|[17배](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2017%EB%B0%B0.py)|Python|5893|211127|
 |0451|Codewars|[Convert a string to an array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20a%20string%20to%20an%20array.py)|Python|8kyu|211126|

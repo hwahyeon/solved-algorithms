@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0462|Codewars|[Simple multiplication](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20multiplication.py)|Python|8kyu|211130|
+|0461|BaekJoon|[윷놀이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%B7%EB%86%80%EC%9D%B4.py)|Python|2490|211130|
 |0460|Codewars|[Sum of positive](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20positive.py)|Python|8kyu|211129|
 |0459|Codewars|[Is it even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20it%20even%3F.py)|Python|8kyu|211129|
 |0458|Codewars|[Basic variable assignment](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Basic%20variable%20assignment.py)|Python|8kyu|211129|

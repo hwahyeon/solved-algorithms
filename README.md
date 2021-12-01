@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0465|Codewars|[Sum of many ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20many%20ints.py)|Python|6kyu|211201|
+|0464|BaekJoon|[카드 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|Python|5522|211201|
+|0463|BaekJoon|[영수증](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%EC%88%98%EC%A6%9D.py)|Python|5565|211201|
 |0462|Codewars|[Simple multiplication](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20multiplication.py)|Python|8kyu|211130|
 |0461|BaekJoon|[윷놀이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%B7%EB%86%80%EC%9D%B4.py)|Python|2490|211130|
 |0460|Codewars|[Sum of positive](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20positive.py)|Python|8kyu|211129|

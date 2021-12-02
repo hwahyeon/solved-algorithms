@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0466|Codewars|[Thinking & Testing: A * B?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Thinking%20%26%20Testing:%20A%20*%20B%3F.py)|Python|6kyu|211202|
 |0465|Codewars|[Sum of many ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20many%20ints.py)|Python|6kyu|211201|
 |0464|BaekJoon|[카드 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|Python|5522|211201|
 |0463|BaekJoon|[영수증](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%EC%88%98%EC%A6%9D.py)|Python|5565|211201|

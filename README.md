@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0469|Codewars|[Reverse List Order](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20List%20Order.py)|Python|8kyu|211203|
+|0468|BaekJoon|[분산처리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC.py)|Python|1009|211203|
+|0467|BaekJoon|[이상한 기호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EA%B8%B0%ED%98%B8.py)|Python|15964|211202|
 |0466|Codewars|[Thinking & Testing: A * B?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Thinking%20%26%20Testing:%20A%20*%20B%3F.py)|Python|6kyu|211202|
 |0465|Codewars|[Sum of many ints](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20many%20ints.py)|Python|6kyu|211201|
 |0464|BaekJoon|[카드 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|Python|5522|211201|

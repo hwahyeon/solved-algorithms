@@ -4,7 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0471|BaekJoon|[이진수 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%A7%EC%85%88.py)|Python|1252|211204|
+|0473|BaekJoon|[이진수 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%A7%EC%85%88.py)|Python|1252|211204|
 |0472|Codewars|[X marks the spot!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20X%20marks%20the%20spot!.py)|Python|6kyu|211204|
 |0471|BaekJoon|[직사각형에서 탈출](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C.py)|Python|1085|211204|
 |0470|Codewars|[Handshake problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Handshake%20problem.py)|Python|6kyu|211204|

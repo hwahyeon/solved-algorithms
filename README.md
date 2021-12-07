@@ -4,8 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0474|Codewars|[Return Two Highest Values in List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Two%20Highest%20Values%20in%20List.py)|Python|8kyu|211207|
-|0475|BaekJoon|[팀 나누기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%80%20%EB%82%98%EB%88%84%EA%B8%B0.py)|Python|13866|211207|
+|0477|Codewars|[Return Two Highest Values in List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Two%20Highest%20Values%20in%20List.py)|Python|8kyu|211207|
+|0476|BaekJoon|[팀 나누기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%80%20%EB%82%98%EB%88%84%EA%B8%B0.py)|Python|13866|211207|
 |0475|BaekJoon|[상근날드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|Python|5543|211206|
 |0474|Codewars|[Drink about](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Drink%20about.py)|Python|8kyu|211206|
 |0473|BaekJoon|[이진수 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%A7%EC%85%88.py)|Python|1252|211205|

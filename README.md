@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0479|Codewars|[Will you make it?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Will%20you%20make%20it%3F.py)|Python|8kyu|211208|
+|0478|BaekJoon|[과목선택](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EB%AA%A9%EC%84%A0%ED%83%9D.py)|Python|11948|211208|
 |0477|Codewars|[Return Two Highest Values in List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Two%20Highest%20Values%20in%20List.py)|Python|8kyu|211207|
 |0476|BaekJoon|[팀 나누기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%80%20%EB%82%98%EB%88%84%EA%B8%B0.py)|Python|13866|211207|
 |0475|BaekJoon|[상근날드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|Python|5543|211206|

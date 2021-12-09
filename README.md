@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0481|BaekJoon|[공백 없는 A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B5%EB%B0%B1%20%EC%97%86%EB%8A%94%20A%2BB.py)|Python|15873|211209|
+|0480|Codewars|[Take a Ten Minute Walk](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Take%20a%20Ten%20Minute%20Walk.py)|Python|6kyu|211209|
 |0479|Codewars|[Will you make it?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Will%20you%20make%20it%3F.py)|Python|8kyu|211208|
 |0478|BaekJoon|[과목선택](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EB%AA%A9%EC%84%A0%ED%83%9D.py)|Python|11948|211208|
 |0477|Codewars|[Return Two Highest Values in List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20Two%20Highest%20Values%20in%20List.py)|Python|8kyu|211207|

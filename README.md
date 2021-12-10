@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0484|Codewars|[Beginner - Lost Without a Map](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Beginner%20-%20Lost%20Without%20a%20Map.r)|R|8kyu|211211|
 |0483|Codewars|[Array plus array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Array%20plus%20array.py)|Python|8kyu|211210|
 |0482|BaekJoon|[와이버스 부릉부릉](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4%20%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89.rs)|Rust|14645|211210|
 |0481|BaekJoon|[공백 없는 A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B5%EB%B0%B1%20%EC%97%86%EB%8A%94%20A%2BB.py)|Python|15873|211209|

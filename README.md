@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0488|Codewars|[Short Long Short](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Short%20Long%20Short.py)|Python|8kyu|211211|
 |0487|BaekJoon|[감정이입](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%90%EC%A0%95%EC%9D%B4%EC%9E%85.py)|Python|14623|211211|
 |0486|BaekJoon|[엔드게임 스포일러](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%EC%97%94%EB%93%9C%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC.rs)|Rust|17295|211211|
 |0485|Codewars|[Beginner - Reduce but Grow](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Beginner%20-%20Reduce%20but%20Grow.r)|R|8kyu|211211|

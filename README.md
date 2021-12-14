@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0497|BaekJoon|[2진수 8진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98.py)|Python|1373|211214|
 |0496|Codewars|[Grasshopper - Grade book](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Grasshopper%20-%20Grade%20book.r)|R|8kyu|211214|
 |0495|Codewars|[L1: Set Alarm](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20L1:%20Set%20Alarm.r)|R|8kyu|211214|
 |0494|Codewars|[Count the Monkeys!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Count%20the%20Monkeys!.r)|R|8kyu|211214|

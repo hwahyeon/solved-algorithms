@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0500|Codewars|[Sum Mixed Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20Mixed%20Array.r)|R|8kyu|211215|
 |0499|Codewars|[Get the mean of an array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Get%20the%20mean%20of%20an%20array.r)|R|8kyu|211215|
 |0498|Codewars|[Fake Binary](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Fake%20Binary.r)|R|8kyu|211215|
 |0497|BaekJoon|[2진수 8진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98.py)|Python|1373|211214|

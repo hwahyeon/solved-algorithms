@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0501|BaekJoon|[행운의 편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%ED%96%89%EC%9A%B4%EC%9D%98%20%ED%8E%B8%EC%A7%80.rs)|Rust|13311|211215|
 |0500|Codewars|[Sum Mixed Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20Mixed%20Array.r)|R|8kyu|211215|
 |0499|Codewars|[Get the mean of an array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Get%20the%20mean%20of%20an%20array.r)|R|8kyu|211215|
 |0498|Codewars|[Fake Binary](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Fake%20Binary.r)|R|8kyu|211215|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0506|BaekJoon|[셀프 넘버](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.py)|Python|4673|211216|
 |0505|Codewars|[101 Dalmatians - squash the bugs, not the dogs!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20101%20Dalmatians%20-%20squash%20the%20bugs%2C%20not%20the%20dogs!.r)|R|8kyu|211216|
 |0504|Codewars|[My head is at the wrong end!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20My%20head%20is%20at%20the%20wrong%20end!.r)|R|8kyu|211216|
 |0503|Codewars|[Shortest Word](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Shortest%20Word.r)|R|7kyu|211216|

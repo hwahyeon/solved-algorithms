@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0505|Codewars|[101 Dalmatians - squash the bugs, not the dogs!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20101%20Dalmatians%20-%20squash%20the%20bugs%2C%20not%20the%20dogs!.r)|R|8kyu|211216|
+|0504|Codewars|[My head is at the wrong end!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20My%20head%20is%20at%20the%20wrong%20end!.r)|R|8kyu|211216|
 |0503|Codewars|[Shortest Word](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Shortest%20Word.r)|R|7kyu|211216|
 |0502|Codewars|[Perimeter sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Perimeter%20sequence.r)|R|7kyu|211216|
 |0501|BaekJoon|[행운의 편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%ED%96%89%EC%9A%B4%EC%9D%98%20%ED%8E%B8%EC%A7%80.rs)|Rust|13311|211215|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0512|BaekJoon|[이칙연산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%B9%99%EC%97%B0%EC%82%B0.py)|Python|15726|211217|
 |0511|Codewars|[Correct the mistakes of the character recognition software](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Correct%20the%20mistakes%20of%20the%20character%20recognition%20software.r)|R|8kyu|211217|
 |0510|Codewars|[Basic Mathematical Operations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Basic%20Mathematical%20Operations.r)|R|8kyu|211217|
 |0509|Codewars|[Find Maximum and Minimum Values of a List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.r)|R|8kyu|211217|

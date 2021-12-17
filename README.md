@@ -4,6 +4,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0511|Codewars|[Correct the mistakes of the character recognition software](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Correct%20the%20mistakes%20of%20the%20character%20recognition%20software.r)|R|8kyu|211217|
+|0510|Codewars|[Basic Mathematical Operations](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Basic%20Mathematical%20Operations.r)|R|8kyu|211217|
+|0509|Codewars|[Find Maximum and Minimum Values of a List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.r)|R|8kyu|211217|
+|0508|Codewars|[Find the smallest integer in the array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Find%20the%20smallest%20integer%20in%20the%20array.r)|R|8kyu|211217|
+|0507|Codewars|[Abbreviate a Two Word Name](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Abbreviate%20a%20Two%20Word%20Name.r)|R|8kyu|211217|
 |0506|BaekJoon|[셀프 넘버](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.py)|Python|4673|211216|
 |0505|Codewars|[101 Dalmatians - squash the bugs, not the dogs!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20101%20Dalmatians%20-%20squash%20the%20bugs%2C%20not%20the%20dogs!.r)|R|8kyu|211216|
 |0504|Codewars|[My head is at the wrong end!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20My%20head%20is%20at%20the%20wrong%20end!.r)|R|8kyu|211216|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0519|BaekJoon|[방학 숙제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%A9%ED%95%99%20%EC%88%99%EC%A0%9C.py)|Python|5532|211220|
 |0518|Codewars|[Student's Final Grade](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Student's%20Final%20Grade.r)|R|8kyu|211220|
 |0517|BaekJoon|[Next in line](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Next%20in%20line.py)|Python|6749|211219|
 |0516|Codewars|[Thinkful - Number Drills: Pixelart planning](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Thinkful%20-%20Number%20Drills:%20Pixelart%20planning.r)|R|8kyu|211219|

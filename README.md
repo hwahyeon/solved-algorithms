@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0521|Codewars|[get character from ASCII Value](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20get%20character%20from%20ASCII%20Value.r)|R|8kyu|211221|
+|0520|Codewars|[Are You Playing Banjo?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Are%20You%20Playing%20Banjo%3F.r)|R|8kyu|211221|
 |0519|BaekJoon|[방학 숙제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%A9%ED%95%99%20%EC%88%99%EC%A0%9C.py)|Python|5532|211220|
 |0518|Codewars|[Student's Final Grade](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Student's%20Final%20Grade.r)|R|8kyu|211220|
 |0517|BaekJoon|[Next in line](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Next%20in%20line.py)|Python|6749|211219|

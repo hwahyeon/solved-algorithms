@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0523|Codewars|[Will there be enough space?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Will%20there%20be%20enough%20space%3F.r)|R|8kyu|211222|
 |0522|BaekJoon|[TV 크기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20TV%20%ED%81%AC%EA%B8%B0.py)|Python|1297|211221|
 |0521|Codewars|[get character from ASCII Value](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20get%20character%20from%20ASCII%20Value.r)|R|8kyu|211221|
 |0520|Codewars|[Are You Playing Banjo?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Are%20You%20Playing%20Banjo%3F.r)|R|8kyu|211221|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0528|Codewars|[Difference of Volumes of Cuboids](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Difference%20of%20Volumes%20of%20Cuboids.r)|R|8kyu|211224|
+|0527|BaekJoon|[수학은 체육과목 입니다 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%ED%95%99%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4%202.py)|Python|17362|211224|
 |0526|BaekJoon|[삼각형 외우기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%20%EC%99%B8%EC%9A%B0%EA%B8%B0.py)|Python|10101|211223|
 |0525|Codewars|[Invert values](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Invert%20values.r)|R|8kyu|211223|
 |0524|BaekJoon|[문어 숫자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%96%B4%20%EC%88%AB%EC%9E%90.py)|Python|1864|211222|

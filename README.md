@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0534|Codewars|[Grasshopper - Personalized Message](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Grasshopper%20-%20Personalized%20Message.r)|R|8kyu|211226|
+|0533|Codewars|[Count Odd Numbers below n](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Count%20Odd%20Numbers%20below%20n.r)|R|8kyu|211226|
 |0532|BaekJoon|[Арифметическая магия](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%8F.rs)|Rust|18096|211226|
 |0531|BaekJoon|[The World Responds](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20The%20World%20Responds.rs)|Rust|23234|211226|
 |0530|BaekJoon|[FA](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20FA.rs)|Rust|14935|211225|

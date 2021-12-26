@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0531|BaekJoon|[The World Responds](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20The%20World%20Responds.rs)|Rust|23234|211226|
 |0530|BaekJoon|[FA](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20FA.rs)|Rust|14935|211225|
 |0529|Codewars|[Holiday VIII - Duty Free](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Holiday%20VIII%20-%20Duty%20Free.r)|R|8kyu|211225|
 |0528|Codewars|[Difference of Volumes of Cuboids](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Difference%20of%20Volumes%20of%20Cuboids.r)|R|8kyu|211224|

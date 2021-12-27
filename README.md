@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0539|BaekJoon|[Site Score](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Site%20Score.py)|Python|20254|211227|
 |0538|Codewars|[Switch it Up!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Switch%20it%20Up!.r)|R|8kyu|211227|
 |0537|Codewars|[Is there a vowel in there?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Is%20there%20a%20vowel%20in%20there%3F.r)|R|8kyu|211227|
 |0536|Codewars|[Twice as old](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Twice%20as%20old.r)|R|8kyu|211227|

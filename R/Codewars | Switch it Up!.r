@@ -5,5 +5,5 @@ switch_it_up <- function(number){
 
 #
 switch_it_up <- function(number){
- c('One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine')[number+1]
+ c('Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine')[number+1]
 }

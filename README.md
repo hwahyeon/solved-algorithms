@@ -4,6 +4,10 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0538|Codewars|[Switch it Up!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Switch%20it%20Up!.r)|R|8kyu|211227|
+|0537|Codewars|[Is there a vowel in there?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Is%20there%20a%20vowel%20in%20there%3F.r)|R|8kyu|211227|
+|0536|Codewars|[Twice as old](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Twice%20as%20old.r)|R|8kyu|211227|
+|0535|Codewars|[Get Nth Even Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Get%20Nth%20Even%20Number.r)|R|8kyu|211227|
 |0534|Codewars|[Grasshopper - Personalized Message](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Grasshopper%20-%20Personalized%20Message.r)|R|8kyu|211226|
 |0533|Codewars|[Count Odd Numbers below n](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Count%20Odd%20Numbers%20below%20n.r)|R|8kyu|211226|
 |0532|BaekJoon|[Арифметическая магия](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%8F.rs)|Rust|18096|211226|

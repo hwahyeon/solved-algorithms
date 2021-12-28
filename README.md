@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0545|BaekJoon|[타임 카드](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%80%EC%9E%84%20%EC%B9%B4%EB%93%9C.py)|Python|5575|211228|
 |0544|Codewars|[Cat years, Dog years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Cat%20years%2C%20Dog%20years.r)|R|8kyu|211228|
 |0543|Codewars|[Thinkful - Logic Drills: Traffic light](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Thinkful%20-%20Logic%20Drills:%20Traffic%20light.r)|R|8kyu|211228|
 |0542|Codewars|[Alan Partridge II - Apple Turnover](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Alan%20Partridge%20II%20-%20Apple%20Turnover.r)|R|8kyu|211228|

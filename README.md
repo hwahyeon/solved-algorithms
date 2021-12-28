@@ -4,6 +4,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0544|Codewars|[Cat years, Dog years](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Cat%20years%2C%20Dog%20years.r)|R|8kyu|211228|
+|0543|Codewars|[Thinkful - Logic Drills: Traffic light](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Thinkful%20-%20Logic%20Drills:%20Traffic%20light.r)|R|8kyu|211228|
+|0542|Codewars|[Alan Partridge II - Apple Turnover](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Alan%20Partridge%20II%20-%20Apple%20Turnover.r)|R|8kyu|211228|
+|0541|Codewars|[Pillars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Pillars.r)|R|8kyu|211228|
+|0540|Codewars|[Filter out the geese](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Filter%20out%20the%20geese.r)|R|8kyu|211228|
 |0539|BaekJoon|[Site Score](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Site%20Score.py)|Python|20254|211227|
 |0538|Codewars|[Switch it Up!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Switch%20it%20Up!.r)|R|8kyu|211227|
 |0537|Codewars|[Is there a vowel in there?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Is%20there%20a%20vowel%20in%20there%3F.r)|R|8kyu|211227|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0549|BaekJoon|[와글와글 숭고한](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80%20%EC%88%AD%EA%B3%A0%ED%95%9C.py)|Python|17388|211230|
 |0548|BaekJoon|[제리와 톰](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%9C%EB%A6%AC%EC%99%80%20%ED%86%B0.py)|Python|16430|211229|
 |0547|Codewars|[Is this a triangle?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Is%20this%20a%20triangle%3F.r)|R|7kyu|211229|
 |0546|Codewars|[8kyu interpreters: HQ9+](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%208kyu%20interpreters:%20HQ9%2B.r)|R|8kyu|211228|

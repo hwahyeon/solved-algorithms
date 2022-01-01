@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0554|Codewars|[Build a square](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Build%20a%20square.r)|R|7kyu|220101|
 |0553|BaekJoon|[NFC West vs North](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20NFC%20West%20vs%20North.rs)|Rust|10170|220101|
 |0552|BaekJoon|[달달함이 넘쳐흘러](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%B4%20%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC.py)|Python|17256|211231|
 |0551|Codewars|[Largest Square Inside A Circle](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Largest%20Square%20Inside%20A%20Circle.r)|R|7kyu|211231|

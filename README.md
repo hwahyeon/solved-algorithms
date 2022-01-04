@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0560|BaekJoon|[Julka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Julka.py)|Python|8437|220104|
 |0559|Codewars|[Codewars Leaderboard](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Codewars%20Leaderboard.py)|Python|6kyu|220104|
 |0558|Codewars|[Isograms](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Isograms.py)|Python|7kyu|220103|
 |0557|BaekJoon|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Multiply.py)|Python|22193|220103|

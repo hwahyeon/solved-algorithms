@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0564|Codewars|[Alternate case](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Alternate%20case.py)|Python|7kyu|220106|
 |0563|BaekJoon|[세 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%20%EC%88%98_.py)|Python|2985|220106|
 |0562|Codewars|[Identical Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Identical%20Elements.py)|Python|7kyu|220105|
 |0561|BaekJoon|[Equality](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Equality.py)|Python|13985|220105|

@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0567|BaekJoon|[유학 금지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%ED%95%99%20%EA%B8%88%EC%A7%80.py)|Python|2789|220107|
+|0566|Codewars|[Largest pair sum in array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Largest%20pair%20sum%20in%20array.py)|Python|7kyu|220107|
+|0565|Codewars|[Small enough? - Beginner](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Small%20enough%3F%20-%20Beginner.r)|R|7kyu|220107|
 |0564|Codewars|[Alternate case](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Alternate%20case.py)|Python|7kyu|220106|
 |0563|BaekJoon|[세 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%20%EC%88%98_.py)|Python|2985|220106|
 |0562|Codewars|[Identical Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Identical%20Elements.py)|Python|7kyu|220105|

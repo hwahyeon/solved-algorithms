@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0570|Codewars|[Spoonerize Me](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Spoonerize%20Me.r)|R|7kyu|220108|
+|0569|Codewars|[Boiled Eggs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Boiled%20Eggs.r)|R|7kyu|220108|
 |0568|BaekJoon|[정육각형과 삼각형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%95%EC%9C%A1%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%82%BC%EA%B0%81%ED%98%95.py)|Python|14264|220108|
 |0567|BaekJoon|[유학 금지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%ED%95%99%20%EA%B8%88%EC%A7%80.py)|Python|2789|220107|
 |0566|Codewars|[Largest pair sum in array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Largest%20pair%20sum%20in%20array.py)|Python|7kyu|220107|

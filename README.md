@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0572|BaekJoon|[アイスクリーム (Ice Cream)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%ED%95%99%20%EA%B8%88%EC%A7%80.py)|Python|24087|220109|
 |0571|Codewars|[Bumps in the Road](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Bumps%20in%20the%20Road.r)|R|7kyu|220109|
 |0570|Codewars|[Spoonerize Me](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Spoonerize%20Me.r)|R|7kyu|220108|
 |0569|Codewars|[Boiled Eggs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Boiled%20Eggs.r)|R|7kyu|220108|

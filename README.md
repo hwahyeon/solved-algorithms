@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0571|Codewars|[Bumps in the Road](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Bumps%20in%20the%20Road.r)|R|7kyu|220109|
 |0570|Codewars|[Spoonerize Me](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Spoonerize%20Me.r)|R|7kyu|220108|
 |0569|Codewars|[Boiled Eggs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Boiled%20Eggs.r)|R|7kyu|220108|
 |0568|BaekJoon|[정육각형과 삼각형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%95%EC%9C%A1%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%82%BC%EA%B0%81%ED%98%95.py)|Python|14264|220108|

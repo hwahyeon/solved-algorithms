@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0573|BaekJoon|[余り (Remainder)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E4%BD%99%E3%82%8A%20(Remainder).py)|Python|24078|220110|
 |0572|BaekJoon|[アイスクリーム (Ice Cream)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20(Ice%20Cream).py)|Python|24087|220109|
 |0571|Codewars|[Bumps in the Road](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Bumps%20in%20the%20Road.r)|R|7kyu|220109|
 |0570|Codewars|[Spoonerize Me](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Spoonerize%20Me.r)|R|7kyu|220108|

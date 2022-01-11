@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0577|BaekJoon|[무알콜 칵테일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B4%EC%95%8C%EC%BD%9C%20%EC%B9%B5%ED%85%8C%EC%9D%BC.py)|Python|2896|220111|
 |0576|Codewars|[Sum of array singles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20array%20singles.r)|R|7kyu|220111|
 |0575|Codewars|[Converting 12-hour time to 24-hour time](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Converting%2012-hour%20time%20to%2024-hour%20time.r)|R|7kyu|220111|
 |0574|Codewars|[Beginner Series #3 Sum of Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Beginner%20Series%20%233%20Sum%20of%20Numbers.r)|R|7kyu|220110|

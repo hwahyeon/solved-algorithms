@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0576|Codewars|[Sum of array singles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20array%20singles.r)|R|7kyu|220111|
+|0575|Codewars|[Converting 12-hour time to 24-hour time](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Converting%2012-hour%20time%20to%2024-hour%20time.r)|R|7kyu|220111|
 |0574|Codewars|[Beginner Series #3 Sum of Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Beginner%20Series%20%233%20Sum%20of%20Numbers.r)|R|7kyu|220110|
 |0573|BaekJoon|[余り (Remainder)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E4%BD%99%E3%82%8A%20(Remainder).py)|Python|24078|220110|
 |0572|BaekJoon|[アイスクリーム (Ice Cream)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20(Ice%20Cream).py)|Python|24087|220109|

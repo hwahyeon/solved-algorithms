@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0581|BaekJoon|[Tri-du](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tri-du.py)|Python|13597|220113|
+|0580|Codewars|[Sum of Cubes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20Cubes.r)|R|7kyu|220113|
 |0579|Codewars|[Sum of Triangular Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20Triangular%20Numbers.r)|R|7kyu|220112|
 |0578|BaekJoon|[2 番目に大きい整数 (The Second Largest Integer)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%20%E7%95%AA%E7%9B%AE%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%84%E6%95%B4%E6%95%B0%20(The%20Second%20Largest%20Integer).py)|Python|20976|220112|
 |0577|BaekJoon|[무알콜 칵테일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B4%EC%95%8C%EC%BD%9C%20%EC%B9%B5%ED%85%8C%EC%9D%BC.py)|Python|2896|220111|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0583|Codewars|[Rock Paper Scissors!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Rock%20Paper%20Scissors!.r)|R|8kyu|220114|
+|0582|BaekJoon|[SciComLove](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20SciComLove.py)|Python|21598|220114|
 |0581|BaekJoon|[Tri-du](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tri-du.py)|Python|13597|220113|
 |0580|Codewars|[Sum of Cubes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20Cubes.r)|R|7kyu|220113|
 |0579|Codewars|[Sum of Triangular Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Sum%20of%20Triangular%20Numbers.r)|R|7kyu|220112|

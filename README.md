@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0586|BaekJoon|[Identifying tea](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Identifying%20tea.py)|Python|11549|220115|
 |0585|Codewars|[Automorphic Number (Special Numbers Series #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Automorphic%20Number%20(Special%20Numbers%20Series%20%236).r)|R|7kyu|220115|
 |0584|Codewars|[Love vs friendship](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Love%20vs%20friendship.r)|R|7kyu|220115|
 |0583|Codewars|[Rock Paper Scissors!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Rock%20Paper%20Scissors!.r)|R|8kyu|220114|

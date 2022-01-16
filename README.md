@@ -4,7 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0588|Codewars|[!a == a ?!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Love%20vs%20friendship.r)|R|8kyu|220116|
+|0588|Codewars|[!a == a ?!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20!a%20%3D%3D%20a%20%3F!.js)|JavaScript|8kyu|220116|
 |0587|BaekJoon|[身長 (Height)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E8%BA%AB%E9%95%B7%20(Height).py)|Python|24086|220116|
 |0586|BaekJoon|[Identifying tea](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Identifying%20tea.py)|Python|11549|220115|
 |0585|Codewars|[Automorphic Number (Special Numbers Series #6)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Automorphic%20Number%20(Special%20Numbers%20Series%20%236).r)|R|7kyu|220115|

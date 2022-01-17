@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0590|Codewars|[Get the Middle Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Get%20the%20Middle%20Character.r)|R|7kyu|220117|
 |0589|BaekJoon|[3 つの整数 (Three Integers)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%203%20%E3%81%A4%E3%81%AE%E6%95%B4%E6%95%B0%20(Three%20Integers).py)|Python|18408|220117|
 |0588|Codewars|[!a == a ?!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20!a%20%3D%3D%20a%20%3F!.js)|JavaScript|8kyu|220116|
 |0587|BaekJoon|[身長 (Height)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E8%BA%AB%E9%95%B7%20(Height).py)|Python|24086|220116|

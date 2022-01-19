@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0594|Codewars|[Define a card suit](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Define%20a%20card%20suit.py)|Python|8kyu|220119|
+|0593|BaekJoon|[Atrium](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Atrium.py)|Python|20353|220119|
 |0592|Codewars|[Scrolling Text](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Scrolling%20Text.py)|Python|7kyu|220118|
 |0591|BaekJoon|[金平糖 (Konpeito)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E9%87%91%E5%B9%B3%E7%B3%96%20(Konpeito).py)|Python|22015|220118|
 |0590|Codewars|[Get the Middle Character](https://github.com/hwahyeon/Solved_Algorithm/blob/main/R/Codewars%20%7C%20Get%20the%20Middle%20Character.r)|R|7kyu|220117|

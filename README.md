@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0596|BaekJoon|[Hard choice](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hard%20choice.py)|Python|15059|220120|
+|0595|Codewars|[Template Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Template%20Strings.py)|Python|8kyu|220120|
 |0594|Codewars|[Define a card suit](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Define%20a%20card%20suit.py)|Python|8kyu|220119|
 |0593|BaekJoon|[Atrium](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Atrium.py)|Python|20353|220119|
 |0592|Codewars|[Scrolling Text](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Scrolling%20Text.py)|Python|7kyu|220118|

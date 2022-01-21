@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0599|Codewars|[How good are you really?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20How%20good%20are%20you%20really%3F.js)|JavaScript|8kyu|220121|
+|0598|BaekJoon|[오각형, 오각형, 오각형…](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%EA%B0%81%ED%98%95%2C%20%EC%98%A4%EA%B0%81%ED%98%95%2C%20%EC%98%A4%EA%B0%81%ED%98%95%E2%80%A6.py)|Python|1964|220121|
+|0597|BaekJoon|[SASA 모형을 만들어보자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20SASA%20%EB%AA%A8%ED%98%95%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90.py)|Python|23825|220121|
 |0596|BaekJoon|[Hard choice](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hard%20choice.py)|Python|15059|220120|
 |0595|Codewars|[Template Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Template%20Strings.py)|Python|8kyu|220120|
 |0594|Codewars|[Define a card suit](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Define%20a%20card%20suit.py)|Python|8kyu|220119|

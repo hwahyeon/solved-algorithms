@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0605|Codewars|[Grasshopper - If/else syntax debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Ifelse%20syntax%20debug.js)|JavaScript|8kyu|220124|
+|0604|BaekJoon|[Laptop Sticker](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Laptop%20Sticker.py)|Python|21591|220124|
 |0603|Codewars|[Semi-Optional](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Semi-Optional.js)|JavaScript|8kyu|220123|
 |0602|BaekJoon|[Archivist](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Archivist.py)|Python|20232|220123|
 |0601|BaekJoon|[사탕 선생 고창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%83%95%20%EC%84%A0%EC%83%9D%20%EA%B3%A0%EC%B0%BD%EC%98%81.py)|Python|2547|220122|

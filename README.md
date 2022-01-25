@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0607|Codewars|[Basic Training: Add item to an Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Basic%20Training:%20Add%20item%20to%20an%20Array.js)|JavaScript|8kyu|220125|
 |0606|BaekJoon|[Telemarketer or not?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Telemarketer%20or%20not%3F.py)|Python|16017|220125|
 |0605|Codewars|[Grasshopper - If/else syntax debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Ifelse%20syntax%20debug.js)|JavaScript|8kyu|220124|
 |0604|BaekJoon|[Laptop Sticker](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Laptop%20Sticker.py)|Python|21591|220124|

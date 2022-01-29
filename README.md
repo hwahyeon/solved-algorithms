@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0615|Codewars|[Unexpected parsing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unexpected%20parsing.py)|Python|8kyu|220129|
+|0614|BaekJoon|[Bottle Return](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Bottle%20Return.py)|Python|21300|220129|
 |0613|Codewars|[Name Your Python!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Name%20Your%20Python!.py)|Python|8kyu|220128|
 |0612|BaekJoon|[Vera and Outfits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Vera%20and%20Outfits.py)|Python|15439|220128|
 |0611|BaekJoon|[立方体 (Cube)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E7%AB%8B%E6%96%B9%E4%BD%93%20(Cube).py)|Python|24082|220127|

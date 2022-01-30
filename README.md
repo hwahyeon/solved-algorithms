@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0617|Codewars|[Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Power.js)|JavaScript|8kyu|220130|
+|0616|BaekJoon|[시그마](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%EA%B7%B8%EB%A7%88.py)|Python|2355|220130|
 |0615|Codewars|[Unexpected parsing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unexpected%20parsing.py)|Python|8kyu|220129|
 |0614|BaekJoon|[Bottle Return](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Bottle%20Return.py)|Python|21300|220129|
 |0613|Codewars|[Name Your Python!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Name%20Your%20Python!.py)|Python|8kyu|220128|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0619|BaekJoon|[스타후르츠](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8A%A4%ED%83%80%ED%9B%84%EB%A5%B4%EC%B8%A0.py)|Python|17496|220131|
+|0618|Codewars|[Reversed sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Reversed%20sequence.js)|JavaScript|8kyu|220131|
 |0617|Codewars|[Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Power.js)|JavaScript|8kyu|220130|
 |0616|BaekJoon|[시그마](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%9C%EA%B7%B8%EB%A7%88.py)|Python|2355|220130|
 |0615|Codewars|[Unexpected parsing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unexpected%20parsing.py)|Python|8kyu|220129|

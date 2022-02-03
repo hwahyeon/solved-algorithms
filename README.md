@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0625|Codewars|[Volume of a Cuboid](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Volume%20of%20a%20Cuboid.py)|Python|8kyu|220203|
+|0624|BaekJoon|[試験 (Exam)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E8%A9%A6%E9%A8%93%20(Exam).py)|Python|18411|220203|
 |0623|Codewars|[Grasshopper - Create the rooms](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Create%20the%20rooms.py)|Python|8kyu|220202|
 |0622|BaekJoon|[뉴비의 기준은 뭘까?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%89%B4%EB%B9%84%EC%9D%98%20%EA%B8%B0%EC%A4%80%EC%9D%80%20%EB%AD%98%EA%B9%8C%3F.py)|Python|19944|220202|
 |0621|BaekJoon|[창영마을](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B0%BD%EC%98%81%EB%A7%88%EC%9D%84.py)|Python|3028|220201|

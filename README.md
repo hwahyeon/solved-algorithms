@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0627|Codewars|[Count of positives / sum of negatives](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20of%20positives.sum%20of%20negatives.py)|Python|8kyu|220204|
+|0626|BaekJoon|[별 찍기 - 13](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2013.py)|Python|2523|220204|
 |0625|Codewars|[Volume of a Cuboid](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Volume%20of%20a%20Cuboid.py)|Python|8kyu|220203|
 |0624|BaekJoon|[試験 (Exam)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E8%A9%A6%E9%A8%93%20(Exam).py)|Python|18411|220203|
 |0623|Codewars|[Grasshopper - Create the rooms](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Create%20the%20rooms.py)|Python|8kyu|220202|

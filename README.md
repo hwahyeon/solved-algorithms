@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0630|BaekJoon|[별 찍기 - 14](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2014.py)|Python|2556|220205|
 |0629|BaekJoon|[별 찍기 - 12](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2012.py)|Python|2522|220205|
 |0628|Codewars|[BASIC: Making Six Toast.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20BASIC:%20Making%20Six%20Toast.py)|Python|8kyu|220205|
 |0627|Codewars|[Count of positives / sum of negatives](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20of%20positives.sum%20of%20negatives.py)|Python|8kyu|220204|

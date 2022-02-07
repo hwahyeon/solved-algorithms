@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0634|Codewars|[Multiply the number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20the%20number.py)|Python|8kyu|220207|
+|0633|BaekJoon|[Winning Score](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Winning%20Score.py)|Python|17009|220207|
 |0632|Codewars|[repeatIt](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20repeatIt.py)|Python|8kyu|220206|
 |0631|BaekJoon|[Zadanie próbne 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Zadanie%20pr%C3%B3bne%202.py)|Python|8871|220206|
 |0630|BaekJoon|[별 찍기 - 14](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2014.py)|Python|2556|220205|

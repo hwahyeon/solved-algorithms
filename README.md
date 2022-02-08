@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0636|BaekJoon|[Even or Odd?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Even%20or%20Odd%3F.py)|Python|18005|220208|
+|0635|Codewars|[simple calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20simple%20calculator.py)|Python|8kyu|220208|
 |0634|Codewars|[Multiply the number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20the%20number.py)|Python|8kyu|220207|
 |0633|BaekJoon|[Winning Score](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Winning%20Score.py)|Python|17009|220207|
 |0632|Codewars|[repeatIt](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20repeatIt.py)|Python|8kyu|220206|

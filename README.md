@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0638|Codewars|[Leonardo Dicaprio and Oscars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leonardo%20Dicaprio%20and%20Oscars.py)|Python|8kyu|220209|
+|0637|BaekJoon|[Tournament Selection](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tournament%20Selection.py)|Python|14038|220209|
 |0636|BaekJoon|[Even or Odd?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Even%20or%20Odd%3F.py)|Python|18005|220208|
 |0635|Codewars|[simple calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20simple%20calculator.py)|Python|8kyu|220208|
 |0634|Codewars|[Multiply the number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20the%20number.py)|Python|8kyu|220207|

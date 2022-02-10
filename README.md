@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0640|Codewars|[Grasshopper - Combine strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Combine%20strings.py)|Python|8kyu|220210|
+|0639|BaekJoon|[X に最も近い値 (The Nearest Value)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20X%20%E3%81%AB%E6%9C%80%E3%82%82%E8%BF%91%E3%81%84%E5%80%A4%20(The%20Nearest%20Value).py)|Python|18414|220210|
 |0638|Codewars|[Leonardo Dicaprio and Oscars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leonardo%20Dicaprio%20and%20Oscars.py)|Python|8kyu|220209|
 |0637|BaekJoon|[Tournament Selection](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tournament%20Selection.py)|Python|14038|220209|
 |0636|BaekJoon|[Even or Odd?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Even%20or%20Odd%3F.py)|Python|18005|220208|

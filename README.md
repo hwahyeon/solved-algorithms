@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0642|BaekJoon|[별 찍기 - 15](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2015.py)|Python|10990|220211|
+|0641|Codewars|[Return the day](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20the%20day.py)|Python|8kyu|220211|
 |0640|Codewars|[Grasshopper - Combine strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Combine%20strings.py)|Python|8kyu|220210|
 |0639|BaekJoon|[X に最も近い値 (The Nearest Value)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20X%20%E3%81%AB%E6%9C%80%E3%82%82%E8%BF%91%E3%81%84%E5%80%A4%20(The%20Nearest%20Value).py)|Python|18414|220210|
 |0638|Codewars|[Leonardo Dicaprio and Oscars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Leonardo%20Dicaprio%20and%20Oscars.py)|Python|8kyu|220209|

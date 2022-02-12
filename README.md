@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0644|BaekJoon|[별 찍기 - 17](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2017.py)|Python|10992|220212|
+|0643|BaekJoon|[별 찍기 - 16](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2016.py)|Python|10991|220212|
 |0642|BaekJoon|[별 찍기 - 15](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2015.py)|Python|10990|220211|
 |0641|Codewars|[Return the day](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Return%20the%20day.py)|Python|8kyu|220211|
 |0640|Codewars|[Grasshopper - Combine strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Combine%20strings.py)|Python|8kyu|220210|

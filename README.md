@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0646|Codewars|[Chuck Norris VII - True or False? (Beginner)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Chuck%20Norris%20VII%20-%20True%20or%20False%3F%20(Beginner).js)|JavaScript|8kyu|220213|
 |0645|Codewars|[Grasshopper - Terminal Game #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Grasshopper%20-%20Terminal%20Game%20%231.py)|Python|8kyu|220212|
 |0644|BaekJoon|[별 찍기 - 17](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2017.py)|Python|10992|220212|
 |0643|BaekJoon|[별 찍기 - 16](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2016.py)|Python|10991|220212|

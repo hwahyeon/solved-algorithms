@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0651|BaekJoon|[수 이어 쓰기 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EC%9D%B4%EC%96%B4%20%EC%93%B0%EA%B8%B0%201.py)|Python|1748|220215|
+|0650|Codewars|[Barking mad](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Barking%20mad.py)|Python|8kyu|220215|
 |0649|Codewars|[Color Ghost](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Color%20Ghost.py)|Python|8kyu|220214|
 |0648|BaekJoon|[수 이어 쓰기 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EC%9D%B4%EC%96%B4%20%EC%93%B0%EA%B8%B0%203.py)|Python|2154|220214|
 |0647|BaekJoon|[별 찍기 - 20](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2020.py)|Python|10995|220213|

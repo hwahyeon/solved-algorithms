@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0653|Codewars|[Greek Sort](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greek%20Sort.py)|Python|8kyu|220216|
+|0652|BaekJoon|[A/B - 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%EF%BC%8FB%20-%203.py)|Python|16428|220216|
 |0651|BaekJoon|[수 이어 쓰기 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EC%9D%B4%EC%96%B4%20%EC%93%B0%EA%B8%B0%201.py)|Python|1748|220215|
 |0650|Codewars|[Barking mad](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Barking%20mad.py)|Python|8kyu|220215|
 |0649|Codewars|[Color Ghost](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Color%20Ghost.py)|Python|8kyu|220214|

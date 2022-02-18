@@ -4,8 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0655|BaekJoon|[별 찍기 - 21](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2021.py)|Python|10996|220218|
-|0654|Codewars|[Fix your code before the garden dies!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fix%20your%20code%20before%20the%20garden%20dies!.py)|Python|8kyu|220218|
+|0657|BaekJoon|[별 찍기 - 21](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2021.py)|Python|10996|220218|
+|0656|Codewars|[Fix your code before the garden dies!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fix%20your%20code%20before%20the%20garden%20dies!.py)|Python|8kyu|220218|
 |0655|BaekJoon|[計算 (Calculation)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E8%A8%88%E7%AE%97%20(Calculation).py)|Python|24075|220217|
 |0654|Codewars|[Formatting decimal places #0](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Formatting%20decimal%20places%20%230.py)|Python|8kyu|220217|
 |0653|Codewars|[Greek Sort](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Greek%20Sort.py)|Python|8kyu|220216|

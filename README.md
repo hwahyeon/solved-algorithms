@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0663|BaekJoon|[카드 뽑기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%BD%91%EA%B8%B0.py)|Python|16204|220221|
+|0662|Codewars|[easy logs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20easy%20logs.py)|Python|8kyu|220221|
 |0661|Codewars|[Remove the time](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20the%20time.py)|Python|8kyu|220220|
 |0660|BaekJoon|[Patyki](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Patyki.py)|Python|8723|220220|
 |0659|Codewars|[Get number from string](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Get%20number%20from%20string.py)|Python|8kyu|220219|

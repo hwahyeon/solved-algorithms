@@ -4,7 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0663|BaekJoon|[카드 뽑기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%BD%91%EA%B8%B0.py)|Python|16204|220221|
+|0664|Codewars|[Who is going to pay for the wall?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20is%20going%20to%20pay%20for%20the%20wall%3F.py)|Python|8kyu|220222|
+|0663|BaekJoon|[가장 큰 금민수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EA%B8%88%EB%AF%BC%EC%88%98.py)|Python|1526|220222|
 |0662|Codewars|[easy logs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20easy%20logs.py)|Python|8kyu|220221|
 |0661|Codewars|[Remove the time](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20the%20time.py)|Python|8kyu|220220|
 |0660|BaekJoon|[Patyki](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Patyki.py)|Python|8723|220220|

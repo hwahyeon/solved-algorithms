@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0667|Codewars|[Man in the west](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Man%20in%20the%20west.py)|Python|8kyu|220223|
+|0666|BaekJoon|[나는 요리사다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%8A%94%20%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4.py)|Python|2953|220223|
 |0665|Codewars|[Who is going to pay for the wall?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20is%20going%20to%20pay%20for%20the%20wall%3F.py)|Python|8kyu|220222|
 |0664|BaekJoon|[가장 큰 금민수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EA%B8%88%EB%AF%BC%EC%88%98.py)|Python|1526|220222|
 |0663|BaekJoon|[카드 뽑기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%20%EB%BD%91%EA%B8%B0.py)|Python|16204|220221|

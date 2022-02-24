@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0700|BaekJoon|[지능형 기차](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.py)|Python|2455|220224|
 |0669|Codewars|[Reversing Words in a String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reversing%20Words%20in%20a%20String.py)|Python|8kyu|220224|
 |0668|BaekJoon|[지능형 기차 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8%202.py)|Python|2460|220224|
 |0667|Codewars|[Man in the west](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Man%20in%20the%20west.py)|Python|8kyu|220223|

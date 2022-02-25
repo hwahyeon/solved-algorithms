@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0702|Codewars|[Unlimited Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unlimited%20Sum.py)|Python|7kyu|220225|
+|0701|BaekJoon|[더하기 사이클](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)|Python|1110|220225|
 |0700|BaekJoon|[지능형 기차](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.py)|Python|2455|220224|
 |0669|Codewars|[Reversing Words in a String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reversing%20Words%20in%20a%20String.py)|Python|8kyu|220224|
 |0668|BaekJoon|[지능형 기차 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8%202.py)|Python|2460|220224|

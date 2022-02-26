@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0704|Codewars|[Find the capitals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20capitals.py)|Python|7kyu|220226|
+|0703|BaekJoon|[나는 행복합니다~](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EB%8A%94%20%ED%96%89%EB%B3%B5%ED%95%A9%EB%8B%88%EB%8B%A4~.py)|Python|14652|220226|
 |0702|Codewars|[Unlimited Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unlimited%20Sum.py)|Python|7kyu|220225|
 |0701|BaekJoon|[더하기 사이클](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4.py)|Python|1110|220225|
 |0700|BaekJoon|[지능형 기차](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EA%B8%B0%EC%B0%A8.py)|Python|2455|220224|

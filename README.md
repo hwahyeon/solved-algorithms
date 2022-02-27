@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0707|Codewars|[How Many Reindeers?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20Many%20Reindeers%3F.py)|Python|6kyu|220227|
 |0706|BaekJoon|[쌍의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8C%8D%EC%9D%98%20%ED%95%A9.py)|Python|5217|220227|
 |0705|BaekJoon|[별 찍기 - 23](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2023.py)|Python|13015|220227|
 |0704|Codewars|[Find the capitals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20capitals.py)|Python|7kyu|220226|

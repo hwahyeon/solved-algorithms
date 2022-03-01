@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0711|BaekJoon|[Judging Moose](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Judging%20Moose.py)|Python|15025|220301|
+|0710|Codewars|[Nth power rules them all!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Nth%20power%20rules%20them%20all!.py)|Python|7kyu|220301|
 |0709|BaekJoon|[네 번째 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%88%98.py)|Python|2997|220228|
 |0708|Codewars|[Capitalization and Mutability](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Capitalization%20and%20Mutability.js)|JavaScript|8kyu|220228|
 |0707|Codewars|[How Many Reindeers?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20Many%20Reindeers%3F.py)|Python|6kyu|220227|

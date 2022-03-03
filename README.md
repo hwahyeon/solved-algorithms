@@ -4,7 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0713|BaekJoon|[도미노](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%AF%B8%EB%85%B8.py)|Python|2921|220301|
+|0715|BaekJoon|[공](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B5.py)|Python|1547|220303|
+|0714|Codewars|[Vector Affinity](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vector%20Affinity.py)|Python|6kyu|220303|
+|0713|BaekJoon|[도미노](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%AF%B8%EB%85%B8.py)|Python|2921|220302|
 |0712|Codewars|[Split Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Split%20Strings.py)|Python|6kyu|220302|
 |0711|BaekJoon|[Judging Moose](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Judging%20Moose.py)|Python|15025|220301|
 |0710|Codewars|[Nth power rules them all!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Nth%20power%20rules%20them%20all!.py)|Python|7kyu|220301|

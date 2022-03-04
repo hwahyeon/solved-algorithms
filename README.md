@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0717|BaekJoon|[직사각형 네개의 합집합의 면적 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%A4%EA%B0%9C%EC%9D%98%20%ED%95%A9%EC%A7%91%ED%95%A9%EC%9D%98%20%EB%A9%B4%EC%A0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|2669|220304|
+|0716|Codewars|[Ping-Pong service problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ping-Pong%20service%20problem.py)|Python|6kyu|220304|
 |0715|BaekJoon|[공](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B5.py)|Python|1547|220303|
 |0714|Codewars|[Vector Affinity](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vector%20Affinity.py)|Python|6kyu|220303|
 |0713|BaekJoon|[도미노](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%AF%B8%EB%85%B8.py)|Python|2921|220302|

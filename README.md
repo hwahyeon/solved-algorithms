@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0718|BaekJoon|[캥거루 세마리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC.py)|Python|2965|220305|
 |0717|BaekJoon|[직사각형 네개의 합집합의 면적 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%A4%EA%B0%9C%EC%9D%98%20%ED%95%A9%EC%A7%91%ED%95%A9%EC%9D%98%20%EB%A9%B4%EC%A0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|2669|220304|
 |0716|Codewars|[Ping-Pong service problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ping-Pong%20service%20problem.py)|Python|6kyu|220304|
 |0715|BaekJoon|[공](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%B5.py)|Python|1547|220303|

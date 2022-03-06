@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0723|Codewars|[A for Apple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20A%20for%20Apple.py)|Python|6kyu|220306|
+|0722|Codewars|[Who won the election?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20won%20the%20election%3F.py)|Python|6kyu|220306|
+|0721|BaekJoon|[뒤집힌 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%EB%8D%A7%EC%85%88.py)|Python|1357|220306|
 |0720|BaekJoon|[팀 이름 정하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%80%20%EC%9D%B4%EB%A6%84%20%EC%A0%95%ED%95%98%EA%B8%B0.py)|Python|1296|220306|
 |0719|Codewars|[Enumerable Magic #25 - Take the First N Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Enumerable%20Magic%20%2325%20-%20Take%20the%20First%20N%20Elements.py)|Python|8kyu|220305|
 |0718|BaekJoon|[캥거루 세마리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%A5%EA%B1%B0%EB%A3%A8%20%EC%84%B8%EB%A7%88%EB%A6%AC.py)|Python|2965|220305|

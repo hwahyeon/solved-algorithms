@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0726|Codewars|[It is written in the stars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triple%20Trouble.py)|Python|7kyu|220308|
 |0725|Codewars|[Triple Trouble](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triple%20Trouble.py)|Python|8kyu|220307|
 |0724|BaekJoon|[카드놀이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4.py)|Python|2511|220307|
 |0723|Codewars|[A for Apple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20A%20for%20Apple.py)|Python|6kyu|220306|

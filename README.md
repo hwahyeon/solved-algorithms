@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0729|Codewars|[Kata Example Twist](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Kata%20Example%20Twist.py)|Python|8kyu|220309|
+|0728|BaekJoon|[약수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|2501|220309|
 |0727|BaekJoon|[삼각 김밥](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%20%EA%B9%80%EB%B0%A5.py)|Python|2783|220308|
 |0726|Codewars|[It is written in the stars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triple%20Trouble.py)|Python|7kyu|220308|
 |0725|Codewars|[Triple Trouble](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Triple%20Trouble.py)|Python|8kyu|220307|

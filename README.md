@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0731|Codewars|[Total amount of points](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Total%20amount%20of%20points.py)|Python|8kyu|220310|
+|0730|BaekJoon|[중앙 이동 알고리즘](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%91%EC%95%99%20%EC%9D%B4%EB%8F%99%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)|Python|2903|220310|
 |0729|Codewars|[Kata Example Twist](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Kata%20Example%20Twist.py)|Python|8kyu|220309|
 |0728|BaekJoon|[약수 구하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python|2501|220309|
 |0727|BaekJoon|[삼각 김밥](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%20%EA%B9%80%EB%B0%A5.py)|Python|2783|220308|

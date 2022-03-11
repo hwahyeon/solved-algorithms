@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0733|BaekJoon|[가장 많은 글자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EA%B8%80%EC%9E%90.py)|Python|1371|220311|
 |0732|Codewars|[reverseIt](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20reverseIt.py)|Python|7kyu|220311|
 |0731|Codewars|[Total amount of points](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Total%20amount%20of%20points.py)|Python|8kyu|220310|
 |0730|BaekJoon|[중앙 이동 알고리즘](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%91%EC%95%99%20%EC%9D%B4%EB%8F%99%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)|Python|2903|220310|

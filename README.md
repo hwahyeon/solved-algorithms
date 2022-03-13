@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0736|BaekJoon|[주사위](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84.py)|Python|1233|220313|
 |0735|BaekJoon|[Which Alien?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Which%20Alien%3F.py)|Python|6778|220312|
 |0734|Codewars|[Max Headroom and JavaScript style](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Max%20Headroom%20and%20JavaScript%20style.js)|JavaScript|8kyu|220312|
 |0733|BaekJoon|[가장 많은 글자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EA%B8%80%EC%9E%90.py)|Python|1371|220311|

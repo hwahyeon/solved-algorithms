@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0739|BaekJoon|[경고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%BD%EA%B3%A0.py)|Python|3029|220314|
+|0738|Codewars|[pick a set of first elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20pick%20a%20set%20of%20first%20elements.js)|JavaScript|8kyu|220314|
 |0737|Codewars|[Blood-Alcohol Content](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Blood-Alcohol%20Content.js)|JavaScript|8kyu|220313|
 |0736|BaekJoon|[주사위](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84.py)|Python|1233|220313|
 |0735|BaekJoon|[Which Alien?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Which%20Alien%3F.py)|Python|6778|220312|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0740|BaekJoon|[짝수를 찾아라](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%9D%EC%88%98%EB%A5%BC%20%EC%B0%BE%EC%95%84%EB%9D%BC.py)|Python|3058|220315|
 |0739|BaekJoon|[경고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%BD%EA%B3%A0.py)|Python|3029|220314|
 |0738|Codewars|[pick a set of first elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20pick%20a%20set%20of%20first%20elements.js)|JavaScript|8kyu|220314|
 |0737|Codewars|[Blood-Alcohol Content](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Blood-Alcohol%20Content.js)|JavaScript|8kyu|220313|

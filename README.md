@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0742|Codewars|[Be Concise III - Sum Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Be%20Concise%20III%20-%20Sum%20Squares.js)|JavaScript|8kyu|220316|
 |0741|Codewars|[Merge two sorted arrays into one](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Merge%20two%20sorted%20arrays%20into%20one.js)|JavaScript|8kyu|220315|
 |0740|BaekJoon|[짝수를 찾아라](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%9D%EC%88%98%EB%A5%BC%20%EC%B0%BE%EC%95%84%EB%9D%BC.py)|Python|3058|220315|
 |0739|BaekJoon|[경고](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%BD%EA%B3%A0.py)|Python|3029|220314|

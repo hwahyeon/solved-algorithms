@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0744|Codewars|[Training JS #1: create your first JS function and print "Helloworld!"](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%231:%20create%20your%20first%20JS%20function%20and%20print%20%22Helloworld!%22.js)|JavaScript|8kyu|220317|
 |0743|BaekJoon|[369](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20369.py)|Python|17614|220316|
 |0742|Codewars|[Be Concise III - Sum Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Be%20Concise%20III%20-%20Sum%20Squares.js)|JavaScript|8kyu|220316|
 |0741|Codewars|[Merge two sorted arrays into one](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Merge%20two%20sorted%20arrays%20into%20one.js)|JavaScript|8kyu|220315|

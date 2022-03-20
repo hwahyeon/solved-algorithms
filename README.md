@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0751|BaekJoon|[삼각형과 세 변](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%84%B8%20%EB%B3%80.py)|Python|5073|220320|
 |0750|Codewars|[Training JS #4: Basic data types--Array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%234:%20Basic%20data%20types--Array.js)|JavaScript|8kyu|220320|
 |0749|BaekJoon|[앵그리 창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%B5%EA%B7%B8%EB%A6%AC%20%EC%B0%BD%EC%98%81.py)|Python|3034|220319|
 |0748|Codewars|[Training JS #3: Basic data types--String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%233:%20Basic%20data%20types--String.js)|JavaScript|8kyu|220319|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0755|Codewars|[Training JS #6: Basic data types--Boolean and conditional statements if..else](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%236:%20Basic%20data%20types--Boolean%20and%20conditional%20statements%20if..else.js)|JavaScript|8kyu|220322|
+|0754|BaekJoon|[플러그](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%8C%EB%9F%AC%EA%B7%B8.py)|Python|2010|220322|
 |0753|BaekJoon|[전투 드로이드 가격](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%ED%88%AC%20%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EA%B0%80%EA%B2%A9.py)|Python|5361|220321|
 |0752|Codewars|[Training JS #5: Basic data types--Object](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%235:%20Basic%20data%20types--Object.js)|JavaScript|8kyu|220321|
 |0751|BaekJoon|[삼각형과 세 변](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%84%B8%20%EB%B3%80.py)|Python|5073|220320|

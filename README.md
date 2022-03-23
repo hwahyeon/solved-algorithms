@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0757|BaekJoon|[이진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98.py)|Python|3460|220323|
 |0756|Codewars|[Training JS #7: if..else and ternary operator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%237:%20if..else%20and%20ternary%20operator.js)|JavaScript|8kyu|220323|
 |0755|Codewars|[Training JS #6: Basic data types--Boolean and conditional statements if..else](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%236:%20Basic%20data%20types--Boolean%20and%20conditional%20statements%20if..else.js)|JavaScript|8kyu|220322|
 |0754|BaekJoon|[플러그](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%8C%EB%9F%AC%EA%B7%B8.py)|Python|2010|220322|

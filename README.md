@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0760|Codewars|[Training JS #9: loop statement --while and do..while](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%239:%20loop%20statement%20--while%20and%20do..while.js)|JavaScript|8kyu|220325|
 |0759|Codewars|[Training JS #8: Conditional statement--switch](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%238:%20Conditional%20statement--switch.js)|JavaScript|8kyu|220324|
 |0758|BaekJoon|[사나운 개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EB%82%98%EC%9A%B4%20%EA%B0%9C.py)|Python|2991|220324|
 |0757|BaekJoon|[이진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98.py)|Python|3460|220323|

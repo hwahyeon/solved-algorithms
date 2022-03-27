@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0764|Codewars|[Training JS #11: loop statement --break,continue](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2311:%20loop%20statement%20--break%2Ccontinue.js)|JavaScript|8kyu|220327|
 |0763|Codewars|[Training JS #10: loop statement --for](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2310:%20loop%20statement%20--for.js)|JavaScript|8kyu|220326|
 |0762|BaekJoon|[받아올림](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%9B%EC%95%84%EC%98%AC%EB%A6%BC.py)|Python|4388|220326|
 |0761|BaekJoon|[부재중 전화](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%80%EC%9E%AC%EC%A4%91%20%EC%A0%84%ED%99%94.py)|Python|1333|220325|

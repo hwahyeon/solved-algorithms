@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0767|BaekJoon|[J박스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20J%EB%B0%95%EC%8A%A4.py)|Python|5354|220328|
+|0766|Codewars|[isReallyNaN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20isReallyNaN.js)|JavaScript|8kyu|220328|
 |0765|BaekJoon|[점수계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0.py)|Python|2506|220327|
 |0764|Codewars|[Training JS #11: loop statement --break,continue](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2311:%20loop%20statement%20--break%2Ccontinue.js)|JavaScript|8kyu|220327|
 |0763|Codewars|[Training JS #10: loop statement --for](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2310:%20loop%20statement%20--for.js)|JavaScript|8kyu|220326|

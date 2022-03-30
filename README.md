@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0770|Codewars|[Calculating Batting Average](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20Calculating%20Batting%20Average.sql)|PostgreSQL|6kyu|220330|
 |0769|Codewars|[True Min](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20True%20Min.js)|JavaScript|7kyu|220329|
 |0768|BaekJoon|[숫자 놀이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%AB%EC%9E%90%20%EB%86%80%EC%9D%B4.py)|Python|2145|220329|
 |0767|BaekJoon|[J박스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20J%EB%B0%95%EC%8A%A4.py)|Python|5354|220328|

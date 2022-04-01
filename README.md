@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0778|BaekJoon|[24](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2024.py)|Python|1408|220402|
 |0777|BaekJoon|[다음수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%8C%EC%88%98.py)|Python|4880|220402|
 |0776|BaekJoon|[최댓값](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EB%8C%93%EA%B0%92_.py)|Python|2566|220401|
 |0775|BaekJoon|[꼬리를 무는 숫자 나열](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%BC%AC%EB%A6%AC%EB%A5%BC%20%EB%AC%B4%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%82%98%EC%97%B4.py)|Python|1598|220401|

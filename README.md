@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0774|Codewars|[Numerical Palindrome #1.5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Numerical%20Palindrome%20%231.5.py)|Python|6kyu|220401|
 |0773|Codewars|[Numerical Palindrome #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Numerical%20Palindrome%20%231.py)|Python|7kyu|220331|
 |0772|BaekJoon|[루트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A3%A8%ED%8A%B8.py)|Python|4619|220331|
 |0771|BaekJoon|[가위 바위 보?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4%3F.py)|Python|4493|220330|

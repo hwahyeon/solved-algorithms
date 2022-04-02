@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0781|Codewars|[Parse nice int from char problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Parse%20nice%20int%20from%20char%20problem.py)|Python|8kyu|220402|
 |0780|BaekJoon|[녹색거탑](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%85%B9%EC%83%89%EA%B1%B0%ED%83%91.py)|Python|24723|220402|
 |0779|BaekJoon|[세준세비](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B8%EC%A4%80%EC%84%B8%EB%B9%84.py)|Python|1524|220402|
 |0778|BaekJoon|[24](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%2024.py)|Python|1408|220402|

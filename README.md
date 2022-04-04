@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0786|BaekJoon|[카약](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%B4%EC%95%BD.py)|Python|2890|220405|
 |0785|Codewars|[Enumerable Magic #20 - Cascading Subsets](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Enumerable%20Magic%20%2320%20-%20Cascading%20Subsets.py)|Python|8kyu|220404|
 |0784|BaekJoon|[Piece of Cake!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Piece%20of%20Cake!.py)|Python|17874|220404|
 |0783|BaekJoon|[Abbey Courtyard](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Abbey%20Courtyard.py)|Python|15610|220403|

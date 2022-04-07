@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0793|Codewars|[String cleaning](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20cleaning.py)|Python|8kyu|220407|
 |0792|Codewars|[Find Multiples of a Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20Multiples%20of%20a%20Number.py)|Python|8kyu|220406|
 |0791|BaekJoon|[반복](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%98%EB%B3%B5.py)|Python|19564|220406|
 |0790|Codewars|[Last digit of a large number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Last%20digit%20of%20a%20large%20number.py)|Python|5kyu|220405|

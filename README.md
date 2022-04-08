@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0796|Codewars|[Removing Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Removing%20Elements.py)|Python|8kyu|220408|
 |0795|BaekJoon|[배수 찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%B0%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|Python|4504|220408|
 |0794|BaekJoon|[핸드폰 요금](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EC%9A%94%EA%B8%88.py)|Python|1267|220407|
 |0793|Codewars|[String cleaning](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20String%20cleaning.py)|Python|8kyu|220407|

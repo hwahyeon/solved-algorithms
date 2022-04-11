@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0800|BaekJoon|[Another Eruption](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Another%20Eruption.py)|Python|21335|220410|
 |0799|Codewars|[Generate range of integers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Generate%20range%20of%20integers.py)|Python|8kyu|220410|
 |0798|BaekJoon|[자동완성](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1.py)|Python|24883|220409|
 |0797|Codewars|[Stringy Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Stringy%20Strings.py)|Python|8kyu|220409|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0803|Codewars|[To square(root) or not to square(root)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20To%20square(root)%20or%20not%20to%20square(root).py)|Python|8kyu|220412|
 |0802|Codewars|[Lario and Muigi Pipe Problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Lario%20and%20Muigi%20Pipe%20Problem.js)|JavaScript|8kyu|220411|
 |0801|BaekJoon|[계산기 프로그램](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%84%EC%82%B0%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py)|Python|5613|220411|
 |0800|BaekJoon|[Another Eruption](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Another%20Eruption.py)|Python|21335|220410|

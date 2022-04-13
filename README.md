@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0806|BaekJoon|[타일 채우기 4](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0%204.py)|Python|15700|220413|
 |0805|Codewars|[Powers of 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Powers%20of%202.py)|Python|8kyu|220413|
 |0804|BaekJoon|[단어 정렬](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)|Python|1181|220412|
 |0803|Codewars|[To square(root) or not to square(root)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20To%20square(root)%20or%20not%20to%20square(root).py)|Python|8kyu|220412|

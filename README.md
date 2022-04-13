@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0805|Codewars|[Powers of 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Powers%20of%202.py)|Python|8kyu|220413|
 |0804|BaekJoon|[단어 정렬](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)|Python|1181|220412|
 |0803|Codewars|[To square(root) or not to square(root)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20To%20square(root)%20or%20not%20to%20square(root).py)|Python|8kyu|220412|
 |0802|Codewars|[Lario and Muigi Pipe Problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Lario%20and%20Muigi%20Pipe%20Problem.js)|JavaScript|8kyu|220411|

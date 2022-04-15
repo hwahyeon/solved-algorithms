@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0809|Codewars|[Is this my tail?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Is%20this%20my%20tail%3F.py)|Python|8kyu|220415|
 |0808|Codewars|[Did she say hallo?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Did%20she%20say%20hallo%3F.py)|Python|8kyu|220414|
 |0807|BaekJoon|[한별 찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EB%B3%84%20%EC%B0%8D%EA%B8%B0.py)|Python|24900|220414|
 |0806|BaekJoon|[타일 채우기 4](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0%204.py)|Python|15700|220413|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0813|BaekJoon|[일반 화학 실험](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EB%B0%98%20%ED%99%94%ED%95%99%20%EC%8B%A4%ED%97%98.py)|Python|4766|220417|
 |0812|Codewars|[ATM](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20ATM.py)|Python|7kyu|220416|
 |0811|BaekJoon|[모음의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%A8%EC%9D%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|1264|220416|
 |0810|BaekJoon|[No Brainer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20No%20Brainer.py)|Python|4562|220415|

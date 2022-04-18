@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0816|Codewars|[Dollars and Cents](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Dollars%20and%20Cents.py)|Python|8kyu|220418|
 |0815|BaekJoon|[이게 분수?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EA%B2%8C%20%EB%B6%84%EC%88%98%3F.py)|Python|2863|220418|
 |0814|Codewars|[A Strange Trip to the Market](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20A%20Strange%20Trip%20to%20the%20Market.py)|Python|8kyu|220417|
 |0813|BaekJoon|[일반 화학 실험](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%BC%EB%B0%98%20%ED%99%94%ED%95%99%20%EC%8B%A4%ED%97%98.py)|Python|4766|220417|

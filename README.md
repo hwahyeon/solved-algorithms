@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0820|Codewars|[Check same case](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Check%20same%20case.py)|Python|8kyu|220420|
 |0819|BaekJoon|[피보나치 수 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%202.py)|Python|2748|220419|
 |0818|BaekJoon|[피보나치 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py)|Python|2747|220419|
 |0817|Codewars|[Help the Elite Squad of Brazilian forces BOPE](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20the%20Elite%20Squad%20of%20Brazilian%20forces%20BOPE.py)|Python|8kyu|220419|

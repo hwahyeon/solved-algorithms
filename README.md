@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0824|BaekJoon|[분수찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.py)|Python|1193|220422|
 |0823|BaekJoon|[애너그램 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|1919|220421|
 |0822|Codewars|[Fibonacci](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fibonacci.py)|Python|7kyu|220421|
 |0821|BaekJoon|[고급 수학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EA%B8%89%20%EC%88%98%ED%95%99.py)|Python|7510|220420|

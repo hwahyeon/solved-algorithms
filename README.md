@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0827|BaekJoon|[Speed fines are not fine!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Speed%20fines%20are%20not%20fine!.py)|Python|6763|220423|
 |0826|Codewars|[Turn with a Compass](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Turn%20with%20a%20Compass.py)|Python|7kyu|220423|
 |0825|Codewars|[Dbftbs Djqifs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Dbftbs%20Djqifs.py)|Python|6kyu|220422|
 |0824|BaekJoon|[분수찾기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.py)|Python|1193|220422|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0830|Codewars|[You Got Change?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You%20Got%20Change%3F.py)|Python|7kyu|220425|
 |0829|Codewars|[Multiplication table for number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiplication%20table%20for%20number.py)|Python|8kyu|220424|
 |0828|BaekJoon|[팰린드롬수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)|Python|1259|220424|
 |0827|BaekJoon|[Speed fines are not fine!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Speed%20fines%20are%20not%20fine!.py)|Python|6763|220423|

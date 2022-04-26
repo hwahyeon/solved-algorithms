@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0832|BaekJoon|[사과와 바나나 나눠주기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EA%B3%BC%EC%99%80%20%EB%B0%94%EB%82%98%EB%82%98%20%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0.py)|Python|14914|220426|
 |0831|BaekJoon|[수찬은 마린보이야!!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%EC%B0%AC%EC%9D%80%20%EB%A7%88%EB%A6%B0%EB%B3%B4%EC%9D%B4%EC%95%BC!!.py)|Python|15921|220425|
 |0830|Codewars|[You Got Change?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20You%20Got%20Change%3F.py)|Python|7kyu|220425|
 |0829|Codewars|[Multiplication table for number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiplication%20table%20for%20number.py)|Python|8kyu|220424|

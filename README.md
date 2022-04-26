@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0836|BaekJoon|[나이 계산하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%98%EC%9D%B4%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py)|Python|16199|220427|
 |0835|Codewars|[Do I get a bonus?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Do%20I%20get%20a%20bonus%3F)|Python|8kyu|220427|
 |0834|Codewars|[Swap Values](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Swap%20Values.py)|Python|8kyu|220427|
 |0833|Codewars|[Filtering even numbers (Bug Fixes)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Filtering%20even%20numbers%20(Bug%20Fixes).py)|Python|8kyu|220426|

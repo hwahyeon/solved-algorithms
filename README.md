@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0840|BaekJoon|[Congruent Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Congruent%20Numbers.py)|Python|15128|220429|
 |0839|Codewars|[Vowel remover](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowel%20remover.py)|Python|8kyu|220429|
 |0838|Codewars|[Incorrect division method](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Incorrect%20division%20method.py)|Python|8kyu|220428|
 |0837|BaekJoon|[Darius님 한타 안 함?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Darius%EB%8B%98%20%ED%95%9C%ED%83%80%20%EC%95%88%20%ED%95%A8%3F.py)|Python|20499|220428|

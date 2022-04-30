@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0842|BaekJoon|[팩토리얼 진법](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%A7%84%EB%B2%95.py)|Python|5692|220430|
+|0841|Codewars|[Heads and Legs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Heads%20and%20Legs.py)|Python|8kyu|220430|
 |0840|BaekJoon|[Congruent Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Congruent%20Numbers.py)|Python|15128|220429|
 |0839|Codewars|[Vowel remover](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vowel%20remover.py)|Python|8kyu|220429|
 |0838|Codewars|[Incorrect division method](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Incorrect%20division%20method.py)|Python|8kyu|220428|

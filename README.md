@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0844|Codewars|[Plural](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Plural.py)|Python|8kyu|220501|
+|0843|BaekJoon|[진짜 공간](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%84%EC%A7%9C%20%EA%B3%B5%EA%B0%84.py)|Python|1350|220501|
 |0842|BaekJoon|[팩토리얼 진법](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%A7%84%EB%B2%95.py)|Python|5692|220430|
 |0841|Codewars|[Heads and Legs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Heads%20and%20Legs.py)|Python|8kyu|220430|
 |0840|BaekJoon|[Congruent Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Congruent%20Numbers.py)|Python|15128|220429|

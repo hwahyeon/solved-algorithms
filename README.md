@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0848|BaekJoon|[피시방 알바](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EC%8B%9C%EB%B0%A9%20%EC%95%8C%EB%B0%94.py)|Python|1453|220503|
+|0847|Codewars|[Bingo ( Or Not )](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Bingo%20(%20Or%20Not%20).py)|Python|7kyu|220503|
 |0846|Codewars|[Vampire Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Vampire%20Numbers.py)|Python|7kyu|220502|
 |0845|BaekJoon|[더하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python|9085|220502|
 |0844|Codewars|[Plural](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Plural.py)|Python|8kyu|220501|

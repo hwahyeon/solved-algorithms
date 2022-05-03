@@ -1,0 +1,5 @@
+n = input()
+m = list(map(int, input().split()))
+m1 = len(m)
+m2 = len(set(m))
+print(m1-m2)

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0850|BaekJoon|[이상한 곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EA%B3%B1%EC%85%88.py)|Python|1225|220504|
 |0849|Codewars|[A Needle in the Haystack](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20A%20Needle%20in%20the%20Haystack.py)|Python|8kyu|220504|
 |0848|BaekJoon|[피시방 알바](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EC%8B%9C%EB%B0%A9%20%EC%95%8C%EB%B0%94.py)|Python|1453|220503|
 |0847|Codewars|[Bingo ( Or Not )](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Bingo%20(%20Or%20Not%20).py)|Python|7kyu|220503|

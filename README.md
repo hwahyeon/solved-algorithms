@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0856|BaekJoon|[펫](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8E%AB.py)|Python|1362|220507|
+|0855|Codewars|[Points of Reflection](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Points%20of%20Reflection.js)|JavaScript|8kyu|220507|
 |0854|BaekJoon|[아무래도이문제는A번난이도인것같다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EB%AC%B4%EB%9E%98%EB%8F%84%EC%9D%B4%EB%AC%B8%EC%A0%9C%EB%8A%94A%EB%B2%88%EB%82%9C%EC%9D%B4%EB%8F%84%EC%9D%B8%EA%B2%83%EA%B0%99%EB%8B%A4.py)|Python|1402|220506|
 |0853|Codewars|[Is the date today](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Is%20the%20date%20today.js)|JavaScript|8kyu|220506|
 |0852|BaekJoon|[디지털 루트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%94%94%EC%A7%80%ED%84%B8%20%EB%A3%A8%ED%8A%B8.py)|Python|6378|220505|

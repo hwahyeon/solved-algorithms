@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0859|BaekJoon|[Tabliczka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tabliczka.py)|Python|8674|220508|
 |0858|Codewars|[Find the Remainder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Find%20the%20Remainder.js)|JavaScript|8kyu|220508|
 |0856|BaekJoon|[펫](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8E%AB.py)|Python|1362|220507|
 |0855|Codewars|[Points of Reflection](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Points%20of%20Reflection.js)|JavaScript|8kyu|220507|

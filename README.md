@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0862|BaekJoon|[Gradabase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Gradabase.py)|Python|9286|220509|
 |0861|Codewars|[Price of Mangoes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Price%20of%20Mangoes.js)|JavaScript|8kyu|220509|
 |0860|Codewars|[Name on billboard](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Name%20on%20billboard.js)|JavaScript|8kyu|220509|
 |0859|BaekJoon|[Tabliczka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Tabliczka.py)|Python|8674|220508|

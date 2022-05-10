@@ -4,6 +4,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0867|Codewars|[L1: Bartender, drinks!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20L1:%20Bartender%2C%20drinks!.js)|JavaScript|8kyu|220510|
+|0866|Codewars|[Smallest unused ID](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Smallest%20unused%20ID.js)|JavaScript|8kyu|220510|
+|0865|Codewars|[A wolf in sheep's clothing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20A%20wolf%20in%20sheep's%20clothing.js)|JavaScript|8kyu|220510|
+|0864|Codewars|[Regular Ball Super Ball](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Regular%20Ball%20Super%20Ball.js)|JavaScript|8kyu|220510|
+|0863|Codewars|[UEFA EURO 2016](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20UEFA%20EURO%202016.js)|JavaScript|8kyu|220510|
 |0862|BaekJoon|[Gradabase](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Gradabase.py)|Python|9286|220509|
 |0861|Codewars|[Price of Mangoes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Price%20of%20Mangoes.js)|JavaScript|8kyu|220509|
 |0860|Codewars|[Name on billboard](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Name%20on%20billboard.js)|JavaScript|8kyu|220509|

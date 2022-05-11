@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0870|BaekJoon|[Even Sum More Than Odd Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Even%20Sum%20More%20Than%20Odd%20Sum.py)|Python|5235|220511|
 |0869|Codewars|[Geometry Basics: Distance between points in 2D](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Geometry%20Basics:%20Distance%20between%20points%20in%202D.js)|JavaScript|8kyu|220511|
 |0868|BaekJoon|[연도 진행바](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EB%8F%84%20%EC%A7%84%ED%96%89%EB%B0%94.py)|Python|1340|220510|
 |0867|Codewars|[L1: Bartender, drinks!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20L1:%20Bartender%2C%20drinks!.js)|JavaScript|8kyu|220510|

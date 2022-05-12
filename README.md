@@ -4,6 +4,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0878|Codewars|[Polish alphabet](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Polish%20alphabet.js)|JavaScript|8kyu|220513|
+|0877|Codewars|[Welcome!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Welcome!.js)|JavaScript|8kyu|220513|
+|0876|Codewars|[Grasshopper - Debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Debug.js)|JavaScript|8kyu|220513|
+|0875|Codewars|[Convert to Binary](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Convert%20to%20Binary.js)|JavaScript|8kyu|220513|
+|0874|Codewars|[Take the Derivative](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Take%20the%20Derivative.js)|JavaScript|8kyu|220513|
+|0873|Codewars|[Sum of differences in array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Sum%20of%20differences%20in%20array.js)|JavaScript|8kyu|220513|
 |0872|BaekJoon|[단어 나누기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EB%82%98%EB%88%84%EA%B8%B0.py)|Python|1251|220512|
 |0871|Codewars|[Odd or Even? Determine that!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Odd%20or%20Even%3F%20Determine%20that!.js)|JavaScript|7kyu|220512|
 |0870|BaekJoon|[Even Sum More Than Odd Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Even%20Sum%20More%20Than%20Odd%20Sum.py)|Python|5235|220511|

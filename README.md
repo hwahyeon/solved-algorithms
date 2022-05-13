@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0879|Codewars|[Super Duper Easy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Super%20Duper%20Easy.js)|JavaScript|8kyu|220513|
 |0878|Codewars|[Polish alphabet](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Polish%20alphabet.js)|JavaScript|8kyu|220513|
 |0877|Codewars|[Welcome!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Welcome!.js)|JavaScript|8kyu|220513|
 |0876|Codewars|[Grasshopper - Debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Debug.js)|JavaScript|8kyu|220513|

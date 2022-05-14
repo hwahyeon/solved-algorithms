@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0882|BaekJoon|[할로윈의 사탕](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%20%EC%82%AC%ED%83%95.py)|Python|10178|220514|
 |0881|Codewars|[The 'if' function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20The%20'if'%20function.js)|JavaScript|8kyu|220514|
 |0880|BaekJoon|[도비의 영어 공부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%B9%84%EC%9D%98%20%EC%98%81%EC%96%B4%20%EA%B3%B5%EB%B6%80.py)|Python|2386|220513|
 |0879|Codewars|[Super Duper Easy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Super%20Duper%20Easy.js)|JavaScript|8kyu|220513|

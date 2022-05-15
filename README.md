@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0884|BaekJoon|[What is n, Daddy?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20What%20is%20n%2C%20Daddy%3F.py)|Python|6794|220515|
 |0883|Codewars|[No zeros for heros](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20No%20zeros%20for%20heros.js)|JavaScript|8kyu|220515|
 |0882|BaekJoon|[할로윈의 사탕](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%A0%EB%A1%9C%EC%9C%88%EC%9D%98%20%EC%82%AC%ED%83%95.py)|Python|10178|220514|
 |0881|Codewars|[The 'if' function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20The%20'if'%20function.js)|JavaScript|8kyu|220514|

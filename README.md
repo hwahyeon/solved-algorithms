@@ -4,7 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|0888|BaekJoon|[5의 수난](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%205%EC%9D%98%20%EC%88%98%EB%82%9C.py)|Python|1924|220517|
+|0888|BaekJoon|[5의 수난](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%205%EC%9D%98%20%EC%88%98%EB%82%9C.py)|Python|23037|220517|
 |0887|Codewars|[Find the Integral](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Find%20the%20Integral.js)|JavaScript|8kyu|220517|
 |0886|BaekJoon|[2007년](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202007%EB%85%84.py)|Python|1924|220516|
 |0885|Codewars|[5 without numbers !!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%205%20without%20numbers%20!!.js)|JavaScript|8kyu|220516|

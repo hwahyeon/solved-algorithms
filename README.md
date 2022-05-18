@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0890|BaekJoon|[명장 남정훈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%85%EC%9E%A5%20%EB%82%A8%EC%A0%95%ED%9B%88.py)|Python|15734|220518|
 |0889|Codewars|[Don't give me five!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Don't%20give%20me%20five!.js)|JavaScript|7kyu|220518|
 |0888|BaekJoon|[5의 수난](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%205%EC%9D%98%20%EC%88%98%EB%82%9C.py)|Python|23037|220517|
 |0887|Codewars|[Find the Integral](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Find%20the%20Integral.js)|JavaScript|8kyu|220517|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0898|Codewars|[No Loops 2 - You only need one](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20No%20Loops%202%20-%20You%20only%20need%20one.js)|JavaScript|8kyu|220519|
 |0897|Codewars|[Is it even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Is%20it%20even%3F.js)|JavaScript|8kyu|220519|
 |0896|Codewars|[Sum of positive](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Sum%20of%20positive.js)|JavaScript|8kyu|220519|
 |0895|Codewars|[Reverse List Order](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Reverse%20List%20Order.js)|JavaScript|8kyu|220519|

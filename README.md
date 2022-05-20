@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0901|BaekJoon|[치킨댄스를 추는 곰곰이를 본 임스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EB%8A%94%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%20%EB%B3%B8%20%EC%9E%84%EC%8A%A4.py)|Python|25191|220520|
 |0900|Codewars|[Fix the loop!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fix%20the%20loop!.py)|Python|8kyu|220520|
 |0899|Codewars|[Grasshopper - Terminal game combat function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Terminal%20game%20combat%20function.js)|JavaScript|8kyu|220519|
 |0898|Codewars|[No Loops 2 - You only need one](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20No%20Loops%202%20-%20You%20only%20need%20one.js)|JavaScript|8kyu|220519|

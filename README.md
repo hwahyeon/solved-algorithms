@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0900|Codewars|[Fix the loop!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fix%20the%20loop!.py)|Python|8kyu|220520|
 |0899|Codewars|[Grasshopper - Terminal game combat function](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Terminal%20game%20combat%20function.js)|JavaScript|8kyu|220519|
 |0898|Codewars|[No Loops 2 - You only need one](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20No%20Loops%202%20-%20You%20only%20need%20one.js)|JavaScript|8kyu|220519|
 |0897|Codewars|[Is it even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Is%20it%20even%3F.js)|JavaScript|8kyu|220519|

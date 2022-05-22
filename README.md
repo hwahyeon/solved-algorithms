@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0905|Codewars|[Kill The Monsters!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Kill%20The%20Monsters!.py)|Python|7kyu|220522|
+|0904|BaekJoon|[얼마?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%96%BC%EB%A7%88%3F.py)|Python|9325|220522|
 |0903|BaekJoon|[Can you add this?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Can%20you%20add%20this%3F.py)|Python|7891|220521|
 |0902|Codewars|[Improving Math.round(x)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Improving%20Math.round(x).js)|JavaScript|8kyu|220521|
 |0901|BaekJoon|[치킨댄스를 추는 곰곰이를 본 임스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EB%8A%94%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%20%EB%B3%B8%20%EC%9E%84%EC%8A%A4.py)|Python|25191|220520|

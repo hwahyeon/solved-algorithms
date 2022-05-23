@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0906|Codewars|[Potenciation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Potenciation.py)|JavaScript|8kyu|220523|
 |0905|Codewars|[Kill The Monsters!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Kill%20The%20Monsters!.py)|Python|7kyu|220522|
 |0904|BaekJoon|[얼마?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%96%BC%EB%A7%88%3F.py)|Python|9325|220522|
 |0903|BaekJoon|[Can you add this?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Can%20you%20add%20this%3F.py)|Python|7891|220521|

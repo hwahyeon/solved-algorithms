@@ -4,8 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0908|Codewars|[Mr. Freeze](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Mr.%20Freeze.js)|JavaScript|8kyu|220524|
 |0907|BaekJoon|[컵라면 측정하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BB%B5%EB%9D%BC%EB%A9%B4%20%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0.py)|Python|16479|220523|
-|0906|Codewars|[Potenciation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Potenciation.py)|JavaScript|8kyu|220523|
+|0906|Codewars|[Potenciation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Potenciation.js)|JavaScript|8kyu|220523|
 |0905|Codewars|[Kill The Monsters!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Kill%20The%20Monsters!.py)|Python|7kyu|220522|
 |0904|BaekJoon|[얼마?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%96%BC%EB%A7%88%3F.py)|Python|9325|220522|
 |0903|BaekJoon|[Can you add this?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Can%20you%20add%20this%3F.py)|Python|7891|220521|

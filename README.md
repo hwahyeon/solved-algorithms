@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0914|Codewars|[SpeedCode #2 - Array Madness](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20SpeedCode%20%232%20-%20Array%20Madness.js)|JavaScript|8kyu|220527|
 |0913|BaekJoon|[남욱이의 닭장](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%A8%EC%9A%B1%EC%9D%B4%EC%9D%98%20%EB%8B%AD%EC%9E%A5.py)|Python|11006|220526|
 |0912|Codewars|[Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Exclamation%20marks%20series%20%234:%20Remove%20all%20exclamation%20marks%20from%20sentence%20but%20ensure%20a%20exclamation%20mark%20at%20the%20end%20of%20string.js)|JavaScript|8kyu|220526|
 |0911|BaekJoon|[Football Scoring](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Scoring.py)|Python|24736|220525|

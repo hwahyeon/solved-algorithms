@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0919|BaekJoon|[서로 다른 부분 문자열의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|11478|220529|
 |0918|BaekJoon|[Arm Coordination](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Arm%20Coordination.py)|Python|23375|220529|
 |0917|BaekJoon|[욱 제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B1%20%EC%A0%9C.py)|Python|17356|220528|
 |0916|Codewars|[Geometry Basics: Circle Circumference in 2D](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Geometry%20Basics:%20Circle%20Circumference%20in%202D.js)|JavaScript|8kyu|220528|

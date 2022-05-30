@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0922|Codewars|[Is your period late?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Is%20your%20period%20late%3F.js)|JavaScript|8kyu|220530|
 |0921|Codewars|[Lexical this](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Lexical%20this.js)|JavaScript|8kyu|220529|
 |0920|BaekJoon|[비밀편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%84%EB%B0%80%ED%8E%B8%EC%A7%80.py)|Python|2596|220529|
 |0919|BaekJoon|[서로 다른 부분 문자열의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|11478|220529|

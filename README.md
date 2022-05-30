@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0923|BaekJoon|[Cupcake Party](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Cupcake%20Party.py)|Python|24568|220530|
 |0922|Codewars|[Is your period late?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Is%20your%20period%20late%3F.js)|JavaScript|8kyu|220530|
 |0921|Codewars|[Lexical this](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Lexical%20this.js)|JavaScript|8kyu|220529|
 |0920|BaekJoon|[비밀편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%84%EB%B0%80%ED%8E%B8%EC%A7%80.py)|Python|2596|220529|

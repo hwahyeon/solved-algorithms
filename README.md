@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0926|Codewars|[Simple Comparison?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Simple%20Comparison%3F.js)|JavaScript|8kyu|220601|
 |0925|Codewars|[Count the number of cubes with paint on](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Count%20the%20number%20of%20cubes%20with%20paint%20on.js)|JavaScript|8kyu|220531|
 |0924|BaekJoon|[쉽게 푸는 문제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%89%BD%EA%B2%8C%20%ED%91%B8%EB%8A%94%20%EB%AC%B8%EC%A0%9C.py)|Python|1292|220531|
 |0923|BaekJoon|[Cupcake Party](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Cupcake%20Party.py)|Python|24568|220530|

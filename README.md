@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0929|BaekJoon|[Sounds fishy!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Sounds%20fishy!.py)|Python|6764|220602|
+|0928|Codewars|[Bin to Decimal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Bin%20to%20Decimal.js)|JavaScript|8kyu|220602|
 |0927|BaekJoon|[FYI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20FYI.py)|Python|17863|220601|
 |0926|Codewars|[Simple Comparison?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Simple%20Comparison%3F.js)|JavaScript|8kyu|220601|
 |0925|Codewars|[Count the number of cubes with paint on](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Count%20the%20number%20of%20cubes%20with%20paint%20on.js)|JavaScript|8kyu|220531|

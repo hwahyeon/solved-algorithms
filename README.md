@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0932|BaekJoon|[피보나치 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98_.py)|Python|4150|220604|
 |0931|BaekJoon|[주사위 네개](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EB%84%A4%EA%B0%9C.py)|Python|2484|220603|
 |0930|Codewars|[Online RPG: player to qualifying stage?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Online%20RPG:%20player%20to%20qualifying%20stage%3F.js)|JavaScript|8kyu|220603|
 |0929|BaekJoon|[Sounds fishy!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Sounds%20fishy!.py)|Python|6764|220602|

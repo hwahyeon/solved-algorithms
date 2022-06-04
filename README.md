@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0939|BaekJoon|[페이지 세기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%84%B8%EA%B8%B0.py)|Python|4821|220604|
 |0938|Codewars|[Add new item (collections are passed by reference)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Add%20new%20item%20(collections%20are%20passed%20by%20reference).py)|Python|8kyu|220605|
 |0937|Codewars|[Remove duplicates from list](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20duplicates%20from%20list.py)|Python|8kyu|220605|
 |0936|Codewars|[Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20%20Exclamation%20marks%20series%20%232:%20Remove%20all%20exclamation%20marks%20from%20the%20end%20of%20sentence.py)|Python|8kyu|220605|

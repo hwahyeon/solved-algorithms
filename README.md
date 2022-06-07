@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0943|BaekJoon|[정수의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%95%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|10821|220607|
 |0942|Codewars|[Training JS #12: loop statement --for..in and for..of](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2312:%20loop%20statement%20--for..in%20and%20for..of.js)|Python|8kyu|220606|
 |0941|BaekJoon|[아름다운 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%88%98.py)|Python|2774|220606|
 |0940|Codewars|[Exclamation marks series #1: Remove an exclamation mark from the end of string](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Exclamation%20marks%20series%20%231:%20Remove%20an%20exclamation%20mark%20from%20the%20end%20of%20string.py)|Python|8kyu|220605|

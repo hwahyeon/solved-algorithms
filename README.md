@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0947|Codewars|[Not so black box](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Not%20so%20black%20box.js)|JavaScript|8kyu|220609|
 |0946|BaekJoon|[팬들에게 둘러싸인 홍준](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%AC%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%91%98%EB%9F%AC%EC%8B%B8%EC%9D%B8%20%ED%99%8D%EC%A4%80.py)|Python|14581|220608|
 |0945|Codewars|[Training JS #14: Methods of Number object--toString() and toLocaleString()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2314:%20Methods%20of%20Number%20object--toString()%20and%20toLocaleString().js)|JavaScript|8kyu|220608|
 |0944|Codewars|[Training JS #13: Number object and its properties](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2313:%20Number%20object%20and%20its%20properties.js)|JavaScript|8kyu|220607|

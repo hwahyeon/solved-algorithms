@@ -4,6 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0951|BaekJoon|[골뱅이 찍기 - ㄴ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%84%B4.py)|Python|23803|220610|
+|0950|BaekJoon|[골뱅이 찍기 - 뒤집힌 ㄱ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%E3%84%B1.py)|Python|23802|220610|
+|0949|BaekJoon|[골뱅이 찍기 - 정사각형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.py)|Python|23794|220610|
 |0948|BaekJoon|[!밀비 급일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20!%EB%B0%80%EB%B9%84%20%EA%B8%89%EC%9D%BC.py)|Python|11365|220609|
 |0947|Codewars|[Not so black box](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Not%20so%20black%20box.js)|JavaScript|8kyu|220609|
 |0946|BaekJoon|[팬들에게 둘러싸인 홍준](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%AC%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%91%98%EB%9F%AC%EC%8B%B8%EC%9D%B8%20%ED%99%8D%EC%A4%80.py)|Python|14581|220608|

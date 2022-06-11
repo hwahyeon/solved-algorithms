@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0961|Codewars|[How many stairs will Suzuki climb in 20 years?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years%3F.js)|JavaScript|8kyu|220611|
 |0960|BaekJoon|[골뱅이 찍기 - 돌아간 ㅈ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%8F%8C%EC%95%84%EA%B0%84%20%E3%85%88.py)|Python|23809|220611|
 |0959|BaekJoon|[골뱅이 찍기 - 뒤집힌 ㅋ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%E3%85%8B.py)|Python|23810|220611|
 |0958|BaekJoon|[골뱅이 찍기 - ㅌ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%85%8C.py)|Python|23811|220611|

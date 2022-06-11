@@ -4,6 +4,14 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0960|BaekJoon|[골뱅이 찍기 - 돌아간 ㅈ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%8F%8C%EC%95%84%EA%B0%84%20%E3%85%88.py)|Python|23809|220611|
+|0959|BaekJoon|[골뱅이 찍기 - 뒤집힌 ㅋ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%E3%85%8B.py)|Python|23810|220611|
+|0958|BaekJoon|[골뱅이 찍기 - ㅌ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%85%8C.py)|Python|23811|220611|
+|0957|BaekJoon|[골뱅이 찍기 - 돌아간 ㅍ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%8F%8C%EC%95%84%EA%B0%84%20%E3%85%8D.py)|Python|23812|220611|
+|0956|BaekJoon|[골뱅이 찍기 - ㅂ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%85%82.py)|Python|23808|220611|
+|0955|BaekJoon|[골뱅이 찍기 - ㅁ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%85%81.py)|Python|23806|220611|
+|0954|BaekJoon|[골뱅이 찍기 - 돌아간 ㄹ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%8F%8C%EC%95%84%EA%B0%84%20%E3%84%B9.py)|Python|23805|220611|
+|0953|BaekJoon|[골뱅이 찍기 - ㄷ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%84%B7.py)|Python|23804|220611|
 |0952|Codewars|[Enumerable Magic #1 - True for All?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Enumerable%20Magic%20%231%20-%20True%20for%20All%3F.js)|JavaScript|8kyu|220610|
 |0951|BaekJoon|[골뱅이 찍기 - ㄴ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%E3%84%B4.py)|Python|23803|220610|
 |0950|BaekJoon|[골뱅이 찍기 - 뒤집힌 ㄱ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%E3%84%B1.py)|Python|23802|220610|

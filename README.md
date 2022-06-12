@@ -4,6 +4,11 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0966|Codewars|[Are arrow functions odd?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Are%20arrow%20functions%20odd%3F.js)|JavaScript|8kyu|220612|
+|0965|BaekJoon|[알고리즘 수업 - 알고리즘의 수행 시간 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%205.py)|Python|24266|220612|
+|0964|BaekJoon|[알고리즘 수업 - 알고리즘의 수행 시간 4](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%204.py)|Python|24265|220612|
+|0963|BaekJoon|[알고리즘 수업 - 알고리즘의 수행 시간 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%203.py)|Python|24264|220612|
+|0962|BaekJoon|[알고리즘 수업 - 알고리즘의 수행 시간 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%88%98%ED%96%89%20%EC%8B%9C%EA%B0%84%202.py)|Python|24263|220612|
 |0961|Codewars|[How many stairs will Suzuki climb in 20 years?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years%3F.js)|JavaScript|8kyu|220611|
 |0960|BaekJoon|[골뱅이 찍기 - 돌아간 ㅈ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%8F%8C%EC%95%84%EA%B0%84%20%E3%85%88.py)|Python|23809|220611|
 |0959|BaekJoon|[골뱅이 찍기 - 뒤집힌 ㅋ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A8%EB%B1%85%EC%9D%B4%20%EC%B0%8D%EA%B8%B0%20-%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%E3%85%8B.py)|Python|23810|220611|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0972|BaekJoon|[수학적 호기심](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%ED%95%99%EC%A0%81%20%ED%98%B8%EA%B8%B0%EC%8B%AC.py)|PyPy3|9094|220615|
+|0971|BaekJoon|[맞았는데 왜 틀리죠?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%A7%9E%EC%95%98%EB%8A%94%EB%8D%B0%20%EC%99%9C%20%ED%8B%80%EB%A6%AC%EC%A3%A0%3F.py)|Python|15820|220615|
 |0970|Codewars|[Find variable which breaks strict comparison!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Find%20variable%20which%20breaks%20strict%20comparison!.js)|JavaScript|8kyu|220614|
 |0969|BaekJoon|[N M 찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%20M%20%EC%B0%8D%EA%B8%B0.py)|Python|18883|220614|
 |0968|Codewars|[Multiple of index](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Multiple%20of%20index.js)|JavaScript|8kyu|220613|

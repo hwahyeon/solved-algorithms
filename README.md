@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0976|BaekJoon|[Sort 마스터 배지훈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Sort%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EB%B0%B0%EC%A7%80%ED%9B%88.py)|Python|17263|220617|
 |0975|Codewars|[Simple validation of a username with regex](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Simple%20validation%20of%20a%20username%20with%20regex.js)|JavaScript|8kyu|220616|
 |0974|BaekJoon|['나교수' 교수님의 악필](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20'%EB%82%98%EA%B5%90%EC%88%98'%20%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%98%20%EC%95%85%ED%95%84.py)|Python|16462|220616|
 |0973|Codewars|[Freudian translator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Freudian%20translator.js)|JavaScript|8kyu|220615|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0987|Codewars|[Take an Arrow to the knee, Functionally](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Take%20an%20Arrow%20to%20the%20knee%2C%20Functionally.js)|JavaScript|8kyu|220623|
 |0986|Codewars|[Switch/Case - Bug Fixing #6](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Switch%20Case%20-%20Bug%20Fixing%20%236.js)|JavaScript|8kyu|220622|
 |0985|BaekJoon|[유니대전 퀴즈쇼](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EB%8B%88%EB%8C%80%EC%A0%84%20%ED%80%B4%EC%A6%88%EC%87%BC.py)|Python|20362|220622|
 |0984|BaekJoon|[홀수일까 짝수일까](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%80%EC%88%98%EC%9D%BC%EA%B9%8C%20%EC%A7%9D%EC%88%98%EC%9D%BC%EA%B9%8C.py)|Python|5988|220621|

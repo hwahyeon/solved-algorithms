@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0989|Codewars|[Grasshopper - Array Mean](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Array%20Mean.js)|JavaScript|8kyu|220624|
 |0988|BaekJoon|[5와 6의 차이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%205%EC%99%80%206%EC%9D%98%20%EC%B0%A8%EC%9D%B4.py)|Python|2864|220623|
 |0987|Codewars|[Take an Arrow to the knee, Functionally](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Take%20an%20Arrow%20to%20the%20knee%2C%20Functionally.js)|JavaScript|8kyu|220623|
 |0986|Codewars|[Switch/Case - Bug Fixing #6](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Switch%20Case%20-%20Bug%20Fixing%20%236.js)|JavaScript|8kyu|220622|

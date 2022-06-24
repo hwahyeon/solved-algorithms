@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0991|BaekJoon|[그대로 출력하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)|Python|11718|220624|
 |0990|BaekJoon|[문자열](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)|Python|9086|220624|
 |0989|Codewars|[Grasshopper - Array Mean](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Array%20Mean.js)|JavaScript|8kyu|220624|
 |0988|BaekJoon|[5와 6의 차이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%205%EC%99%80%206%EC%9D%98%20%EC%B0%A8%EC%9D%B4.py)|Python|2864|220623|

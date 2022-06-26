@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|0996|Codewars|[String Templates - Bug Fixing #5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20String%20Templates%20-%20Bug%20Fixing%20%235.js)|JavaScript|8kyu|220626|
 |0995|BaekJoon|[대소문자 바꾸기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)|JavaScript|2744|220626|
 |0994|BaekJoon|[새싹](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20%EC%83%88%EC%8B%B9.js)|JavaScript|25083|220626|
 |0993|BaekJoon|[개수 세기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py)|Python|10807|220625|

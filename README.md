@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1003|Codewars|[N-th Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20N-th%20Power.js)|JavaScript|8kyu|220629|
+|1002|BaekJoon|[KMP는 왜 KMP일까?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20KMP%EB%8A%94%20%EC%99%9C%20KMP%EC%9D%BC%EA%B9%8C%3F.py)|Python|2902|220629|
 |1001|BaekJoon|[질투진서](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%88%ED%88%AC%EC%A7%84%EC%84%9C.py)|Python|15784|220628|
 |1000|Codewars|[Palindrome Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Palindrome%20Strings.js)|JavaScript|8kyu|220628|
 |0999|BaekJoon|[피보나치 수 5](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%205.js)|JavaScript|10870|220627|

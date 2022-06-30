@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1004|Codewars|[Is integer safe to use?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/Codewars%20%7C%20Is%20integer%20safe%20to%20use%3F.ts)|TypeScript|8kyu|220630|
 |1003|Codewars|[N-th Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20N-th%20Power.js)|JavaScript|8kyu|220629|
 |1002|BaekJoon|[KMP는 왜 KMP일까?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20KMP%EB%8A%94%20%EC%99%9C%20KMP%EC%9D%BC%EA%B9%8C%3F.py)|Python|2902|220629|
 |1001|BaekJoon|[질투진서](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A7%88%ED%88%AC%EC%A7%84%EC%84%9C.py)|Python|15784|220628|

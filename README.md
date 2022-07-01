@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1006|Codewars|[Enumerable Magic #4 - True for None?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Enumerable%20Magic%20%234%20-%20True%20for%20None%3F.js)|JavaScript|8kyu|220701|
 |1005|BaekJoon|[가희와 방어율 무시](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20%EA%B0%80%ED%9D%AC%EC%99%80%20%EB%B0%A9%EC%96%B4%EC%9C%A8%20%EB%AC%B4%EC%8B%9C.js)|JavaScript|25238|220630|
 |1004|Codewars|[Is integer safe to use?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/Codewars%20%7C%20Is%20integer%20safe%20to%20use%3F.ts)|TypeScript|8kyu|220630|
 |1003|Codewars|[N-th Power](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20N-th%20Power.js)|JavaScript|8kyu|220629|

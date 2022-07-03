@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1011|Codewars|[Grasshopper - Object syntax debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Object%20syntax%20debug.js)|JavaScript|8kyu|220703|
 |1010|BaekJoon|[소가 길을 건너간 이유 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201.py)|Python|14467|220703|
 |1009|Codewars|[ES6 string addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20ES6%20string%20addition.js)|JavaScript|8kyu|220702|
 |1008|BaekJoon|[Pizza Deal](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Pizza%20Deal.py)|Python|16693|220702|

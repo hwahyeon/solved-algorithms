@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1013|BaekJoon|[문자 인식](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%20%EC%9D%B8%EC%8B%9D.py)|Python|3448|220704|
+|1012|BaekJoon|[우유가 넘어지면?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B0%EC%9C%A0%EA%B0%80%20%EB%84%98%EC%96%B4%EC%A7%80%EB%A9%B4%3F.py)|Python|17363|220704|
 |1011|Codewars|[Grasshopper - Object syntax debug](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Object%20syntax%20debug.js)|JavaScript|8kyu|220703|
 |1010|BaekJoon|[소가 길을 건너간 이유 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%86%8C%EA%B0%80%20%EA%B8%B8%EC%9D%84%20%EA%B1%B4%EB%84%88%EA%B0%84%20%EC%9D%B4%EC%9C%A0%201.py)|Python|14467|220703|
 |1009|Codewars|[ES6 string addition](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20ES6%20string%20addition.js)|JavaScript|8kyu|220702|

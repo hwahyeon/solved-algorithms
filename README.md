@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1016|Codewars|[Type of sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Type%20of%20sum.js)|JavaScript|8kyu|220705|
+|1015|BaekJoon|[알파벳 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98.py)|Python|10808|220705|
 |1014|Codewars|[Grader](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grader.js)|JavaScript|8kyu|220704|
 |1013|BaekJoon|[문자 인식](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%20%EC%9D%B8%EC%8B%9D.py)|Python|3448|220704|
 |1012|BaekJoon|[우유가 넘어지면?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%B0%EC%9C%A0%EA%B0%80%20%EB%84%98%EC%96%B4%EC%A7%80%EB%A9%B4%3F.py)|Python|17363|220704|

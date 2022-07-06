@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1018|Codewars|[Contamination #1 -String-](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Contamination%20%231%20-String-.js)|JavaScript|8kyu|220706|
+|1017|BaekJoon|[치킨 두 마리 (...)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%20%EB%91%90%20%EB%A7%88%EB%A6%AC%20(...).py)|Python|14489|220706|
 |1016|Codewars|[Type of sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Type%20of%20sum.js)|JavaScript|8kyu|220705|
 |1015|BaekJoon|[알파벳 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98.py)|Python|10808|220705|
 |1014|Codewars|[Grader](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grader.js)|JavaScript|8kyu|220704|

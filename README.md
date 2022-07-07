@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1020|Codewars|[Grasshopper - Bug Squashing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Bug%20Squashing.js)|JavaScript|8kyu|220707|
 |1019|BaekJoon|[Kuber](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Kuber.py)|Python|20833|220707|
 |1018|Codewars|[Contamination #1 -String-](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Contamination%20%231%20-String-.js)|JavaScript|8kyu|220706|
 |1017|BaekJoon|[치킨 두 마리 (...)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%20%EB%91%90%20%EB%A7%88%EB%A6%AC%20(...).py)|Python|14489|220706|

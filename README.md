@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1023|Codewars|[Surface Area and Volume of a Box](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Surface%20Area%20and%20Volume%20of%20a%20Box.js)|JavaScript|8kyu|220709|
 |1022|BaekJoon|[영수증](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%EC%88%98%EC%A6%9D_.py)|Python|25304|220708|
 |1021|Codewars|[Fuel Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Fuel%20Calculator.js)|JavaScript|8kyu|220708|
 |1020|Codewars|[Grasshopper - Bug Squashing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Grasshopper%20-%20Bug%20Squashing.js)|JavaScript|8kyu|220707|

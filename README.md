@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1025|BaekJoon|[Do Not Touch Anything](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Do%20Not%20Touch%20Anything.py)|Python|13136|220710|
 |1024|BaekJoon|[전체 계산 횟수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EC%B2%B4%20%EA%B3%84%EC%82%B0%20%ED%9A%9F%EC%88%98.py)|Python|17174|220709|
 |1023|Codewars|[Surface Area and Volume of a Box](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Surface%20Area%20and%20Volume%20of%20a%20Box.js)|JavaScript|8kyu|220709|
 |1022|BaekJoon|[영수증](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%81%EC%88%98%EC%A6%9D_.py)|Python|25304|220708|

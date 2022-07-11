@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1027|BaekJoon|[IT Passport Examination](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20IT%20Passport%20Examination.py)|Python|11257|220711|
 |1026|Codewars|[A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future"](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20A%20bugs%20trilogy:%20Episode%201%20-%20%22Let%20Math.Random()%3B%20decide%20your%20future%22.js)|JavaScript|8kyu|220710|
 |1025|BaekJoon|[Do Not Touch Anything](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Do%20Not%20Touch%20Anything.py)|Python|13136|220710|
 |1024|BaekJoon|[전체 계산 횟수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EC%B2%B4%20%EA%B3%84%EC%82%B0%20%ED%9A%9F%EC%88%98.py)|Python|17174|220709|

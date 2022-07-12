@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1030|Codewars|[For Twins: 1. Types](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20For%20Twins:%201.%20Types.js)|JavaScript|8kyu|220712|
 |1029|BaekJoon|[중간계 전쟁](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%91%EA%B0%84%EA%B3%84%20%EC%A0%84%EC%9F%81.py)|Python|4435|220712|
 |1028|Codewars|[Merging sorted integer arrays (without duplicates)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Merging%20sorted%20integer%20arrays%20(without%20duplicates).py)|Python|8kyu|220711|
 |1027|BaekJoon|[IT Passport Examination](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20IT%20Passport%20Examination.py)|Python|11257|220711|

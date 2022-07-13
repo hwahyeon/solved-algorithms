@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1032|Codewars|[Tip Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Tip%20Calculator.js)|JavaScript|8kyu|220713|
 |1031|BaekJoon|[Hot Dogs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hot%20Dogs.py)|Python|5666|220713|
 |1030|Codewars|[For Twins: 1. Types](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20For%20Twins:%201.%20Types.js)|JavaScript|8kyu|220712|
 |1029|BaekJoon|[중간계 전쟁](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%91%EA%B0%84%EA%B3%84%20%EC%A0%84%EC%9F%81.py)|Python|4435|220712|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1034|Codewars|[Pythagorean Triple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Pythagorean%20Triple.py)|Python|8kyu|220714|
+|1033|BaekJoon|[대표값](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%92.py)|Python|2592|220714|
 |1032|Codewars|[Tip Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Tip%20Calculator.js)|JavaScript|8kyu|220713|
 |1031|BaekJoon|[Hot Dogs](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hot%20Dogs.py)|Python|5666|220713|
 |1030|Codewars|[For Twins: 1. Types](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20For%20Twins:%201.%20Types.js)|JavaScript|8kyu|220712|

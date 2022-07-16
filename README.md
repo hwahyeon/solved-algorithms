@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1038|BaekJoon|[과자 사기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%9E%90%20%EC%82%AC%EA%B8%B0.py)|Python|17450|220716|
 |1037|Codewars|[Penultimate](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Penultimate.py)|Python|7kyu|220716|
 |1036|Codewars|[The animals went in two by two](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20The%20animals%20went%20in%20two%20by%20two.py)|Python|7kyu|220715|
 |1035|BaekJoon|[유진수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EC%A7%84%EC%88%98.py)|Python|1356|220715|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1042|Codewars|[Enumerable Magic #30 - Split that Array!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Enumerable%20Magic%20%2330%20-%20Split%20that%20Array!.py)|Python|8kyu|220718|
+|1041|BaekJoon|[IBM 빼기 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20IBM%20%EB%B9%BC%EA%B8%B0%201.py)|Python|6321|220718|
 |1040|Codewars|[Closest elevator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Closest%20elevator.js)|JavaScript|8kyu|220717|
 |1039|BaekJoon|[아!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84!.py)|Python|4999|220717|
 |1038|BaekJoon|[과자 사기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%9E%90%20%EC%82%AC%EA%B8%B0.py)|Python|17450|220716|

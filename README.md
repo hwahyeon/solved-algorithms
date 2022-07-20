@@ -4,7 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1030|Codewars|[Wealth equality, finally!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Wealth%20equality%2C%20finally!.js)|JavaScript|7kyu|220719|
+|1046|BaekJoon|[UCPC에서 가장 쉬운 문제 번호는?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20UCPC%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%89%AC%EC%9A%B4%20%EB%AC%B8%EC%A0%9C%20%EB%B2%88%ED%98%B8%EB%8A%94%3F.rs)|Rust|25311|220720|
+|1045|Codewars|[Sum without highest and lowest number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20without%20highest%20and%20lowest%20number.py)|Python|8kyu|220720|
+|1044|Codewars|[Wealth equality, finally!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Wealth%20equality%2C%20finally!.js)|JavaScript|7kyu|220719|
 |1043|BaekJoon|[성택이의 은밀한 비밀번호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B1%ED%83%9D%EC%9D%B4%EC%9D%98%20%EC%9D%80%EB%B0%80%ED%95%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.py)|Python|25372|220719|
 |1042|Codewars|[Enumerable Magic #30 - Split that Array!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Enumerable%20Magic%20%2330%20-%20Split%20that%20Array!.py)|Python|8kyu|220718|
 |1041|BaekJoon|[IBM 빼기 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20IBM%20%EB%B9%BC%EA%B8%B0%201.py)|Python|6321|220718|

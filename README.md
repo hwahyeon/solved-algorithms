@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1049|BaekJoon|[분수좋아해?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%88%98%EC%A2%8B%EC%95%84%ED%95%B4%3F.py)|Python|10474|220722|
 |1048|BaekJoon|[입실 관리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9E%85%EC%8B%A4%20%EA%B4%80%EB%A6%AC.py)|Python|5524|220721|
 |1047|Codewars|[Reverse list](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20list.py)|Python|7kyu|220721|
 |1046|BaekJoon|[UCPC에서 가장 쉬운 문제 번호는?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20UCPC%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%89%AC%EC%9A%B4%20%EB%AC%B8%EC%A0%9C%20%EB%B2%88%ED%98%B8%EB%8A%94%3F.rs)|Rust|25311|220720|

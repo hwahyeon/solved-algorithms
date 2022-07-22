@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1050|Codewars|[Simple Fun #1: Seats in Theater](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Simple%20Fun%20%231:%20Seats%20in%20Theater.js)|JavaScript|8kyu|220722|
 |1049|BaekJoon|[분수좋아해?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%88%98%EC%A2%8B%EC%95%84%ED%95%B4%3F.py)|Python|10474|220722|
 |1048|BaekJoon|[입실 관리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9E%85%EC%8B%A4%20%EA%B4%80%EB%A6%AC.py)|Python|5524|220721|
 |1047|Codewars|[Reverse list](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Reverse%20list.py)|Python|7kyu|220721|

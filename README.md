@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1052|BaekJoon|[겨울왕국 티켓 예매](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD%20%ED%8B%B0%EC%BC%93%20%EC%98%88%EB%A7%A4.py)|Python|18247|220723|
 |1051|Codewars|[Dot Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Dot%20Calculator.py)|Python|7kyu|220723|
 |1050|Codewars|[Simple Fun #1: Seats in Theater](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Simple%20Fun%20%231:%20Seats%20in%20Theater.js)|JavaScript|8kyu|220722|
 |1049|BaekJoon|[분수좋아해?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B6%84%EC%88%98%EC%A2%8B%EC%95%84%ED%95%B4%3F.py)|Python|10474|220722|

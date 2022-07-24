@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1055|Codewars|[Most Frequent Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Most%20Frequent%20Elements.py)|Python|7kyu|220724|
+|1054|BaekJoon|[사장님 도박은 재미로 하셔야 합니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%EC%9E%A5%EB%8B%98%20%EB%8F%84%EB%B0%95%EC%9D%80%20%EC%9E%AC%EB%AF%B8%EB%A1%9C%20%ED%95%98%EC%85%94%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.py)|Python|23795|220724|
 |1053|Codewars|[Descending Order](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Descending%20Order.py)|Python|7kyu|220723|
 |1052|BaekJoon|[겨울왕국 티켓 예매](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD%20%ED%8B%B0%EC%BC%93%20%EC%98%88%EB%A7%A4.py)|Python|18247|220723|
 |1051|Codewars|[Dot Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Dot%20Calculator.py)|Python|7kyu|220723|

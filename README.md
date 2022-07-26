@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1059|BaekJoon|[점수 계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%90%EC%88%98%20%EA%B3%84%EC%82%B0.py)|Python|2822|220726|
+|1058|BaekJoon|[고무오리 디버깅](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EB%AC%B4%EC%98%A4%EB%A6%AC%20%EB%94%94%EB%B2%84%EA%B9%85.py)|Python|20001|220726|
 |1057|Codewars|[Debug Sum of Digits of a Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Debug%20Sum%20of%20Digits%20of%20a%20Number.py)|Python|7kyu|220725|
 |1056|BaekJoon|[내 학점을 구해줘](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%82%B4%20%ED%95%99%EC%A0%90%EC%9D%84%20%EA%B5%AC%ED%95%B4%EC%A4%98.py)|Python|10984|220725|
 |1055|Codewars|[Most Frequent Elements](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Most%20Frequent%20Elements.py)|Python|7kyu|220724|

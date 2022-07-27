@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1061|Codewars|[Help the Fruit Guy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20the%20Fruit%20Guy.py)|Python|7kyu|220727|
 |1060|Codewars|[What's your running pace?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What's%20your%20running%20pace%3F.py)|Python|6kyu|220726|
 |1059|BaekJoon|[점수 계산](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%90%EC%88%98%20%EA%B3%84%EC%82%B0.py)|Python|2822|220726|
 |1058|BaekJoon|[고무오리 디버깅](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EB%AC%B4%EC%98%A4%EB%A6%AC%20%EB%94%94%EB%B2%84%EA%B9%85.py)|Python|20001|220726|

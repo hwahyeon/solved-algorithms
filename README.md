@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1063|Codewars|[Area of an arrow](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Area%20of%20an%20arrow.js)|JavaScript|7kyu|220728|
 |1062|BaekJoon|[Shares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Shares.py)|Python|3733|220727|
 |1061|Codewars|[Help the Fruit Guy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20the%20Fruit%20Guy.py)|Python|7kyu|220727|
 |1060|Codewars|[What's your running pace?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20What's%20your%20running%20pace%3F.py)|Python|6kyu|220726|

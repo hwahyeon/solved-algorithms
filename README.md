@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1065|Codewars|[Strings: starts with](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Strings:%20starts%20with.py)|Python|7kyu|220729|
 |1064|BaekJoon|[성 지키기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%B1%20%EC%A7%80%ED%82%A4%EA%B8%B0.py)|Python|1236|220728|
 |1063|Codewars|[Area of an arrow](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Area%20of%20an%20arrow.js)|JavaScript|7kyu|220728|
 |1062|BaekJoon|[Shares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Shares.py)|Python|3733|220727|

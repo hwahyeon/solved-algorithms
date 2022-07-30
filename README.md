@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1068|BaekJoon|[미국 스타일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AF%B8%EA%B5%AD%20%EC%8A%A4%ED%83%80%EC%9D%BC.py)|Python|2712|220730|
 |1067|Codewars|[Printer Errors](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Printer%20Errors.py)|Python|7kyu|220730|
 |1066|BaekJoon|[중복을 없애자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%91%EB%B3%B5%EC%9D%84%20%EC%97%86%EC%95%A0%EC%9E%90.py)|Python|4592|220729|
 |1065|Codewars|[Strings: starts with](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Strings:%20starts%20with.py)|Python|7kyu|220729|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1071|BaekJoon|[거울, 오! 거울](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EC%9A%B8%2C%20%EC%98%A4!%20%EA%B1%B0%EC%9A%B8.py)|Python|4740|220801|
 |1070|Codewars|[Help Suzuki rake his garden!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20Suzuki%20rake%20his%20garden!.py)|Python|7kyu|220731|
 |1069|BaekJoon|[등장하지 않는 문자의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%93%B1%EC%9E%A5%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%9D%98%20%ED%95%A9.py)|Python|3059|220731|
 |1068|BaekJoon|[미국 스타일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AF%B8%EA%B5%AD%20%EC%8A%A4%ED%83%80%EC%9D%BC.py)|Python|2712|220730|

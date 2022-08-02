@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1074|Codewars|[Training JS #18: Methods of String object--concat() split() and its good friend join()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2318:%20Methods%20of%20String%20object--concat()%20split()%20and%20its%20good%20friend%20join().js)|JavaScript|8kyu|220802|
+|1073|BaekJoon|[오타맨 고창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%98%A4%ED%83%80%EB%A7%A8%20%EA%B3%A0%EC%B0%BD%EC%98%81.py)|Python|2711|220802|
 |1072|Codewars|[Alphabetically ordered](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Alphabetically%20ordered.py)|Python|7kyu|220801|
 |1071|BaekJoon|[거울, 오! 거울](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EC%9A%B8%2C%20%EC%98%A4!%20%EA%B1%B0%EC%9A%B8.py)|Python|4740|220801|
 |1070|Codewars|[Help Suzuki rake his garden!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20Suzuki%20rake%20his%20garden!.py)|Python|7kyu|220731|

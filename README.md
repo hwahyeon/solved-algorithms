@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1077|BaekJoon|[첫 글자를 대문자로](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B2%AB%20%EA%B8%80%EC%9E%90%EB%A5%BC%20%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C.py)|Python|4458|220804|
 |1076|Codewars|[Character Frequency](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Character%20Frequency.py)|Python|8kyu|220803|
 |1075|BaekJoon|[행렬 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%96%89%EB%A0%AC%20%EB%8D%A7%EC%85%88.py)|Python|2738|220803|
 |1074|Codewars|[Training JS #18: Methods of String object--concat() split() and its good friend join()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2318:%20Methods%20of%20String%20object--concat()%20split()%20and%20its%20good%20friend%20join().js)|JavaScript|8kyu|220802|

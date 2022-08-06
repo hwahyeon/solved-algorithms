@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1085|BaekJoon|[0의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|11170|220807|
+|1084|BaekJoon|[더하기 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%202.py)|Python|10823|220807|
 |1083|Codewars|[WeIrD StRiNg CaSe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20WeIrD%20StRiNg%20CaSe.py)|Python|6kyu|220806|
 |1082|Codewars|[Frank's Sticky Calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Frank's%20Sticky%20Calculator.py)|Python|7kyu|220806|
 |1081|BaekJoon|[수 뒤집기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|Python|3062|220806|

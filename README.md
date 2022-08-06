@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1081|BaekJoon|[수 뒤집기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|Python|3062|220806|
 |1080|Codewars|[Form The Minimum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Form%20The%20Minimum.py)|Python|7kyu|220805|
 |1079|BaekJoon|[최소, 최대 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80%202.py)|Python|20053|220805|
 |1078|Codewars|[New £5 notes collectors!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20New%20%C2%A35%20notes%20collectors!.py)|Python|7kyu|220804|

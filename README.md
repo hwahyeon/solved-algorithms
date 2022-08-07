@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1086|Codewars|[Add Length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Add%20Length.py)|Python|8kyu|220807|
 |1085|BaekJoon|[0의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python|11170|220807|
 |1084|BaekJoon|[더하기 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%202.py)|Python|10823|220807|
 |1083|Codewars|[WeIrD StRiNg CaSe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20WeIrD%20StRiNg%20CaSe.py)|Python|6kyu|220806|

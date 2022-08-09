@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1090|Codewars|[Hells Kitchen](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hells%20Kitchen.py)|Python|7kyu|220809|
 |1089|BaekJoon|[Gnome Sequencing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Gnome%20Sequencing.py)|Python|4589|220809|
 |1088|Codewars|[All unique](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20unique.py)|Python|7kyu|220808|
 |1087|BaekJoon|[페르시아의 왕들](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%84%EC%9D%98%20%EC%99%95%EB%93%A4.py)|Python|10599|220808|

@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1092|Codewars|[Coefficients of the Quadratic Equation](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Coefficients%20of%20the%20Quadratic%20Equation.js)|JavaScript|8kyu|220810|
+|1091|BaekJoon|[ABC](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20ABC.py)|Python|3047|220810|
 |1090|Codewars|[Hells Kitchen](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hells%20Kitchen.py)|Python|7kyu|220809|
 |1089|BaekJoon|[Gnome Sequencing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Gnome%20Sequencing.py)|Python|4589|220809|
 |1088|Codewars|[All unique](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20All%20unique.py)|Python|7kyu|220808|

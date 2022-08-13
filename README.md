@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1098|Codewars|[Odd or Even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Odd%20or%20Even%3F.py)|Python|7kyu|220813|
+|1097|BaekJoon|[줄번호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%84%EB%B2%88%ED%98%B8.py)|Python|4470|220813|
 |1096|BaekJoon|[거울상](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EC%9A%B8%EC%83%81.py)|Python|4583|220812|
 |1095|Codewars|[Move 10](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Move%2010.py)|Python|7kyu|220812|
 |1094|BaekJoon|[AFC 윔블던](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20AFC%20%EC%9C%94%EB%B8%94%EB%8D%98.py)|Python|4299|220811|

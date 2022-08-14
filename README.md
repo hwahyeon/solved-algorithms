@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1100|BaekJoon|[네 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%84%A4%20%EC%88%98.py)|Python|10824|220814|
 |1099|Codewars|[Sum of two lowest positive integers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20two%20lowest%20positive%20integers.py)|Python|7kyu|220814|
 |1098|Codewars|[Odd or Even?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Odd%20or%20Even%3F.py)|Python|7kyu|220813|
 |1097|BaekJoon|[줄번호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%84%EB%B2%88%ED%98%B8.py)|Python|4470|220813|

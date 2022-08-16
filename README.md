@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1104|Codewars|[Two to One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20to%20One.py)|Python|7kyu|220816|
 |1103|BaekJoon|[비밀 편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%84%EB%B0%80%20%ED%8E%B8%EC%A7%80.py)|Python|5426|220816|
 |1102|Codewars|[Maximum Triplet Sum (Array Series #7)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Maximum%20Triplet%20Sum%20(Array%20Series%20%237).py)|Python|7kyu|220815|
 |1101|BaekJoon|[럭비 클럽](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%9F%AD%EB%B9%84%20%ED%81%B4%EB%9F%BD.py)|Python|2083|220815|

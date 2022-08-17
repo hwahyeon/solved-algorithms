@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1106|Codewars|[Sort My Textbooks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20My%20Textbooks.py)|Python|8kyu|220817|
+|1105|BaekJoon|[코딩은 체육과목 입니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BD%94%EB%94%A9%EC%9D%80%20%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%20%EC%9E%85%EB%8B%88%EB%8B%A4.py)|Python|25314|220817|
 |1104|Codewars|[Two to One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Two%20to%20One.py)|Python|7kyu|220816|
 |1103|BaekJoon|[비밀 편지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%84%EB%B0%80%20%ED%8E%B8%EC%A7%80.py)|Python|5426|220816|
 |1102|Codewars|[Maximum Triplet Sum (Array Series #7)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Maximum%20Triplet%20Sum%20(Array%20Series%20%237).py)|Python|7kyu|220815|

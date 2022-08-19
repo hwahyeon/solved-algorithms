@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1109|Codewars|[Sum of a sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20a%20sequence.py)|Python|7kyu|220819|
 |1108|Codewars|[Spacify](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Spacify.py)|Python|7kyu|220818|
 |1107|BaekJoon|[Boiling Water](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Boiling%20Water.py)|Python|21612|220818|
 |1106|Codewars|[Sort My Textbooks](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20My%20Textbooks.py)|Python|8kyu|220817|

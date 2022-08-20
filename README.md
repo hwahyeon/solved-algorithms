@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1111|BaekJoon|[Petrol](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Petrol.py)|Python|18330|220820|
 |1110|BaekJoon|[과제 안 내신 분..?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F.py)|Python|5597|220819|
 |1109|Codewars|[Sum of a sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20a%20sequence.py)|Python|7kyu|220819|
 |1108|Codewars|[Spacify](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Spacify.py)|Python|7kyu|220818|

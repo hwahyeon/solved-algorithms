@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1115|BaekJoon|[Counting Antibodies](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Antibodies.py)|Python|24860|220822|
 |1114|Codewars|[Pre-FizzBuzz Workout #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Pre-FizzBuzz%20Workout%20%231.js)|JavaScript|8kyu|220821|
 |1113|BaekJoon|[Zadanie próbne](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Zadanie%20pr%C3%B3bne.py)|Python|8545|220821|
 |1112|Codewars|[99 Problems, #1: last in list](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%2099%20Problems%2C%20%231:%20last%20in%20list.py)|Python|7kyu|220820|

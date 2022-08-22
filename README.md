@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1116|Codewars|[Are the numbers in order?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Are%20the%20numbers%20in%20order%3F.py)|Python|7kyu|220822|
 |1115|BaekJoon|[Counting Antibodies](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Antibodies.py)|Python|24860|220822|
 |1114|Codewars|[Pre-FizzBuzz Workout #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Pre-FizzBuzz%20Workout%20%231.js)|JavaScript|8kyu|220821|
 |1113|BaekJoon|[Zadanie próbne](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Zadanie%20pr%C3%B3bne.py)|Python|8545|220821|

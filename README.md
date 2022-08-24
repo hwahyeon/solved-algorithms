@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1119|BaekJoon|[The Fastest Sorting Algorithm In The World](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20The%20Fastest%20Sorting%20Algorithm%20In%20The%20World.py)|Python|23235|220824|
 |1118|Codewars|[Ordered Count of Characters](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ordered%20Count%20of%20Characters.py)|Python|7kyu|220824|
 |1117|BaekJoon|[ЧАСОВНИК](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%D0%A7%D0%90%D0%A1%D0%9E%D0%92%D0%9D%D0%98%D0%9A.py)|Python|24356|220823|
 |1116|Codewars|[Are the numbers in order?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Are%20the%20numbers%20in%20order%3F.py)|Python|7kyu|220822|

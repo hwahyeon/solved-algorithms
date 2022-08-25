@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1121|Codewars|[First-Class Function Factory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20First-Class%20Function%20Factory.js)|JavaScript|7kyu|220825|
 |1120|BaekJoon|[단순한 문제 (Small)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%88%9C%ED%95%9C%20%EB%AC%B8%EC%A0%9C%20(Small).py)|Python|25494|220825|
 |1119|BaekJoon|[The Fastest Sorting Algorithm In The World](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20The%20Fastest%20Sorting%20Algorithm%20In%20The%20World.py)|Python|23235|220824|
 |1118|Codewars|[Ordered Count of Characters](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ordered%20Count%20of%20Characters.py)|Python|7kyu|220824|

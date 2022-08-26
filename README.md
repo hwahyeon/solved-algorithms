@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1123|Codewars|[Likes Vs Dislikes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Likes%20Vs%20Dislikes.py)|Python|7kyu|220826|
 |1122|BaekJoon|[CAPS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20CAPS.js)|JavaScript|15000|220826|
 |1121|Codewars|[First-Class Function Factory](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20First-Class%20Function%20Factory.js)|JavaScript|7kyu|220825|
 |1120|BaekJoon|[단순한 문제 (Small)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%88%9C%ED%95%9C%20%EB%AC%B8%EC%A0%9C%20(Small).py)|Python|25494|220825|

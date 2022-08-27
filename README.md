@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1125|Codewars|[How many pages in a book?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20pages%20in%20a%20book%3F.py)|Python|6kyu|220827|
 |1124|BaekJoon|[도비의 난독증 테스트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%B9%84%EC%9D%98%20%EB%82%9C%EB%8F%85%EC%A6%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8.py)|Python|2204|220827|
 |1123|Codewars|[Likes Vs Dislikes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Likes%20Vs%20Dislikes.py)|Python|7kyu|220826|
 |1122|BaekJoon|[CAPS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/BaekJoon%20%7C%20CAPS.js)|JavaScript|15000|220826|

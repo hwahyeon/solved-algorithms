@@ -4,6 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1127|Codewars|[Ce*s*r*d Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Ce*s*r*d%20Strings.py)|Python|7kyu|220828|
+|1126|BaekJoon|[이진수 덧셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%A7%EC%85%88_.py)|Python|2729|220828|
 |1125|Codewars|[How many pages in a book?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20How%20many%20pages%20in%20a%20book%3F.py)|Python|6kyu|220827|
 |1124|BaekJoon|[도비의 난독증 테스트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%84%EB%B9%84%EC%9D%98%20%EB%82%9C%EB%8F%85%EC%A6%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8.py)|Python|2204|220827|
 |1123|Codewars|[Likes Vs Dislikes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Likes%20Vs%20Dislikes.py)|Python|7kyu|220826|

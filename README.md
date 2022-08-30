@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1131|Codewars|[Thinking & Testing: A and B?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Thinking%20%26%20Testing:%20A%20and%20B%3F.js)|JavaScript|7kyu|220830|
 |1130|BaekJoon|[노솔브 방지문제야!!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%85%B8%EC%86%94%EB%B8%8C%20%EB%B0%A9%EC%A7%80%EB%AC%B8%EC%A0%9C%EC%95%BC!!.py)|Python|15917|220830|
 |1129|Codewars|[Training JS #21: Methods of String object--trim() and the string template](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2321:%20Methods%20of%20String%20object--trim()%20and%20the%20string%20template.js)|JavaScript|8kyu|220829|
 |1128|BaekJoon|[최댓값](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B5%9C%EB%8C%93%EA%B0%92__.py)|Python|2566|220829|

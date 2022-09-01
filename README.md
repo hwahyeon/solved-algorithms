@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1133|Codewars|[Arrh, grabscrab!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arrh%2C%20grabscrab!.py)|Python|6kyu|220901|
 |1131|Codewars|[Testing 1-2-3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Testing%201-2-3.py)|Python|7kyu|220831|
 |1132|BaekJoon|[양수 개수 세기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%96%91%EC%88%98%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py)|Python|14909|220831|
 |1131|Codewars|[Thinking & Testing: A and B?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Thinking%20%26%20Testing:%20A%20and%20B%3F.js)|JavaScript|7kyu|220830|

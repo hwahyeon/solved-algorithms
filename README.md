@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1136|BaekJoon|[Koszykarz](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Koszykarz.py)|Python|8710|220902|
 |1135|BaekJoon|[민균이의 비밀번호](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AF%BC%EA%B7%A0%EC%9D%B4%EC%9D%98%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.py)|Python|9933|220901|
 |1134|Codewars|[Arrh, grabscrab!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Arrh%2C%20grabscrab!.py)|Python|6kyu|220901|
 |1133|Codewars|[Testing 1-2-3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Testing%201-2-3.py)|Python|7kyu|220831|

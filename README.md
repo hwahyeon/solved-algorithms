@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1139|BaekJoon|[Hello Judge](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hello%20Judge.py)|Python|9316|220903|
 |1138|Codewars|[Remove All The Marked Elements of a List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20All%20The%20Marked%20Elements%20of%20a%20List.py)|Python|7kyu|220902|
 |1137|BaekJoon|[HOMWRK](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20HOMWRK.py)|Python|18398|220902|
 |1136|BaekJoon|[Koszykarz](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Koszykarz.py)|Python|8710|220902|

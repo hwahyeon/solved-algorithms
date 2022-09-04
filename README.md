@@ -4,8 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1142|Codewars|[Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20Word%20in%20String.py)|JavaScript|8kyu|220904|
-|1141|BaekJoon|[Counting Clauses](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Counting%20Clauses.py)|Python|17903|220904|
+|1142|Codewars|[Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2315:%20Methods%20of%20Number%20object--toFixed()%2C%20toExponential()%20and%20toPrecision().py)|JavaScript|8kyu|220904|
+|1141|BaekJoon|[Counting Clauses](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Clauses.py)|Python|17903|220904|
 |1140|Codewars|[Multiply Word in String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20Word%20in%20String.py)|Python|7kyu|220903|
 |1139|BaekJoon|[Hello Judge](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hello%20Judge.py)|Python|9316|220903|
 |1138|Codewars|[Remove All The Marked Elements of a List](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20All%20The%20Marked%20Elements%20of%20a%20List.py)|Python|7kyu|220902|

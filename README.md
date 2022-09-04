@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1142|Codewars|[Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20Word%20in%20String.py)|JavaScript|8kyu|220904|
 |1141|BaekJoon|[Counting Clauses](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Counting%20Clauses.py)|Python|17903|220904|
 |1140|Codewars|[Multiply Word in String](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiply%20Word%20in%20String.py)|Python|7kyu|220903|
 |1139|BaekJoon|[Hello Judge](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Hello%20Judge.py)|Python|9316|220903|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1144|Codewars|[Who ate the cookie?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20ate%20the%20cookie%3F.py)|Python|8kyu|220905|
 |1143|BaekJoon|[Basketball One-on-One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Basketball%20One-on-One.py)|Python|18198|220905|
 |1142|Codewars|[Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2315:%20Methods%20of%20Number%20object--toFixed()%2C%20toExponential()%20and%20toPrecision().py)|JavaScript|8kyu|220904|
 |1141|BaekJoon|[Counting Clauses](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Clauses.py)|Python|17903|220904|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1146|Codewars|[Classic Hello World](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Classic%20Hello%20World.js)|JavaScript|8kyu|220906|
 |1145|BaekJoon|[Rectangles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rectangles.py)|Python|15232|220906|
 |1144|Codewars|[Who ate the cookie?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Who%20ate%20the%20cookie%3F.py)|Python|8kyu|220905|
 |1143|BaekJoon|[Basketball One-on-One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Basketball%20One-on-One.py)|Python|18198|220905|

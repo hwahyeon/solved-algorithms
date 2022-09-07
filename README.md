@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1149|Codewars|[Safen User Input Part I - htmlspecialchars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Safen%20User%20Input%20Part%20I%20-%20htmlspecialchars.py)|Python|8kyu|220907|
 |1148|BaekJoon|[Silnia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Silnia.py)|Python|8558|220907|
 |1147|BaekJoon|[단어 길이 재기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A8%EC%96%B4%20%EA%B8%B8%EC%9D%B4%20%EC%9E%AC%EA%B8%B0.py)|Python|2743|220907|
 |1146|Codewars|[Classic Hello World](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Classic%20Hello%20World.js)|JavaScript|8kyu|220906|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1151|Codewars|[Make acronym](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Make%20acronym.py)|Python|7kyu|220908|
 |1150|BaekJoon|[Gorivo](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Gorivo.py)|Python|14065|220908|
 |1149|Codewars|[Safen User Input Part I - htmlspecialchars](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Safen%20User%20Input%20Part%20I%20-%20htmlspecialchars.py)|Python|8kyu|220907|
 |1148|BaekJoon|[Silnia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Silnia.py)|Python|8558|220907|

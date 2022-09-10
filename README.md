@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1155|Codewars|[Hëävÿ Mëtäl Ümläüts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20H%C3%AB%C3%A4v%C3%BF%20M%C3%ABt%C3%A4l%20%C3%9Cml%C3%A4%C3%BCts.py)|Python|7kyu|220910|
 |1154|BaekJoon|[줄 세기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A4%84%20%EC%84%B8%EA%B8%B0.py)|Python|4806|220910|
 |1153|Codewars|[They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20They%20say%20that%20only%20the%20name%20is%20long%20enough%20to%20attract%20attention.%20They%20also%20said%20that%20only%20a%20simple%20Kata%20will%20have%20someone%20to%20solve%20it.%20This%20is%20a%20sadly%20story%20%231:%20Are%20they%20opposite%3F.py)|Python|8kyu|220909|
 |1152|BaekJoon|[Contest Timing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Contest%20Timing.py)|Python|5928|220909|

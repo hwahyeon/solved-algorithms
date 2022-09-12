@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1158|BaekJoon|[Schronisko](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Schronisko.py)|Python|8760|220912|
 |1157|Codewars|[Count the Ones](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20the%20Ones.py)|Python|7kyu|220911|
 |1156|BaekJoon|[Every Second Counts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Every%20Second%20Counts.py)|Python|15080|220911|
 |1155|Codewars|[Hëävÿ Mëtäl Ümläüts](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20H%C3%AB%C3%A4v%C3%BF%20M%C3%ABt%C3%A4l%20%C3%9Cml%C3%A4%C3%BCts.py)|Python|7kyu|220910|

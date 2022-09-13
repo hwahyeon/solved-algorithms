@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1160|BaekJoon|[Zero or One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Zero%20or%20One.py)|Python|13623|220913|
 |1159|Codewars|[Mumbling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Mumbling.py)|Python|7kyu|220912|
 |1158|BaekJoon|[Schronisko](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Schronisko.py)|Python|8760|220912|
 |1157|Codewars|[Count the Ones](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20the%20Ones.py)|Python|7kyu|220911|

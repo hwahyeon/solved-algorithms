@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1162|BaekJoon|[Communication Channels](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Communication%20Channels.py)|Python|11121|220914|
 |1161|Codewars|[Remove the minimum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20the%20minimum.py)|Python|7kyu|220913|
 |1160|BaekJoon|[Zero or One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Zero%20or%20One.py)|Python|13623|220913|
 |1159|Codewars|[Mumbling](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Mumbling.py)|Python|7kyu|220912|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1164|BaekJoon|[Lunacy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Lunacy.py)|Python|4714|220915|
 |1163|Codewars|[Simple Fun #63: Shape Area](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%2363:%20Shape%20Area.py)|Python|7kyu|220914|
 |1162|BaekJoon|[Communication Channels](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Communication%20Channels.py)|Python|11121|220914|
 |1161|Codewars|[Remove the minimum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Remove%20the%20minimum.py)|Python|7kyu|220913|

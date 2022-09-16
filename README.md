@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1167|Codewars|[Find the unique number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20unique%20number.py)|Python|6kyu|220916|
 |1166|BaekJoon|[Andando no tempo](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Andando%20no%20tempo.py)|Python|13580|220916|
 |1165|Codewars|[Complete The Pattern #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Complete%20The%20Pattern%20%231.py)|Python|7kyu|220915|
 |1164|BaekJoon|[Lunacy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Lunacy.py)|Python|4714|220915|

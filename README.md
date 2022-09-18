@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1171|Codewars|[Simple Fun #37: House Numbers Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%2337:%20House%20Numbers%20Sum.py)|Python|7kyu|220918|
 |1170|BaekJoon|[The Walking Adam](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20The%20Walking%20Adam.py)|Python|18698|220918|
 |1169|Codewars|[Help the bookseller !](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Help%20the%20bookseller%20!.py)|Python|6kyu|220917|
 |1168|BaekJoon|[기상청 인턴 신현수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EC%9D%B8%ED%84%B4%20%EC%8B%A0%ED%98%84%EC%88%98.py)|Python|2435|220917|

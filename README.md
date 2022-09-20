@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1175|Codewars|[Find the missing letter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20missing%20letter.py)|Python|6kyu|220920|
 |1174|BaekJoon|[Dyslexia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Dyslexia.py)|Python|8371|220920|
 |1173|Codewars|[Sum of all arguments](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20all%20arguments.py)|Python|7kyu|220919|
 |1172|BaekJoon|[Judging Olympia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Judging%20Olympia.py)|Python|4909|220919|

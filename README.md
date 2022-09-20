@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1174|BaekJoon|[Dyslexia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Dyslexia.py)|Python|8371|220920|
 |1173|Codewars|[Sum of all arguments](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20of%20all%20arguments.py)|Python|7kyu|220919|
 |1172|BaekJoon|[Judging Olympia](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Judging%20Olympia.py)|Python|4909|220919|
 |1171|Codewars|[Simple Fun #37: House Numbers Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%2337:%20House%20Numbers%20Sum.py)|Python|7kyu|220918|

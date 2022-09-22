@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1178|BaekJoon|[Speed Limit](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Speed%20Limit.py)|Python|4635|220922|
 |1177|Codewars|[Aspect Ratio Cropping - Part 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Aspect%20Ratio%20Cropping%20-%20Part%201.js)|JavaScript|8kyu|220921|
 |1176|BaekJoon|[주사위](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A3%BC%EC%82%AC%EC%9C%84_.py)|Python|9295|220921|
 |1175|Codewars|[Find the missing letter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20the%20missing%20letter.py)|Python|6kyu|220920|

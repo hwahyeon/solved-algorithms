@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1180|BaekJoon|[Don’t pass me the ball!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Don%E2%80%99t%20pass%20me%20the%20ball!.py)|Python|6768|220923|
 |1179|Codewars|[Unique Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Unique%20Strings.py)|Python|6kyu|220922|
 |1178|BaekJoon|[Speed Limit](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Speed%20Limit.py)|Python|4635|220922|
 |1177|Codewars|[Aspect Ratio Cropping - Part 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Aspect%20Ratio%20Cropping%20-%20Part%201.js)|JavaScript|8kyu|220921|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1185|Codewars|[Push a hash/an object into array](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Push%20a%20hash%EF%BC%8Fan%20object%20into%20array.js.js)|JavaScript|8kyu|220925|
 |1184|BaekJoon|[Contemporary Art](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Contemporary%20Art.py)|Python|16600|220925|
 |1183|Codewars|[Decibel Scale](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Decibel%20Scale.js)|JavaScript|8kyu|220924|
 |1182|BaekJoon|[전자레인지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80_.py)|Python|14470|220924|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1184|BaekJoon|[Contemporary Art](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Contemporary%20Art.py)|Python|16600|220925|
 |1183|Codewars|[Decibel Scale](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Decibel%20Scale.js)|JavaScript|8kyu|220924|
 |1182|BaekJoon|[전자레인지](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80_.py)|Python|14470|220924|
 |1181|Codewars|[Coding 3min: Bug in Apple](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Coding%203min:%20Bug%20in%20Apple.py)|Python|7kyu|220923|

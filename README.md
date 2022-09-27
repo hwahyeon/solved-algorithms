@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1189|BaekJoon|[신기한 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%88%98.py)|PyPy3|17618|220927|
 |1188|BaekJoon|[심준의 병역판정검사](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%8B%AC%EC%A4%80%EC%9D%98%20%EB%B3%91%EC%97%AD%ED%8C%90%EC%A0%95%EA%B2%80%EC%82%AC.py)|Python|25285|220927|
 |1187|Codewars|[Which are in?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Which%20are%20in%3F.py)|Python|6kyu|220926|
 |1186|BaekJoon|[색종이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%89%EC%A2%85%EC%9D%B4.py)|Python|2563|220926|

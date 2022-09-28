@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1193|BaekJoon|[찍기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B0%8D%EA%B8%B0.py)|Python|2966|220928|
 |1192|Codewars|[Name That Number!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Name%20That%20Number!.py)|Python|7kyu|220927|
 |1191|BaekJoon|[거리의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%ED%95%A9.py)|PyPy3|2399|220927|
 |1190|BaekJoon|[수 정렬하기 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)|Python|2751|220927|

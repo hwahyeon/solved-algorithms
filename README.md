@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1199|BaekJoon|[사탕 박사 고창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%83%95%20%EB%B0%95%EC%82%AC%20%EA%B3%A0%EC%B0%BD%EC%98%81.py)|Python|2508|221001|
 |1198|Codewars|[Simple Fun #154: Zero And One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%23154:%20Zero%20And%20One.py)|Python|7kyu|220930|
 |1197|BaekJoon|[푸앙이와 종윤이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%20%EC%A2%85%EC%9C%A4%EC%9D%B4.py)|Python|25591|220930|
 |1196|Codewars|[■□ Pattern □■ : Heart](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20%E2%96%A0%E2%96%A1%20Pattern%20%E2%96%A1%E2%96%A0%20:%20Heart.py)|Python|6kyu|220929|

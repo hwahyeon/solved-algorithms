@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1202|BaekJoon|[국회의원 선거](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90%20%EC%84%A0%EA%B1%B0.py)|Python|1417|221002|
 |1201|Codewars|[Multiplication table](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiplication%20table.py)|Python|6kyu|221002|
 |1200|Codewars|[Compare powers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Compare%20powers.py)|Python|6kyu|221001|
 |1199|BaekJoon|[사탕 박사 고창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%83%95%20%EB%B0%95%EC%82%AC%20%EA%B3%A0%EC%B0%BD%EC%98%81.py)|Python|2508|221001|

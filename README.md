@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1201|Codewars|[Multiplication table](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiplication%20table.py)|Python|6kyu|221002|
 |1200|Codewars|[Compare powers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Compare%20powers.py)|Python|6kyu|221001|
 |1199|BaekJoon|[사탕 박사 고창영](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%82%AC%ED%83%95%20%EB%B0%95%EC%82%AC%20%EA%B3%A0%EC%B0%BD%EC%98%81.py)|Python|2508|221001|
 |1198|Codewars|[Simple Fun #154: Zero And One](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%23154:%20Zero%20And%20One.py)|Python|7kyu|220930|

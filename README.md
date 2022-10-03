@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1204|Codewars|[Job Matching #1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Job%20Matching%20%231.js)|JavaScript|8kyu|221003|
 |1203|BaekJoon|[샤틀버스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%83%A4%ED%8B%80%EB%B2%84%EC%8A%A4.py)|Python|25625|221003|
 |1202|BaekJoon|[국회의원 선거](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90%20%EC%84%A0%EA%B1%B0.py)|Python|1417|221002|
 |1201|Codewars|[Multiplication table](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Multiplication%20table.py)|Python|6kyu|221002|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1209|BaekJoon|[2018 연세대학교 프로그래밍 경진대회](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202018%20%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.py)|Python|15667|221006|
 |1208|Codewars|[Logical calculator](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Logical%20calculator.py)|Python|8kyu|221005|
 |1207|BaekJoon|[애너그램 거리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8%20%EA%B1%B0%EB%A6%AC.py)|PyPy3|3778|221005|
 |1206|Codewars|[Determine if the poker hand is flush](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Determine%20if%20the%20poker%20hand%20is%20flush.py)|Python|7kyu|221004|

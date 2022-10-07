@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1213|BaekJoon|[벼락치기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0.py)|Python|25373|221008|
 |1212|BaekJoon|[커트라인](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BB%A4%ED%8A%B8%EB%9D%BC%EC%9D%B8.py)|Python|25305|221007|
 |1211|Codewars|[Find Nearest square number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Find%20Nearest%20square%20number.py)|Python|8kyu|221007|
 |1210|Codewars|[Simple Fun #352: Reagent Formula](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Simple%20Fun%20%23352:%20Reagent%20Formula.py)|Python|8kyu|221006|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1219|Codewars|[Hex Hash Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hex%20Hash%20Sum.py)|Python|7kyu|221010|
 |1218|BaekJoon|[Changing Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Changing%20Strings.py)|Python|25813|221010|
 |1217|Codewars|[Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2332:%20methods%20of%20Math---round()%20ceil()%20and%20floor().js)|JavaScript|8kyu|221009|
 |1216|BaekJoon|[母音を数える (Counting Vowels)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E6%AF%8D%E9%9F%B3%E3%82%92%E6%95%B0%E3%81%88%E3%82%8B%20(Counting%20Vowels).py)|Python|18409|221009|

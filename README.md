@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1220|BaekJoon|[Heavy Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Heavy%20Numbers.py)|Python|25814|221011|
 |1219|Codewars|[Hex Hash Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Hex%20Hash%20Sum.py)|Python|7kyu|221010|
 |1218|BaekJoon|[Changing Strings](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Changing%20Strings.py)|Python|25813|221010|
 |1217|Codewars|[Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Training%20JS%20%2332:%20methods%20of%20Math---round()%20ceil()%20and%20floor().js)|JavaScript|8kyu|221009|

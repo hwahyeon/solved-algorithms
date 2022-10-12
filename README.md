@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1223|Codewars|[Tea for two](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Tea%20for%20two.js)|JavaScript|7kyu|221012|
 |1222|BaekJoon|[고려대학교에는 공식 와인이 있다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%EC%97%90%EB%8A%94%20%EA%B3%B5%EC%8B%9D%20%EC%99%80%EC%9D%B8%EC%9D%B4%20%EC%9E%88%EB%8B%A4.py)|Python|16673|221012|
 |1221|Codewars|[Backspaces in string](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Backspaces%20in%20string.py)|Python|6kyu|221011|
 |1220|BaekJoon|[Heavy Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Heavy%20Numbers.py)|Python|25814|221011|

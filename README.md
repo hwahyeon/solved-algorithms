@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1229|BaekJoon|[Scavenger Hunt](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Scavenger%20Hunt.py)|Python|6030|221015|
 |1228|Codewars|[Roman Numerals Encoder](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Roman%20Numerals%20Encoder.py)|Python|6kyu|221015|
 |1227|Codewars|[Broken Counter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Broken%20Counter.js)|JavaScript|8kyu|221014|
 |1226|BaekJoon|[Äpplen och päron](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%C3%84pplen%20och%20p%C3%A4ron.py)|Python|21354|221014|

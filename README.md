@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1232|BaekJoon|[FBI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20FBI.py)|Python|2857|221017|
 |1231|Codewars|[Sort the odd](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20the%20odd.py)|Python|6kyu|221016|
 |1230|BaekJoon|[헤라클레스와 히드라](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%97%A4%EB%9D%BC%ED%81%B4%EB%A0%88%EC%8A%A4%EC%99%80%20%ED%9E%88%EB%93%9C%EB%9D%BC.py)|Python|10205|221016|
 |1229|BaekJoon|[Scavenger Hunt](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Scavenger%20Hunt.py)|Python|6030|221015|

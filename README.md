@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1234|BaekJoon|[Миша и негатив](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%D0%9C%D0%B8%D1%88%D0%B0%20%D0%B8%20%D0%BD%D0%B5%D0%B3%D0%B0%D1%82%D0%B8%D0%B2.py)|Python|21665|221018|
 |1233|Codewars|[Sum a list but ignore any duplicates](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sum%20a%20list%20but%20ignore%20any%20duplicates.py)|Python|7kyu|221017|
 |1232|BaekJoon|[FBI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20FBI.py)|Python|2857|221017|
 |1231|Codewars|[Sort the odd](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20the%20odd.py)|Python|6kyu|221016|

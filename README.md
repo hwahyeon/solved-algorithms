@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1238|BaekJoon|[햄버거 만들기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python|25628|221020|
 |1237|BaekJoon|[SAHUR & IMSA’](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20SAHUR%20%26%20IMSA%E2%80%99.py)|Python|9698|221019|
 |1236|Codewars|[Count the divisors of a number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Count%20the%20divisors%20of%20a%20number.py)|Python|7kyu|221019|
 |1235|Codewars|[Greed](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20Greed.js)|JavaScript|7kyu|221018|

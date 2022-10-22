@@ -6,7 +6,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |:---:|:---:|---|---|---|:---:|
 |1245|||Python||221023|
 |1244|||Python||221023|
-|1243|||Python||221022|
+|1243||Easy-to-Solve Expressions|Python||221022|
 |1242|Codewars|Find numbers which are divisible by given number|Python|8kyu|221022|
 |1241|Codewars|[Enumerable Magic - Does My List Include This?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Enumerable%20Magic%20-%20Does%20My%20List%20Include%20This%3F.py)|Python|8kyu|221021|
 |1240|BaekJoon|[Máquina de café](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20M%C3%A1quina%20de%20caf%C3%A9.py)|Python|15051|221021|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1246|BaekJoon|[Sum of Odd Sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Sum%20of%20Odd%20Sequence.py)|Python|9713|221024|
 |1245|Codewars|[Training on NBA full 48 minutes average](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Training%20on%20NBA%20full%2048%20minutes%20average.py)|Python|8kyu|221023|
 |1244|BaekJoon|[Hissing Microphone](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%C2%A0Hissing%20Microphone.py)|Python|15272|221023|
 |1243|BaekJoon|[Easy-to-Solve Expressions](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%C2%A0Easy-to-Solve%20Expressions.py)|Python|25784|221022|

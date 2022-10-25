@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1248|BaekJoon|[캔디 구매](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%94%EB%94%94%20%EA%B5%AC%EB%A7%A4.py)|Python|2909|221025|
 |1247|Codewars|[[Geometry A-2]: Length of a vector](https://github.com/hwahyeon/Solved_Algorithm/blob/main/JavaScript/Codewars%20%7C%20%5BGeometry%20A-2%5D:%20Length%20of%20a%20vector.js)|JavaScript|7kyu|221024|
 |1246|BaekJoon|[Sum of Odd Sequence](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Sum%20of%20Odd%20Sequence.py)|Python|9713|221024|
 |1245|Codewars|[Training on NBA full 48 minutes average](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Training%20on%20NBA%20full%2048%20minutes%20average.py)|Python|8kyu|221023|

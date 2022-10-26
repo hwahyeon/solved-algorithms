@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1251|BaekJoon|[Missing Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Missing%20Numbers.py)|Python|17588|221026|
 |1250|Codewars|[Fix My Phone Numbers!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Fix%20My%20Phone%20Numbers!.py)|Python|7kyu|221026|
 |1249|Codewars|[Nth Smallest Element (Array Series #4)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Nth%20Smallest%20Element%20(Array%20Series%20%234).py)|Python|7kyu|221025|
 |1248|BaekJoon|[캔디 구매](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BA%94%EB%94%94%20%EA%B5%AC%EB%A7%A4.py)|Python|2909|221025|

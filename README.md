@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1254|Codewars|[Pirates!! Are the Cannons ready!??](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Pirates!!%20Are%20the%20Cannons%20ready!%3F%3F.py)|Python|8kyu|221028|
 |1253|Codewars|[NATO Phonetic Alphabet](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20NATO%20Phonetic%20Alphabet.py)|Python|7kyu|221027|
 |1252|BaekJoon|[한다 안한다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%95%9C%EB%8B%A4%20%EC%95%88%ED%95%9C%EB%8B%A4.py)|Python|5789|221027|
 |1251|BaekJoon|[Missing Numbers](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Missing%20Numbers.py)|Python|17588|221026|

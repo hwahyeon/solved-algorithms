@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1256|BaekJoon|[Fan Death](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Fan%20Death.py)|Python|15633|221029|
 |1255|BaekJoon|[Adding Commas](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Adding%20Commas.py)|Python|5949|221028|
 |1254|Codewars|[Pirates!! Are the Cannons ready!??](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Pirates!!%20Are%20the%20Cannons%20ready!%3F%3F.py)|Python|8kyu|221028|
 |1253|Codewars|[NATO Phonetic Alphabet](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20NATO%20Phonetic%20Alphabet.py)|Python|7kyu|221027|

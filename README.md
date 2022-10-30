@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1258|BaekJoon|[팰린드롬 척화비](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%B2%99%ED%99%94%EB%B9%84.ts)|TypeScript|20944|221030|
 |1257|Codewars|[Sort array by string length](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Sort%20array%20by%20string%20length.py)|Python|7kyu|221029|
 |1256|BaekJoon|[Fan Death](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Fan%20Death.py)|Python|15633|221029|
 |1255|BaekJoon|[Adding Commas](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Adding%20Commas.py)|Python|5949|221028|

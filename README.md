@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1262|BaekJoon|[RICE SACK](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20RICE%20SACK.py)|Python|9699|221101|
 |1261|Codewars|[Strong Number (Special Numbers Series #2)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Strong%20Number%20(Special%20Numbers%20Series%20%232).py)|Python|7kyu|221031|
 |1260|BaekJoon|[ISBN](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20ISBN.py)|Python|6810|221031|
 |1259|Codewars|[The falling speed of petals](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20The%20falling%20speed%20of%20petals.py)|Python|8kyu|221030|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1268|BaekJoon|[St. Ives](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20St.%20Ives.py)|Python|4696|221106|
 |1267|BaekJoon|[헛간 청약](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%97%9B%EA%B0%84%20%EC%B2%AD%EC%95%BD.py)|Python|19698|221105|
 |1266|BaekJoon|[A Simple Problem.](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%C2%A0A%20Simple%20Problem..py)|Python|15372|221104|
 |1265|BaekJoon|[거북이](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B1%B0%EB%B6%81%EC%9D%B4.py)|Python|2959|221103|

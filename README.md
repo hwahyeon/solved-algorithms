@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1272|BaekJoon|[Ship Selection](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Ship%20Selection.py)|Python|10180|221110|
 |1271|BaekJoon|[더하기 4](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%204.py)|Python|11024|221109|
 |1270|BaekJoon|[연속구간](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EC%86%8D%EA%B5%AC%EA%B0%84.py)|Python|2495|221108|
 |1269|BaekJoon|[2루수 이름이 뭐야](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%EB%A3%A8%EC%88%98%20%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EB%AD%90%EC%95%BC.py)|Python|17350|221107|

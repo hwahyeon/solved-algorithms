@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1282|BaekJoon|[대회 or 인턴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4.py)|Python|2875|221120|
 |1281|BaekJoon|[덧셈과 곱셈](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EA%B3%B1%EC%85%88.py)|Python|14579|221119|
 |1280|BaekJoon|[문자열 탑 쌓기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%83%91%20%EC%8C%93%EA%B8%B0.py)|Python|25643|221118|
 |1279|BaekJoon|[Lun](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Lun.py)|Python|17052|221117|

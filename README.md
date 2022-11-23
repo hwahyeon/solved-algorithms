@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1285|BaekJoon|[다리 놓기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)|Python|1010|221123|
 |1284|BaekJoon|[File names](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20File%20names.py)|Python|21890|221122|
 |1283|BaekJoon|[컵홀더](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BB%B5%ED%99%80%EB%8D%94.py)|Python|2810|221121|
 |1282|BaekJoon|[대회 or 인턴](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4.py)|Python|2875|221120|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1286|BaekJoon|[Divide the Cash](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Divide%20the%20Cash.py)|Python|25858|221124|
 |1285|BaekJoon|[다리 놓기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)|Python|1010|221123|
 |1284|BaekJoon|[File names](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20File%20names.py)|Python|21890|221122|
 |1283|BaekJoon|[컵홀더](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%BB%B5%ED%99%80%EB%8D%94.py)|Python|2810|221121|

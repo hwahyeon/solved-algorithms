@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1289|BaekJoon|[홀짝 칵테일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%80%EC%A7%9D%20%EC%B9%B5%ED%85%8C%EC%9D%BC.py)|Python|21312|221127|
 |1288|BaekJoon|[박사 과정](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%95%EC%82%AC%20%EA%B3%BC%EC%A0%95.py)|Python|5026|221126|
 |1287|BaekJoon|[아이들은 사탕을 좋아해](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%80%20%EC%82%AC%ED%83%95%EC%9D%84%20%EC%A2%8B%EC%95%84%ED%95%B4.py)|Python|9550|221125|
 |1286|BaekJoon|[Divide the Cash](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Divide%20the%20Cash.py)|Python|25858|221124|

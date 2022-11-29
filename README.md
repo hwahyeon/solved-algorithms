@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1291|BaekJoon|[유니크](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EB%8B%88%ED%81%AC.py)|Python|5533|221129|
 |1290|BaekJoon|[전국 대학생 프로그래밍 대회 동아리 연합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%95%99%EC%83%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C%20%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%97%B0%ED%95%A9.py)|Python|5046|221128|
 |1289|BaekJoon|[홀짝 칵테일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%80%EC%A7%9D%20%EC%B9%B5%ED%85%8C%EC%9D%BC.py)|Python|21312|221127|
 |1288|BaekJoon|[박사 과정](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%95%EC%82%AC%20%EA%B3%BC%EC%A0%95.py)|Python|5026|221126|

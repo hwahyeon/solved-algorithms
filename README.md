@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1294|BaekJoon|[N번째 큰 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.py)|Python|2693|221202|
 |1293|BaekJoon|[홍익 댄스파티](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%8D%EC%9D%B5%20%EB%8C%84%EC%8A%A4%ED%8C%8C%ED%8B%B0.py)|Python|23321|221201|
 |1292|BaekJoon|[반올림](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%98%EC%98%AC%EB%A6%BC.py)|Python|4539|221130|
 |1291|BaekJoon|[유니크](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EB%8B%88%ED%81%AC.py)|Python|5533|221129|

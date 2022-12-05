@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1297|BaekJoon|[좋은 자동차 번호판](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A2%8B%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%B2%88%ED%98%B8%ED%8C%90.py)|Python|1871|221205|
 |1296|BaekJoon|[Triathlon](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Triathlon.py)|Python|25600|221204|
 |1295|BaekJoon|[치킨댄스를 추는 곰곰이를 본 임스 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EB%8A%94%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%20%EB%B3%B8%20%EC%9E%84%EC%8A%A4%202.py)|Python|26068|221203|
 |1294|BaekJoon|[N번째 큰 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.py)|Python|2693|221202|

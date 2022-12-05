@@ -9,9 +9,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1295|BaekJoon|[치킨댄스를 추는 곰곰이를 본 임스 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%20%EC%B6%94%EB%8A%94%20%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%20%EB%B3%B8%20%EC%9E%84%EC%8A%A4%202.py)|Python|26068|221203|
 |1294|BaekJoon|[N번째 큰 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.py)|Python|2693|221202|
 |1293|BaekJoon|[홍익 댄스파티](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%8D%EC%9D%B5%20%EB%8C%84%EC%8A%A4%ED%8C%8C%ED%8B%B0.py)|Python|23321|221201|
-|1292|BaekJoon|[반올림](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%98%EC%98%AC%EB%A6%BC.py)|Python|4539|221130|
-|1291|BaekJoon|[유니크](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EB%8B%88%ED%81%AC.py)|Python|5533|221129|
-|1290|BaekJoon|[전국 대학생 프로그래밍 대회 동아리 연합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%95%99%EC%83%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C%20%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%97%B0%ED%95%A9.py)|Python|5046|221128|
 
 
 <details>
@@ -19,6 +16,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1292|BaekJoon|[반올림](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%98%EC%98%AC%EB%A6%BC.py)|Python|4539|221130|
+|1291|BaekJoon|[유니크](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9C%A0%EB%8B%88%ED%81%AC.py)|Python|5533|221129|
+|1290|BaekJoon|[전국 대학생 프로그래밍 대회 동아리 연합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%95%99%EC%83%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8C%80%ED%9A%8C%20%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%97%B0%ED%95%A9.py)|Python|5046|221128|
 |1289|BaekJoon|[홀짝 칵테일](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%99%80%EC%A7%9D%20%EC%B9%B5%ED%85%8C%EC%9D%BC.py)|Python|21312|221127|
 |1288|BaekJoon|[박사 과정](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B0%95%EC%82%AC%20%EA%B3%BC%EC%A0%95.py)|Python|5026|221126|
 |1287|BaekJoon|[아이들은 사탕을 좋아해](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%80%20%EC%82%AC%ED%83%95%EC%9D%84%20%EC%A2%8B%EC%95%84%ED%95%B4.py)|Python|9550|221125|

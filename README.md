@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1300|BaekJoon|[A／B - 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20A%EF%BC%8FB%20-%202.py)|Python|15792|221208|
 |1299|BaekJoon|[동전 게임](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8F%99%EC%A0%84%20%EA%B2%8C%EC%9E%84.py)|Python|2684|221207|
 |1298|BaekJoon|[피카츄](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%94%BC%EC%B9%B4%EC%B8%84.py)|Python|14405|221206|
 |1297|BaekJoon|[좋은 자동차 번호판](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%A2%8B%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%B2%88%ED%98%B8%ED%8C%90.py)|Python|1871|221205|

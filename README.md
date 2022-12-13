@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1305|BaekJoon|[Head or Tail](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Head%20or%20Tail.py)|Python|5751|221213|
 |1304|BaekJoon|[Rotating letters](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rotating%20letters.py)|Python|6750|221212|
 |1303|BaekJoon|[뜨거운 붕어빵](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%9C%A8%EA%B1%B0%EC%9A%B4%20%EB%B6%95%EC%96%B4%EB%B9%B5.py)|Python|11945|221211|
 |1302|BaekJoon|[Triangles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Triangles.py)|Python|7595|221210|

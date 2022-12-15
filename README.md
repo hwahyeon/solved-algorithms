@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1307|BaekJoon|[Death Knight Hero](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Death%20Knight%20Hero.py)|Python|5013|221215|
 |1306|BaekJoon|[Holes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Holes.py)|Python|3578|221214|
 |1305|BaekJoon|[Head or Tail](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Head%20or%20Tail.py)|Python|5751|221213|
 |1304|BaekJoon|[Rotating letters](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rotating%20letters.py)|Python|6750|221212|

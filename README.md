@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1309|BaekJoon|[Good Coin Denomination](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Good%20Coin%20Denomination.py)|Python|26350|221217|
 |1308|BaekJoon|[요다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%94%EB%8B%A4.py)|Python|5363|221216|
 |1307|BaekJoon|[Death Knight Hero](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Death%20Knight%20Hero.py)|Python|5013|221215|
 |1306|BaekJoon|[Holes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Holes.py)|Python|3578|221214|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1314|BaekJoon|[Serious Problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Serious%20Problem.py)|Python|17094|221222|
 |1313|BaekJoon|[팰린드롬 소떡소떡](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1.py)|Python|25630|221221|
 |1312|BaekJoon|[Focus](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Focus.py)|Python|10185|221220|
 |1311|BaekJoon|[Who is in the middle?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Who%20is%20in%20the%20middle%3F.py)|Python|6840|221219|

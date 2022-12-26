@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1318|BaekJoon|[Mathematics](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Mathematics.py)|Python|26545|221226|
 |1317|BaekJoon|[Serca](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Serca.py)|Python|26766|221225|
 |1316|BaekJoon|[Poziome serca](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Poziome%20serca.py)|Python|26772|221224|
 |1315|BaekJoon|[모음의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%A8%EC%9D%8C%EC%9D%98%20%EA%B0%9C%EC%88%98_.py)|Python|10987|221223|

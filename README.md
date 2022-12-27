@@ -4,7 +4,15 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1319|BaekJoon|[Hook](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20Hook.rs)|Rust|10189|221227|
 |1318|BaekJoon|[Mathematics](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Mathematics.py)|Python|26545|221226|
+
+
+<details>
+<summary>접기/펼치기</summary>
+
+|No.|Platform|Name|Language|etc|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1317|BaekJoon|[Serca](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Serca.py)|Python|26766|221225|
 |1316|BaekJoon|[Poziome serca](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Poziome%20serca.py)|Python|26772|221224|
 |1315|BaekJoon|[모음의 개수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%AA%A8%EC%9D%8C%EC%9D%98%20%EA%B0%9C%EC%88%98_.py)|Python|10987|221223|
@@ -15,14 +23,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1310|BaekJoon|[Fill the Rowboats!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Fill%20the%20Rowboats!.py)|Python|5300|221218|
 |1309|BaekJoon|[Good Coin Denomination](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Good%20Coin%20Denomination.py)|Python|26350|221217|
 |1308|BaekJoon|[요다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9A%94%EB%8B%A4.py)|Python|5363|221216|
-
-
-
-<details>
-<summary>접기/펼치기</summary>
-
-|No.|Platform|Name|Language|etc|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1307|BaekJoon|[Death Knight Hero](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Death%20Knight%20Hero.py)|Python|5013|221215|
 |1306|BaekJoon|[Holes](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Holes.py)|Python|3578|221214|
 |1305|BaekJoon|[Head or Tail](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Head%20or%20Tail.py)|Python|5751|221213|

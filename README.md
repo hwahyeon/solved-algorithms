@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1321|BaekJoon|[WARBOY](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20WARBOY.py)|Python|26082|221229|
 |1320|BaekJoon|[평균 중앙값 문제](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%89%EA%B7%A0%20%EC%A4%91%EC%95%99%EA%B0%92%20%EB%AC%B8%EC%A0%9C.py)|Python|5691|221228|
 |1319|BaekJoon|[Hook](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Rust/BaekJoon%20%7C%20Hook.rs)|Rust|10189|221227|
 |1318|BaekJoon|[Mathematics](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Mathematics.py)|Python|26545|221226|

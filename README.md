@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1326|BaekJoon|[Rook](https://github.com/hwahyeon/Solved_Algorithm/blob/main/COBOL/BaekJoon%20%7C%20Rook.cob)|COBOL|2393|230103|
 |1325|BaekJoon|[Simple Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Simple%20Sum.py)|Python|26531|230102|
 |1324|BaekJoon|[Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Reverse.py)|Python|26546|230101|
 

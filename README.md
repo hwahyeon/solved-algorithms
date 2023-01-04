@@ -12,7 +12,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1324|BaekJoon|[Reverse](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Reverse.py)|Python|26546|230101|
 
 <details>
-<summary>접기/펼치기</summary>
+<summary>Hide/Show</summary>
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|

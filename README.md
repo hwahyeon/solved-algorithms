@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1328|BaekJoon|[Livestock Count](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Ada/BaekJoon%20%7C%20Livestock%20Count.adb)|Ada|2372|230104|
 |1327|BaekJoon|[Pottery](https://github.com/hwahyeon/Solved_Algorithm/blob/main/FreeBASIC/BaekJoon%20%7C%20Pottery.bas)|FreeBASIC|2377|230104|
 |1326|BaekJoon|[Rook](https://github.com/hwahyeon/Solved_Algorithm/blob/main/COBOL/BaekJoon%20%7C%20Rook.cob)|COBOL|2393|230103|
 |1325|BaekJoon|[Simple Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Simple%20Sum.py)|Python|26531|230102|

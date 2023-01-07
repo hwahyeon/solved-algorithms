@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1336|BaekJoon|[H4x0r](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20H4x0r.py)|Pyhon|26768|230107|
 |1335|BaekJoon|[Dedupe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Dedupe.ts)|TypeScript|5357|230106|
 |1334|BaekJoon|[Zagubiona litera](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Zagubiona%20litera.ts)|TypeScript|26731|230105|
 |1333|BaekJoon|[Pups](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Pups.ts)|TypeScript|26575|230105|

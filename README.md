@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1340|BaekJoon|[Bank Transfer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Bank%20Transfer.fpp)|Fortran|21633|230110|
 |1339|BaekJoon|[Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Squares.fpp)|Fortran|6887|230109|
 |1338|BaekJoon|[Body Mass Index](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Body%20Mass%20Index.fpp)|Fortran|6825|230109|
 |1337|BaekJoon|[Counting Swann’s Coins](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Swann%E2%80%99s%20Coins.py)|Python|5292|230108|

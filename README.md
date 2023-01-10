@@ -2,7 +2,7 @@
 
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 
-|No.|Platform|Name|Language|etc|yymmdd|
+|No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1340|BaekJoon|[Bank Transfer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Bank%20Transfer.fpp)|Fortran|21633|230110|
 |1339|BaekJoon|[Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Squares.fpp)|Fortran|6887|230109|

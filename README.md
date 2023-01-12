@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1343|BaekJoon|[Larger Sport Facility](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Larger%20Sport%20Facility.py)|Python|16099|230112|
 |1342|BaekJoon|[Celebrity jeopardy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Celebrity%20jeopardy.py)|Python|3765|230112|
 |1341|BaekJoon|[연길이의 이상형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EA%B8%B8%EC%9D%B4%EC%9D%98%20%EC%9D%B4%EC%83%81%ED%98%95.py)|Python|20540|230111|
 |1340|BaekJoon|[Bank Transfer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Bank%20Transfer.fpp)|Fortran|21633|230110|

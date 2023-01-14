@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1345|BaekJoon|[Wynik meczu](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Wynik%20meczu.py)|Python|26736|230114|
 |1344|BaekJoon|[2의 제곱인가?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%EC%9D%98%20%EC%A0%9C%EA%B3%B1%EC%9D%B8%EA%B0%80%3F.py)|Python|11966|230113|
 |1343|BaekJoon|[Larger Sport Facility](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Larger%20Sport%20Facility.py)|Python|16099|230112|
 |1342|BaekJoon|[Celebrity jeopardy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Celebrity%20jeopardy.py)|Python|3765|230112|

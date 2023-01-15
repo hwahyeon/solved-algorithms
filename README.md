@@ -4,7 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1346|BaekJoon|[더하기 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%203.py)|Python|11023|2301154|
+|1346|BaekJoon|[더하기 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%203.py)|Python|11023|230115|
 |1345|BaekJoon|[Wynik meczu](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Wynik%20meczu.py)|Python|26736|230114|
 |1344|BaekJoon|[2의 제곱인가?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%202%EC%9D%98%20%EC%A0%9C%EA%B3%B1%EC%9D%B8%EA%B0%80%3F.py)|Python|11966|230113|
 |1343|BaekJoon|[Larger Sport Facility](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Larger%20Sport%20Facility.py)|Python|16099|230112|

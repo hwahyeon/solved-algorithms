@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1348|BaekJoon|[Helicopter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Visual%20Basic/BaekJoon%20%7C%20Helicopter.vb)|Visual Basic|14337|230117|
 |1347|BaekJoon|[Сравнение комнат](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82.py)|Python|27267|230116|
 |1346|BaekJoon|[더하기 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%8D%94%ED%95%98%EA%B8%B0%203.py)|Python|11023|230115|
 |1345|BaekJoon|[Wynik meczu](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Wynik%20meczu.py)|Python|26736|230114|

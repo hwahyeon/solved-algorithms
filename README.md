@@ -12,9 +12,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1343|BaekJoon|[Larger Sport Facility](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Larger%20Sport%20Facility.py)|Python|16099|230112|
 |1342|BaekJoon|[Celebrity jeopardy](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Celebrity%20jeopardy.py)|Python|3765|230112|
 |1341|BaekJoon|[연길이의 이상형](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%97%B0%EA%B8%B8%EC%9D%B4%EC%9D%98%20%EC%9D%B4%EC%83%81%ED%98%95.py)|Python|20540|230111|
-|1340|BaekJoon|[Bank Transfer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Bank%20Transfer.fpp)|Fortran|21633|230110|
-|1339|BaekJoon|[Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Squares.fpp)|Fortran|6887|230109|
-|1338|BaekJoon|[Body Mass Index](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Body%20Mass%20Index.fpp)|Fortran|6825|230109|
+|1340|BaekJoon|[Bank Transfer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Bank%20Transfer.f95)|Fortran|21633|230110|
+|1339|BaekJoon|[Squares](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Squares.f95)|Fortran|6887|230109|
+|1338|BaekJoon|[Body Mass Index](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Body%20Mass%20Index.f95)|Fortran|6825|230109|
 |1337|BaekJoon|[Counting Swann’s Coins](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Counting%20Swann%E2%80%99s%20Coins.py)|Python|5292|230108|
 |1336|BaekJoon|[H4x0r](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20H4x0r.py)|Python|26768|230107|
 |1335|BaekJoon|[Dedupe](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Dedupe.ts)|TypeScript|5357|230106|
@@ -23,8 +23,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1332|BaekJoon|[Intercepting Information](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Intercepting%20Information.ts)|TypeScript|26209|230104|
 |1331|BaekJoon|[Gum Gum for Jay Jay](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Gum%20Gum%20for%20Jay%20Jay.ts)|TypeScript|26489|230104|
 |1330|BaekJoon|[Correct](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20Correct.ts)|TypeScript|26307|230104|
-|1329|BaekJoon|[Crowing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Crowing.fpp)|Fortran|2321|230104|
-|1328|BaekJoon|[Livestock Count](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Ada/BaekJoon%20%7C%20Livestock%20Count.adb)|Ada|2372|230104|
+|1329|BaekJoon|[Crowing](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Crowing.f95)|Fortran|2321|230104|
+|1328|BaekJoon|[Livestock Count](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Ada/BaekJoon%20%7C%20Livestock%20Count.ada)|Ada|2372|230104|
 |1327|BaekJoon|[Pottery](https://github.com/hwahyeon/Solved_Algorithm/blob/main/FreeBASIC/BaekJoon%20%7C%20Pottery.bas)|FreeBASIC|2377|230104|
 |1326|BaekJoon|[Rook](https://github.com/hwahyeon/Solved_Algorithm/blob/main/COBOL/BaekJoon%20%7C%20Rook.cob)|COBOL|2393|230103|
 |1325|BaekJoon|[Simple Sum](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Simple%20Sum.py)|Python|26531|230102|

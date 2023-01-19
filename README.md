@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1351|BaekJoon|[특식 배부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8A%B9%EC%8B%9D%20%EB%B0%B0%EB%B6%80.py)|Python|27110|230119|
 |1350|BaekJoon|[Quadrilateral](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Quadrilateral.py)|Python|10188|230118|
 |1349|BaekJoon|[Робинзон Крузо](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%20%D0%9A%D1%80%D1%83%D0%B7%D0%BE.ts)|TypeScript|27219|230117|
 |1348|BaekJoon|[Helicopter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Visual%20Basic/BaekJoon%20%7C%20Helicopter.vb)|Visual Basic|14337|230117|

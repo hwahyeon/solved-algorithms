@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1354|BaekJoon|[Oddities](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Oddities.py)|Python|10480|230122|
 |1353|BaekJoon|[택시 기하학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%9D%EC%8B%9C%20%EA%B8%B0%ED%95%98%ED%95%99.py)|Python|3053|230121|
 |1352|BaekJoon|[ICPC](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20ICPC.py)|Python|16727|230120|
 |1351|BaekJoon|[특식 배부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8A%B9%EC%8B%9D%20%EB%B0%B0%EB%B6%80.py)|Python|27110|230119|

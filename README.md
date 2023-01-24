@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1356|BaekJoon|[Rectangles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rectangles_.py)|Python|9950|230124|
 |1355|BaekJoon|[친구 친구](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%9C%EA%B5%AC%20%EC%B9%9C%EA%B5%AC.py)|Python|10865|230123|
 |1354|BaekJoon|[Oddities](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Oddities.py)|Python|10480|230122|
 |1353|BaekJoon|[택시 기하학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%9D%EC%8B%9C%20%EA%B8%B0%ED%95%98%ED%95%99.py)|Python|3053|230121|

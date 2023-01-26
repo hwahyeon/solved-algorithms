@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1358|BaekJoon|[Шахматная доска](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0.py)|Python|27239|230126|
 |1357|BaekJoon|[폰 노이만과 파리](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8F%B0%20%EB%85%B8%EC%9D%B4%EB%A7%8C%EA%B3%BC%20%ED%8C%8C%EB%A6%AC.py)|Python|14924|230125|
 |1356|BaekJoon|[Rectangles](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Rectangles_.py)|Python|9950|230124|
 |1355|BaekJoon|[친구 친구](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B9%9C%EA%B5%AC%20%EC%B9%9C%EA%B5%AC.py)|Python|10865|230123|

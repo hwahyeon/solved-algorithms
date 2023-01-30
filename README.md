@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1362|BaekJoon|[Football Team](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Team.py)|Python|5358|230130|
 |1361|BaekJoon|[短針 (Hour Hand)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E7%9F%AD%E9%87%9D%20(Hour%20Hand).py)|Python|24083|230129|
 |1360|BaekJoon|[Absolutely](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Absolutely.py)|Python|26500|230128|
 |1359|BaekJoon|[帰省 (Homecoming)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E5%B8%B0%E7%9C%81%20(Homecoming).py)|Python|24072|230127|

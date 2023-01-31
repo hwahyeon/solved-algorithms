@@ -4,7 +4,15 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1363|BaekJoon|[7종 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%207%EC%A2%85%20%EA%B2%BD%EA%B8%B0.py)|Python|8932|230131|
 |1362|BaekJoon|[Football Team](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Team.py)|Python|5358|230130|
+
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|Platform|Name|Language|etc|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1361|BaekJoon|[短針 (Hour Hand)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E7%9F%AD%E9%87%9D%20(Hour%20Hand).py)|Python|24083|230129|
 |1360|BaekJoon|[Absolutely](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Absolutely.py)|Python|26500|230128|
 |1359|BaekJoon|[帰省 (Homecoming)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E5%B8%B0%E7%9C%81%20(Homecoming).py)|Python|24072|230127|
@@ -16,13 +24,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1353|BaekJoon|[택시 기하학](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%83%9D%EC%8B%9C%20%EA%B8%B0%ED%95%98%ED%95%99.py)|Python|3053|230121|
 |1352|BaekJoon|[ICPC](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20ICPC.py)|Python|16727|230120|
 |1351|BaekJoon|[특식 배부](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8A%B9%EC%8B%9D%20%EB%B0%B0%EB%B6%80.py)|Python|27110|230119|
-
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|Platform|Name|Language|etc|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1350|BaekJoon|[Quadrilateral](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Quadrilateral.py)|Python|10188|230118|
 |1349|BaekJoon|[Робинзон Крузо](https://github.com/hwahyeon/Solved_Algorithm/blob/main/TypeScript/BaekJoon%20%7C%20%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%20%D0%9A%D1%80%D1%83%D0%B7%D0%BE.ts)|TypeScript|27219|230117|
 |1348|BaekJoon|[Helicopter](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Visual%20Basic/BaekJoon%20%7C%20Helicopter.vb)|Visual Basic|14337|230117|

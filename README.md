@@ -4,17 +4,17 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1366|BaekJoon|[괴짜 교수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B4%B4%EC%A7%9C%20%EA%B5%90%EC%88%98.py)|Python|11109|230203|
 |1365|BaekJoon|[선린인터넷고등학교 교가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20%EA%B5%90%EA%B0%80.py)|Python|21964|230202|
 |1364|BaekJoon|[鉛筆 (Pencils)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E9%89%9B%E7%AD%86%20(Pencils).py)|Python|15474|230201|
-|1363|BaekJoon|[7종 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%207%EC%A2%85%20%EA%B2%BD%EA%B8%B0.py)|Python|8932|230131|
-|1362|BaekJoon|[Football Team](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Team.py)|Python|5358|230130|
-
 
 <details>
 <summary>Hide/Show</summary>
 
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1363|BaekJoon|[7종 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%207%EC%A2%85%20%EA%B2%BD%EA%B8%B0.py)|Python|8932|230131|
+|1362|BaekJoon|[Football Team](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Team.py)|Python|5358|230130|
 |1361|BaekJoon|[短針 (Hour Hand)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E7%9F%AD%E9%87%9D%20(Hour%20Hand).py)|Python|24083|230129|
 |1360|BaekJoon|[Absolutely](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Absolutely.py)|Python|26500|230128|
 |1359|BaekJoon|[帰省 (Homecoming)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E5%B8%B0%E7%9C%81%20(Homecoming).py)|Python|24072|230127|

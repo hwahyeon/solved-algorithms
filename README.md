@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1369|BaekJoon|[:chino_shock:](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20:chino_shock:.py)|Python|27310|230206|
 |1368|BaekJoon|[뉴턴과 사과](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%89%B4%ED%84%B4%EA%B3%BC%20%EC%82%AC%EA%B3%BC.py)|Python|13118|230205|
 |1367|BaekJoon|[출석 이벤트](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B6%9C%EC%84%9D%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.py)|Python|25704|230204|
 |1366|BaekJoon|[괴짜 교수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B4%B4%EC%A7%9C%20%EA%B5%90%EC%88%98.py)|Python|11109|230203|

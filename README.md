@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1371|BaekJoon|[Buying in Bulk](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Buying%20in%20Bulk.f95)|Fortran|26332|230208|
 |1370|BaekJoon|[三方比較 (Three-Way Comparison)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E4%B8%89%E6%96%B9%E6%AF%94%E8%BC%83%20(Three-Way%20Comparison).f95)|Fortran|27328|230207|
 |1369|BaekJoon|[:chino_shock:](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20:chino_shock:.py)|Python|27310|230206|
 |1368|BaekJoon|[뉴턴과 사과](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%89%B4%ED%84%B4%EA%B3%BC%20%EC%82%AC%EA%B3%BC.py)|Python|13118|230205|

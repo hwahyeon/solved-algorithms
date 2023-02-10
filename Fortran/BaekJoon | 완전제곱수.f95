@@ -1,7 +1,6 @@
 PROGRAM P1977
     IMPLICIT NONE
     INTEGER :: i, j, r, min, idx
-    INTEGER, ALLOCATABLE:: LIST(:)
     READ(*,*) i
     READ(*,*) j
 

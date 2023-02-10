@@ -1,1 +1,2 @@
 *.sql linguist-detectable=true
+*.f95 linguist-detectable=true

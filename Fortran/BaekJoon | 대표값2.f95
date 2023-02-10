@@ -19,6 +19,6 @@ DO j=1, 10
     END DO
 END DO
     
-    WRITE(*, '(I0)') (LIST(1) + LIST(2) + LIST(3) + LIST(4) + LIST(5))/5
+    WRITE(*, '(I0)') SUM(LIST)/5
     WRITE(*, '(I0)') LIST(3)
 END PROGRAM P2587

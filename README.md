@@ -4,7 +4,8 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|Fortran|2587|230211|
+|1375|BaekJoon|[완전제곱수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.f95)|Fortran|1977|230210|
+|1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|Fortran|2587|230210|
 |1373|BaekJoon|[Affischutskicket](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Affischutskicket.f95)|Fortran|24183|230210|
 |1372|BaekJoon|[Square Pasture](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Square%20Pasture.f95)|Fortran|14173|230209|
 |1371|BaekJoon|[Buying in Bulk](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Buying%20in%20Bulk.f95)|Fortran|26332|230208|

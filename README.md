@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1373|BaekJoon|[Affischutskicket](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Affischutskicket.f95)|Fortran|24183|230210|
 |1372|BaekJoon|[Square Pasture](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Square%20Pasture.f95)|Fortran|14173|230209|
 |1371|BaekJoon|[Buying in Bulk](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Buying%20in%20Bulk.f95)|Fortran|26332|230208|
 |1370|BaekJoon|[三方比較 (Three-Way Comparison)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E4%B8%89%E6%96%B9%E6%AF%94%E8%BC%83%20(Three-Way%20Comparison).f95)|Fortran|27328|230207|

@@ -4,6 +4,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 
 |No.|Platform|Name|Language|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1379|BaekJoon|[삼각형 분류](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B6%84%EB%A5%98.f95)|Fortran|9366|230213|
 |1378|BaekJoon|[삼각수의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%EC%88%98%EC%9D%98%20%ED%95%A9.f95)|Fortran|2721|230213|
 |1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|Fortran|27433|230212|
 |1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|Fortran|23530|230211|

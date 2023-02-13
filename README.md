@@ -12,8 +12,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|27433|230212|
 |1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|23530|230211|
 |1375|BaekJoon|[완전제곱수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|1977|230210|
-<details>
-<summary>Hide/Show</summary>
+<!-- <details> -->
+
+<!-- <summary>Hide/Show</summary> -->
 |No.|Platform|Name|Language|etc|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|2587|230210|
@@ -1359,4 +1360,4 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |0002|Codewars|[Convert number to reversed array of digits](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Convert%20number%20to%20reversed%20array%20of%20digits.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Python.svg" width="11" height="11"/> Python|8kyu|210709|
 |0001|Codewars|[Multiply](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/Codewars%20%7C%20Switcheroo.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/R.svg" width="11" height="11"/> R|8kyu|210709|
 
-</details>
+<!-- </details> -->

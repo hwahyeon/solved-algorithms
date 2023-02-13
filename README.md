@@ -14,6 +14,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|Fortran|27433|230212|
 |1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|Fortran|23530|230211|
 |1375|BaekJoon|[완전제곱수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.f95)|Fortran|1977|230210|
+
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|Platform|Name|Language|etc|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|Fortran|2587|230210|
 |1373|BaekJoon|[Affischutskicket](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Affischutskicket.f95)|Fortran|24183|230210|
 |1372|BaekJoon|[Square Pasture](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Square%20Pasture.f95)|Fortran|14173|230209|
@@ -25,12 +32,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1366|BaekJoon|[괴짜 교수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EA%B4%B4%EC%A7%9C%20%EA%B5%90%EC%88%98.py)|Python|11109|230203|
 |1365|BaekJoon|[선린인터넷고등학교 교가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20%EA%B5%90%EA%B0%80.py)|Python|21964|230202|
 |1364|BaekJoon|[鉛筆 (Pencils)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E9%89%9B%E7%AD%86%20(Pencils).py)|Python|15474|230201|
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|Platform|Name|Language|etc|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1363|BaekJoon|[7종 경기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%207%EC%A2%85%20%EA%B2%BD%EA%B8%B0.py)|Python|8932|230131|
 |1362|BaekJoon|[Football Team](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20Football%20Team.py)|Python|5358|230130|
 |1361|BaekJoon|[短針 (Hour Hand)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%E7%9F%AD%E9%87%9D%20(Hour%20Hand).py)|Python|24083|230129|

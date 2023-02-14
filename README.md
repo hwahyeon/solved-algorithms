@@ -9,14 +9,15 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 ||BaekJoon|[]()|||230225|
 |1379|BaekJoon|[삼각형 분류](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B6%84%EB%A5%98.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|9366|230213|
 |1378|BaekJoon|[삼각수의 합](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%EC%88%98%EC%9D%98%20%ED%95%A9.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|2721|230213|
-|1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|27433|230212|
-|1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|23530|230211|
-|1375|BaekJoon|[완전제곱수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|1977|230210|
+
 <!-- <details> -->
 
 <!-- <summary>Hide/Show</summary> -->
 |No.|Platform|Name|Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|27433|230212|
+|1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|23530|230211|
+|1375|BaekJoon|[완전제곱수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|1977|230210|
 |1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|2587|230210|
 |1373|BaekJoon|[Affischutskicket](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Affischutskicket.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|24183|230210|
 |1372|BaekJoon|[Square Pasture](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Square%20Pasture.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|14173|230209|

@@ -1,6 +1,6 @@
 # Algorithm
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
-|No.|Platform|Name|Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|No.|Platform|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/etc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230301|
 ||BaekJoon|[]()|||230228|

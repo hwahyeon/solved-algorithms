@@ -1,6 +1,6 @@
 # Algorithm
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
-|No.|Platform|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/etc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|No.|Platform|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230301|
 ||BaekJoon|[]()|||230228|
@@ -13,7 +13,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 <!-- <details> -->
 
 <!-- <summary>Hide/Show</summary> -->
-|No.|Platform|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/etc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|No.|Platform|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1377|BaekJoon|[팩토리얼 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%202.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|27433|230212|
 |1376|BaekJoon|[Not A + B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Not%20A%20%2B%20B.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|23530|230211|

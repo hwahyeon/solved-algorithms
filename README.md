@@ -1,6 +1,6 @@
 # Algorithm
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
-|No.|Platform|Name|Language|No. or Lv.|yymmdd|
+|No.|Platform|Name|Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230301|
 ||BaekJoon|[]()|||230228|
@@ -15,7 +15,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 <!-- <details> -->
 
 <!-- <summary>Hide/Show</summary> -->
-|No.|Platform|Name|Language|etc|yymmdd|
+|No.|Platform|Name|Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1374|BaekJoon|[대표값2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8C%80%ED%91%9C%EA%B0%922.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|2587|230210|
 |1373|BaekJoon|[Affischutskicket](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Affischutskicket.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/etc/Fortran.svg" width="11" height="11"/> Fortran|24183|230210|

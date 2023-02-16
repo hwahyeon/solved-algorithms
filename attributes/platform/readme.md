@@ -1,5 +1,6 @@
 ## Platform List
 
+
 ### [BaekJoon](https://www.acmicpc.net/)
 |Langs|Version|
 |:---|:---|
@@ -19,14 +20,15 @@
 |```SQL```|PostgreSQL 13.0|
 
 
-### [Programmers](https://school.programmers.co.kr/learn/challenges)
-|Langs|Version|
-|:---|:---|
-|```Python 3```|Python 3.8.5|
-|```SQL```|MySQL 8.0.28|
-
 ### [goormlevel](https://level.goorm.io/)
 |Langs|Version|
 |:---|:---|
 |```Common Lisp```|CLISP 2.0|
 |```Python 3```|Python 3.9.6|
+
+
+### [Programmers](https://school.programmers.co.kr/learn/challenges)
+|Langs|Version|
+|:---|:---|
+|```Python 3```|Python 3.8.5|
+|```SQL```|MySQL 8.0.28|

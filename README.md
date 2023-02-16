@@ -3,6 +3,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230225|
+|1384|Codewars|[Grasshopper - Check for factor](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/Codewars%20%7C%20Grasshopper%20-%20Check%20for%20factor.f08)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|8kyu|230216|
 |1383|BaekJoon|[ACM 호텔](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20ACM%20%ED%98%B8%ED%85%94.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10250|230216|
 |1382|BaekJoon|[Piłeczka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Pi%C5%82eczka.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|8719|230216|
 

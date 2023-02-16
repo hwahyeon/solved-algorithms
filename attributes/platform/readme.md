@@ -14,6 +14,7 @@
 |Langs|Version|
 |:---|:---|
 |```Common Lisp```|SBCL 2.0|
+|```Fortran```|f2008 Fortran 9|
 |```JavaScript```|Node v18.x
 |```Python 3```|Python 3.11.0|
 |```R```|3.4.1|

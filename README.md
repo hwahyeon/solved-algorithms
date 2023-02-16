@@ -7,6 +7,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 ||BaekJoon|[]()|||230227|
 ||BaekJoon|[]()|||230226|
 ||BaekJoon|[]()|||230225|
+|1382|BaekJoon|[Piłeczka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Pi%C5%82eczka.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|8719|230216|
 |1381|BaekJoon|[쿠키애호가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%BF%A0%ED%82%A4%EC%95%A0%ED%98%B8%EA%B0%80.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|11134|230215|
 |1380|BaekJoon|[사과](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%AC%EA%B3%BC.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10833|230214|
 

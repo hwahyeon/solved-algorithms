@@ -1,0 +1,9 @@
+PROGRAM P27327
+
+      IMPLICIT NONE
+      INTEGER :: N
+
+      READ(*,*) N
+      WRITE(*, '(I0)') N * 24
+
+END PROGRAM P27327

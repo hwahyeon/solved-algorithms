@@ -1,0 +1,8 @@
+PROGRAM P27331
+    IMPLICIT NONE
+    INTEGER :: A, B
+    READ(*,*) A
+    READ(*,*) B
+
+    WRITE(*, '(I0)') A * 10 + B
+END PROGRAM P27331

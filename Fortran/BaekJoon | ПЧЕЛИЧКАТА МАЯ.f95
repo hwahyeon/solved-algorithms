@@ -1,0 +1,7 @@
+PROGRAM P24365
+    IMPLICIT NONE
+    INTEGER :: A, B, C
+    READ(*,*) A, B, C
+
+    WRITE(*, '(I0)') C - A
+END PROGRAM P24365

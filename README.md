@@ -3,6 +3,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230225|
+|1396|BaekJoon|[Quadrants](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Quadrants.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|9772|230223|
 |1395|BaekJoon|[변수명](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%80%EC%88%98%EB%AA%85.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|16205|230222|
 |1394|BaekJoon|[애너그램](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6996|230221|
 |1393|BaekJoon|[ПЧЕЛИЧКАТА МАЯ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%D0%9F%D0%A7%D0%95%D0%9B%D0%98%D0%A7%D0%9A%D0%90%D0%A2%D0%90%20%D0%9C%D0%90%D0%AF.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|24365|230220|

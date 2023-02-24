@@ -3,6 +3,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230225|
+|1397|BaekJoon|[빅데이터? 정보보호!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%3F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8!.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26264|230224|
 |1396|BaekJoon|[Quadrants](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Quadrants.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|9772|230223|
 |1395|BaekJoon|[변수명](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%80%EC%88%98%EB%AA%85.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|16205|230222|
 |1394|BaekJoon|[애너그램](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6996|230221|

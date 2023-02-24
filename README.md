@@ -11,6 +11,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1396|BaekJoon|[Quadrants](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Quadrants.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|9772|230223|
 |1395|BaekJoon|[변수명](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%80%EC%88%98%EB%AA%85.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|16205|230222|
 |1394|BaekJoon|[애너그램](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6996|230221|
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1393|BaekJoon|[ПЧЕЛИЧКАТА МАЯ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%D0%9F%D0%A7%D0%95%D0%9B%D0%98%D0%A7%D0%9A%D0%90%D0%A2%D0%90%20%D0%9C%D0%90%D0%AF.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|24365|230220|
 |1392|BaekJoon|[2 桁の整数 (Two-digit Integer)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%202%20%E6%A1%81%E3%81%AE%E6%95%B4%E6%95%B0%20(Two-digit%20Integer).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27331|230219|
 |1391|BaekJoon|[時間 (Hour)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E6%99%82%E9%96%93%20(Hour).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27327|230218|
@@ -23,12 +29,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1384|Codewars|[Grasshopper - Check for factor](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/Codewars%20%7C%20Grasshopper%20-%20Check%20for%20factor.f08)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|8kyu|230216|
 |1383|BaekJoon|[ACM 호텔](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20ACM%20%ED%98%B8%ED%85%94.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10250|230216|
 |1382|BaekJoon|[Piłeczka](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Pi%C5%82eczka.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|8719|230216|
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1381|BaekJoon|[쿠키애호가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%BF%A0%ED%82%A4%EC%95%A0%ED%98%B8%EA%B0%80.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|11134|230215|
 |1380|BaekJoon|[사과](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%AC%EA%B3%BC.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10833|230214|
 |1379|BaekJoon|[삼각형 분류](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B6%84%EB%A5%98.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|9366|230213|

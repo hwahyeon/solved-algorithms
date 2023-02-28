@@ -3,7 +3,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230301|
-||BaekJoon|[]()|||230228|
+|1401|BaekJoon|[ゾロ目 (Same Numbers)]()|||230228|
 |1400|BaekJoon|[月 (November)]()|||230227|
 |1399|BaekJoon|[]()|Fortran||230226|
 |1398|BaekJoon|[]()|Fortran||230225|

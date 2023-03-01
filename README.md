@@ -4,9 +4,9 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |:---:|:---:|---|---|---|:---:|
 ||BaekJoon|[]()|||230301|
 |1401|BaekJoon|[ゾロ目 (Same Numbers)]()|||230228|
-|1400|BaekJoon|[月 (November)]()|||230227|
-|1399|BaekJoon|[]()|Fortran||230226|
-|1398|BaekJoon|[]()|Fortran||230225|
+|1400|BaekJoon|[月 (November)]()|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran||230227|
+|1399|BaekJoon|[]()|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran||230226|
+|1398|BaekJoon|[Betting](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Betting.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|24751|230225|
 |1397|BaekJoon|[빅데이터? 정보보호!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%3F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8!.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26264|230224|
 |1396|BaekJoon|[Quadrants](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Quadrants.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|9772|230223|
 |1395|BaekJoon|[변수명](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EB%B3%80%EC%88%98%EB%AA%85.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|16205|230222|

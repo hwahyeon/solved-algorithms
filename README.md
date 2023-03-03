@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1404|BaekJoon|[It’s Cold Here!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20It%E2%80%99s%20Cold%20Here!.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|6830|230303|
 |1403|BaekJoon|[몇개고?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%AA%87%EA%B0%9C%EA%B3%A0%3F.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27294|230302|
 |1402|BaekJoon|[長方形 (Rectangle)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E9%95%B7%E6%96%B9%E5%BD%A2%20(Rectangle).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27323|230301|
 

@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1406|Codewars|[First and last IP in a network](https://github.com/hwahyeon/Solved_Algorithm/blob/main/SQL/Codewars%20%7C%20First%20and%20last%20IP%20in%20a%20network.sql)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/SQL.svg" width="11" height="11"/> PostgreSQL|7kyu|230304|
 |1405|BaekJoon|[Комната](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27245|230304|
 |1404|BaekJoon|[It’s Cold Here!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20It%E2%80%99s%20Cold%20Here!.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|6830|230303|
 |1403|BaekJoon|[몇개고?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%AA%87%EA%B0%9C%EA%B3%A0%3F.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27294|230302|

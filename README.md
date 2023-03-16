@@ -5,6 +5,14 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1419|BaekJoon|[다면체](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8B%A4%EB%A9%B4%EC%B2%B4.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10569|230316|
 |1418|BaekJoon|[악마의 제안](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%95%85%EB%A7%88%EC%9D%98%20%EC%A0%9C%EC%95%88.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|23972|230315|
 |1417|BaekJoon|[추첨을 통해 커피를 받자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B6%94%EC%B2%A8%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%BB%A4%ED%94%BC%EB%A5%BC%20%EB%B0%9B%EC%9E%90.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|21866|230314|
+
+
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1416|BaekJoon|[末尾の文字 (Last Letter)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E6%9C%AB%E5%B0%BE%E3%81%AE%E6%96%87%E5%AD%97%20(Last%20Letter).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27541|230313|
 |1415|BaekJoon|[SMS from MCHS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20SMS%20from%20MCHS.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|21638|230312|
 |1414|BaekJoon|[문자와 문자열](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90%EC%97%B4.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27866|230311|
@@ -20,13 +28,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1404|BaekJoon|[It’s Cold Here!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20It%E2%80%99s%20Cold%20Here!.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|6830|230303|
 |1403|BaekJoon|[몇개고?](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%AA%87%EA%B0%9C%EA%B3%A0%3F.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27294|230302|
 |1402|BaekJoon|[長方形 (Rectangle)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E9%95%B7%E6%96%B9%E5%BD%A2%20(Rectangle).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27323|230301|
-
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1401|BaekJoon|[ゾロ目 (Same Numbers)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E3%82%BE%E3%83%AD%E7%9B%AE%20(Same%20Numbers).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27324|230228|
 |1400|BaekJoon|[11 月 (November)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%2011%20%E6%9C%88%20(November).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27332|230227|
 |1399|BaekJoon|[Population](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Population.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|26561|230226|

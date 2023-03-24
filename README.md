@@ -5,6 +5,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1427|BaekJoon|[음식 평론가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%9D%8C%EC%8B%9D%20%ED%8F%89%EB%A1%A0%EA%B0%80.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1188|230324|
 |1426|BaekJoon|[I Speak TXTMSG](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20I%20Speak%20TXTMSG.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6841|230323|
 |1425|BaekJoon|[Pyramids](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20Pyramids.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|5341|230322|
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1424|BaekJoon|[체스판 다시 칠하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1018|230321|
 |1423|BaekJoon|[Любитель нулей](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%BD%D1%83%D0%BB%D0%B5%D0%B9.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27257|230320|
 |1422|BaekJoon|[팩토리얼 3](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%203.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|27434|230319|
@@ -13,14 +19,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1419|BaekJoon|[다면체](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%8B%A4%EB%A9%B4%EC%B2%B4.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|10569|230316|
 |1418|BaekJoon|[악마의 제안](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%95%85%EB%A7%88%EC%9D%98%20%EC%A0%9C%EC%95%88.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|23972|230315|
 |1417|BaekJoon|[추첨을 통해 커피를 받자](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%20%7C%20%EC%B6%94%EC%B2%A8%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%BB%A4%ED%94%BC%EB%A5%BC%20%EB%B0%9B%EC%9E%90.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|21866|230314|
-
-
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1416|BaekJoon|[末尾の文字 (Last Letter)](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%E6%9C%AB%E5%B0%BE%E3%81%AE%E6%96%87%E5%AD%97%20(Last%20Letter).f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27541|230313|
 |1415|BaekJoon|[SMS from MCHS](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20SMS%20from%20MCHS.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|21638|230312|
 |1414|BaekJoon|[문자와 문자열](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EB%AC%B8%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90%EC%97%B4.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27866|230311|

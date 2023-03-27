@@ -3,6 +3,7 @@
 |Icon|Language|Colors HEX|
 |:---:|:---|:---|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/>|Ada|#02F88C|
+|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Algol%2068" width="11" height="11"/>|Algol 68|#008001|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/>|C|#555555|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/COBOL.svg" width="11" height="11"/>|COBOL|#CCCCCC|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Common%20Lisp.svg" width="11" height="11"/>|Common Lisp|#3FB68B|

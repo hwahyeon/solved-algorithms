@@ -4,6 +4,7 @@
 ### [BaekJoon](https://www.acmicpc.net/)
 |Langs|Version|
 |:---|:---|
+|```C99```|gcc (GCC) 11.1.0|
 |```Fortran```|GNU Fortran (GCC) 11.1.0|
 |```node.js```|v16.13.1|
 |```Python 3```|Python 3.11.0|

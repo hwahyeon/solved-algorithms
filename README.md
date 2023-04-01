@@ -2,7 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1440|BaekJoon|[ ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Algol%2068/BaekJoon%20%7C%20.a68)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/> Algol 68|12096|230402|
+|1440|BaekJoon|[　](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Algol%2068/BaekJoon%20%7C%20.a68)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/> Algol 68|12096|230402|
 |1439|BaekJoon|[타노스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Algol%2068/BaekJoon%20%7C%20%ED%83%80%EB%85%B8%EC%8A%A4.a68)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/> Algol 68|15802|230402|
 |1438|BaekJoon|[정ㅋ벅ㅋ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Algol%2068/BaekJoon%20%7C%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B.a68)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/> Algol 68|1237|230402|
 |1437|BaekJoon|[정ㅋ벅ㅋ](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|1237|230401|

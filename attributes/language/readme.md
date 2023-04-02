@@ -2,6 +2,7 @@
 
 |Icon|Language|Colors HEX|
 |:---:|:---|:---|
+|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Text.svg" width="11" height="11"/>|Text|#FFFFFF|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Ada.svg" width="11" height="11"/>|Ada|#02F88C|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Algol%2068.svg" width="11" height="11"/>|Algol 68|#008001|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/>|C|#555555|

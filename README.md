@@ -3,6 +3,13 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1444|BaekJoon|[터널의 입구와 출구](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%ED%84%B0%EB%84%90%EC%9D%98%20%EC%9E%85%EA%B5%AC%EC%99%80%20%EC%B6%9C%EA%B5%AC.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5612|230404|
+
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1443|BaekJoon|[그대로 출력하기 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%202.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11719|230403|
 |1442|BaekJoon|[조교는 새디스트야!!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%A1%B0%EA%B5%90%EB%8A%94%20%EC%83%88%EB%94%94%EC%8A%A4%ED%8A%B8%EC%95%BC!!.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|14656|230402|
 |1441|BaekJoon|[Yee](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Text/BaekJoon%20%7C%20Yee.txt)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Text.svg" width="11" height="11"/> Text|15643|230402|
@@ -18,12 +25,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1431|BaekJoon|[음식 평론가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Fortran/BaekJoon%20%7C%20%EC%9D%8C%EC%8B%9D%20%ED%8F%89%EB%A1%A0%EA%B0%80.f95)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|1188|230327|
 |1430|BaekJoon|[특별한 학교 이름](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%ED%8A%B9%EB%B3%84%ED%95%9C%20%ED%95%99%EA%B5%90%20%EC%9D%B4%EB%A6%84.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|27889|230327|
 |1429|BaekJoon|[열 개씩 끊어 출력하기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%97%B4%20%EA%B0%9C%EC%94%A9%20%EB%81%8A%EC%96%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11721|230326|
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1428|BaekJoon|[수학은 비대면강의입니다](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|19532|230325|
 |1427|BaekJoon|[음식 평론가](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%9D%8C%EC%8B%9D%20%ED%8F%89%EB%A1%A0%EA%B0%80.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1188|230324|
 |1426|BaekJoon|[I Speak TXTMSG](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20I%20Speak%20TXTMSG.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6841|230323|

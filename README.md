@@ -4,6 +4,12 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |:---:|:---:|---|---|---|:---:|
 |1452|BaekJoon|[삼각 무늬 - 1](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%20%EB%AC%B4%EB%8A%AC%20-%201.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|11320|230412|
 |1451|BaekJoon|[약수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%95%BD%EC%88%98.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1037|230411|
+
+<details>
+<summary>Hide/Show</summary>
+
+|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
+|:---:|:---:|---|---|---|:---:|
 |1450|BaekJoon|[A+B](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20A%2BB.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26711|230410|
 |1449|BaekJoon|[음계](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%9D%8C%EA%B3%84.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|2920|230409|
 |1448|BaekJoon|[나머지와 몫이 같은 수](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EB%82%98%EB%A8%B8%EC%A7%80%EC%99%80%20%EB%AA%AB%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EC%88%98.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1834|230408|
@@ -11,13 +17,6 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |1446|BaekJoon|[캠핑](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%BA%A0%ED%95%91.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|4796|230406|
 |1445|BaekJoon|[Word Searching](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Word%20Searching.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|9771|230405|
 |1444|BaekJoon|[터널의 입구와 출구](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%ED%84%B0%EB%84%90%EC%9D%98%20%EC%9E%85%EA%B5%AC%EC%99%80%20%EC%B6%9C%EA%B5%AC.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5612|230404|
-
-
-<details>
-<summary>Hide/Show</summary>
-
-|No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
-|:---:|:---:|---|---|---|:---:|
 |1443|BaekJoon|[그대로 출력하기 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%202.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11719|230403|
 |1442|BaekJoon|[조교는 새디스트야!!](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%A1%B0%EA%B5%90%EB%8A%94%20%EC%83%88%EB%94%94%EC%8A%A4%ED%8A%B8%EC%95%BC!!.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|14656|230402|
 |1441|BaekJoon|[Yee](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Text/BaekJoon%20%7C%20Yee.txt)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Text.svg" width="11" height="11"/> Text|15643|230402|

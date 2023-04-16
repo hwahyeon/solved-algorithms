@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1456|BaekJoon|[지각](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%A7%80%EA%B0%81.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10419|230416|
 |1455|BaekJoon|[나누기](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EB%82%98%EB%88%84%EA%B8%B0.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1075|230415|
 |1454|BaekJoon|[JOI와 IOI](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20JOI%EC%99%80%20IOI.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5586|230414|
 |1453|BaekJoon|[삼각 무늬 - 2](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%20%EB%AC%B4%EB%8A%AC%20-%202.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|11312|230413|

@@ -11,7 +11,7 @@ I post my solutions every day. This challenge aims to develop my problem-solving
 |Lists|
 |:---:|
 |[1251-1500](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/1251-1500.md)|
-|[1001-1250](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/1001-12500.md)|
+|[1001-1250](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/1001-1250.md)|
 |[0751-1000](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/0751-1000.md)|
 |[0501-0750](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/0501-0750.md)|
 |[0251-0500](https://github.com/hwahyeon/Solved_Algorithm/blob/main/lists/0251-0500.md)|

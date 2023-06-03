@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1504|BaekJoon|[직각 삼각형의 두 변](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%A7%81%EA%B0%81%20%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EB%91%90%20%EB%B3%80.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6322|230603|
 |1503|BaekJoon|[Donation Packaging](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Donation%20Packaging.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|11795|230602|
 |1502|BaekJoon|[Cuboids](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Cuboids.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|7581|230601|
 |1501|BaekJoon|[Sum Kind of Problem](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Sum%20Kind%20of%20Problem.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11522|230531|

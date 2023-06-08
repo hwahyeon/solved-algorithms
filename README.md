@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1509|BaekJoon|[문문문](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EB%AC%B8%EB%AC%B8%EB%AC%B8.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|17210|230608|
 |1508|BaekJoon|[모비스](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%A7%81%EA%B0%81%20%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EB%91%90%20%EB%B3%80.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|28074|230607|
 |1507|BaekJoon|[The Merchant of Venice](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20The%20Merchant%20of%20Venice.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|13496|230606|
 |1506|BaekJoon|[아이 러브 크로아티아](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EC%95%84%EC%9D%B4%20%EB%9F%AC%EB%B8%8C%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9517|230605|

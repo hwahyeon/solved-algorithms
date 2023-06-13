@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+1514Golfscript
 |1513|BaekJoon|[Pascal Library](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Pascal%20Library.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5753|230612|
 |1512|BaekJoon|[Golf](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Golf.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|6437|230611|
 |1511|BaekJoon|[Floppies](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Floppies.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|6436|230610|

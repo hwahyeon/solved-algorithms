@@ -10,7 +10,7 @@
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Common%20Lisp.svg" width="11" height="11"/>|Common Lisp|#3FB68B|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Fortran.svg" width="11" height="11"/>|Fortran|#4D41B1|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/FreeBASIC.svg" width="11" height="11"/>|FreeBASIC|#867DB1|
-|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/GolfScript.svg" width="11" height="11"/>|GolfScript|#F1E05A|
+|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/GolfScript.svg" width="11" height="11"/>|GolfScript|#166C10|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/>|JavaScript|#F1E05A|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/SQL.svg" width="11" height="11"/>|MySQL|#E38C00|
 |<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/SQL.svg" width="11" height="11"/>|PostgreSQL|#E38C00|

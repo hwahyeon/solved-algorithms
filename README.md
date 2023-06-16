@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1517|BaekJoon|[완전 세제곱](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EC%99%84%EC%A0%84%20%EC%84%B8%EC%A0%9C%EA%B3%B1.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|46904690|230616|
 |1516|BaekJoon|[Big Number](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Big%20Number.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26495|230615|
 |1515|BaekJoon|[Tawla](https://github.com/hwahyeon/Solved_Algorithm/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Tawla.py)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11800|230614|
 |1514|BaekJoon|[Moo](https://github.com/hwahyeon/Solved_Algorithm/blob/main/GolfScript/BaekJoon%20%7C%20Moo.gs)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/GolfScript.svg" width="11" height="11"/> GolfScript|1809|230613|

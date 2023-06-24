@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+1525정보섬의 대중교통
 |1524|BaekJoon|[Always Follow the Rules in Zombielan](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Always%20Follow%20the%20Rules%20in%20Zombielan.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|4459|230623|
 |1523|BaekJoon|[Terms of Office](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Terms%20of%20Office.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|6888|230622|
 |1522|BaekJoon|[코드마스터 2023](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20%EC%BD%94%EB%93%9C%EB%A7%88%EC%8A%A4%ED%84%B0%202023.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|28235|230621|

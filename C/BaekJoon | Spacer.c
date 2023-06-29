@@ -6,7 +6,7 @@ int abs(int x) {
 
 int main() {
     int Z, N;
-    char S[500004];
+    char S[500000];
     scanf("%d", &Z);
     
     while (Z--) {

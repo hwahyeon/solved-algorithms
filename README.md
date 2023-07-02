@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/Solved_Algorithm/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+1533빵
 |1532|BaekJoon|[Betygsättning]()|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|20839|230701|
 |1531|BaekJoon|[Effective Infection Time](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Effective%20Infection%20Time.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9428|230630|
 |1530|BaekJoon|[Spacer](https://github.com/hwahyeon/Solved_Algorithm/blob/main/C/BaekJoon%20%7C%20Spacer.c)|<img src="https://github.com/hwahyeon/Solved_Algorithm/blob/main/attributes/language/C.svg" width="11" height="11"/> C|8826|230629|

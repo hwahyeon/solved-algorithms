@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1537|BaekJoon|[Decoder](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Decoder.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26502|230706|
 |1536|BaekJoon|[ICONS](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20ICONS.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|3276|230705|
 |1535|BaekJoon|[운동](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%9A%B4%EB%8F%99.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1173|230704|
 |1534|BaekJoon|[V for Vendetta](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20V%20for%20Vendetta.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26510|230703|

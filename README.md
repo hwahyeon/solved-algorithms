@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1541|BaekJoon|[ID Key](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20ID%20Key.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|9773|230710|
 |1540|BaekJoon|[Checkers](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Checkers.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|21631|230709|
 |1539|BaekJoon|[Rulltrappa](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Rulltrappa.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|20867|230708|
 |1538|BaekJoon|[Explicit Formula](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Explicit%20Formula.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|3533|230707|

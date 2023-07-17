@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1548|BaekJoon|[Лифт](https://github.com/hwahyeon/solved-algorithms/blob/main/Fortran/BaekJoon%20%7C%20%D0%9B%D0%B8%D1%84%D1%82.f95)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27262|230717|
 |1547|BaekJoon|[Chili Peppers](https://github.com/hwahyeon/solved-algorithms/blob/main/Fortran/BaekJoon%20%7C%20Chili%20Peppers.f95)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|28249|230716|
 |1546|BaekJoon|[Cornhole](https://github.com/hwahyeon/solved-algorithms/blob/main/Fortran/BaekJoon%20%7C%20Cornhole.f95)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|27855|230715|
 |1545|BaekJoon|[Secret Location](https://github.com/hwahyeon/solved-algorithms/blob/main/Fortran/BaekJoon%20%7C%20Secret%20Location.f95)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|5340|230714|

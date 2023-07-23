@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1554|BaekJoon|[10!](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%2010!.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|28352|230723|
 |1553|BaekJoon|[접시 안의 원](https://github.com/hwahyeon/solved-algorithms/blob/main/Fortran/BaekJoon%20%7C%20%EC%A0%91%EC%8B%9C%20%EC%95%88%EC%9D%98%20%EC%9B%90.f95)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Fortran.svg" width="11" height="11"/> Fortran|16483|230722|
 |1552|BaekJoon|[Vowel Count](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Vowel%20Count.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|26314|230721|
 |1551|BaekJoon|[Max Volume](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Max%20Volume.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|9776|230720|

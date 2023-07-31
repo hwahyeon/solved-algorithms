@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1562|BaekJoon|[욱제는 건축왕이야!!](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%9A%B1%EC%A0%9C%EB%8A%94%20%EA%B1%B4%EC%B6%95%EC%99%95%EC%9D%B4%EC%95%BC!!.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|15923|230731|
 |1561|BaekJoon|[Sumac Sequences](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Sumac%20Sequences.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|6780|230730|
 |1560|BaekJoon|[Vending Machine](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Vending%20Machine.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|17284|230729|
 |1559|BaekJoon|[Skarpetki](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Skarpetki.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|26742|230728|

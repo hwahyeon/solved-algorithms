@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1571|BaekJoon|[Ahmed Aly](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Ahmed%20Aly.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10698|230809|
 |1570|BaekJoon|[カレー作り](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%E3%82%AB%E3%83%AC%E3%83%BC%E4%BD%9C%E3%82%8A.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|22396|230808|
 |1569|BaekJoon|[Divisors](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/Baekjoon%20%7C%20Divisors.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6662|230807|
 |1568|BaekJoon|[Gauß](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Gau%C3%9F.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|7523|230806|

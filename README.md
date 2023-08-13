@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1574|BaekJoon|[Square](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Square.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|14545|230813|
 |1573|BaekJoon|[Olympic Games](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Olympic%20Games.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|13773|230812|
 |1573|BaekJoon|[Decoder](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Decoder_.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5365|230811|
 |1572|BaekJoon|[Easy Encryption](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20Easy%20Encryption.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|9783|230810|

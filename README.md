@@ -2,7 +2,8 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-1579
+|1580|BaekJoon|[양말 짝 맞추기](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%96%91%EB%A7%90%20%EC%A7%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|28431|230819|
+|1579|BaekJoon|[카이사르 암호](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%201/BaekJoon%20%7C%20%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4%20%EC%95%94%ED%98%B8.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|5598|230818|
 |1578|BaekJoon|[Киноманы](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D1%8B.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|28927|230817|
 |1577|BaekJoon|[Счастье Мистера Бина](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20%D0%A1%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5%20%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B0%20%D0%91%D0%B8%D0%BD%D0%B0.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|29163|230816|
 |1576|BaekJoon|[세제곱의 합](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%20%ED%95%A9.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|28701|230815|

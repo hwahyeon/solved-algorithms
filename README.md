@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+1609
 1608
 |1607|BaekJoon|[次の文字 (Next Character)](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%E6%AC%A1%E3%81%AE%E6%96%87%E5%AD%97%20(Next%20Character).py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|24084|230915|
 |1606|BaekJoon|[그래서 님 푼 문제 수가?](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EA%B7%B8%EB%9E%98%EC%84%9C%20%EB%8B%98%20%ED%91%BC%20%EB%AC%B8%EC%A0%9C%20%EC%88%98%EA%B0%80%3F.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|29720|230914|

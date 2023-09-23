@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1615|BaekJoon|[Rain Diary](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20Rain%20Diary.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|27182|230923|
 |1614|BaekJoon|[피보나치 함수](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|1003|230922|
 |1613|BaekJoon|[割り勘](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%E5%89%B2%E3%82%8A%E5%8B%98.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|22380|230921|
 |1612|BaekJoon|[진흥원 세미나](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%A7%84%ED%9D%A5%EC%9B%90%20%EC%84%B8%EB%AF%B8%EB%82%98.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30087|230920|

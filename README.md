@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1621|BaekJoon|[Lucky 7](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Lucky%207.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30224|230929|
 |1620|BaekJoon|[Increasing Sublist](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Increasing%20Sublist.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30216|230928|
 |1619|BaekJoon|[준영이의 등급](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%A4%80%EC%98%81%EC%9D%B4%EC%9D%98%20%EB%93%B1%EA%B8%89.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30008|230927|
 |1618|BaekJoon|[라면 공식](https://github.com/hwahyeon/solved-algorithms/blob/main/Rust/BaekJoon%20%7C%20%EB%9D%BC%EB%A9%B4%20%EA%B3%B5%EC%8B%9D.rs)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Rust.svg" width="11" height="11"/> Rust|30007|230926|

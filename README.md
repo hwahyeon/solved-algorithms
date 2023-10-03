@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1625|BaekJoon|[Since 1973](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/Baekjoon%20%7C%20Since%201973.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|28135|231003|
 |1624|BaekJoon|[다음 팰린드롬 수](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EB%8B%A4%EC%9D%8C%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%88%98.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> PyPy3|1334|231002|
 |1623|BaekJoon|[ZOAC 6](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20ZOAC%206.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30045|231001|
 |1622|BaekJoon|[삼각형](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20%EC%82%BC%EA%B0%81%ED%98%95.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|29751|230930|

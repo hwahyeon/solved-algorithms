@@ -2,7 +2,6 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-The King
 |1638|BaekJoon|[The King](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20The%20King.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9806|231016|
 |1637|BaekJoon|[피보나치 수 4](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10826|231015|
 |1636|BaekJoon|[학번을 찾아줘!](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%ED%95%99%EB%B2%88%EC%9D%84%20%EC%B0%BE%EC%95%84%EC%A4%98!.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|29807|231014|

@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1640|BaekJoon|[More Dice](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20More%20Dice.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9288|231018|
 |1639|BaekJoon|[Majestic 10](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Majestic%2010.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|25893|231017|
 |1638|BaekJoon|[The King](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20The%20King.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9806|231016|
 |1637|BaekJoon|[피보나치 수 4](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%204.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10826|231015|

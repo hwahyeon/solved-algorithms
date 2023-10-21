@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1643|BaekJoon|[소금 폭탄](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%86%8C%EA%B8%88%20%ED%8F%AD%ED%83%84.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|13223|231021|
 |1642|BaekJoon|[Federal Voting Age](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Federal%20Voting%20Age.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|6845|231020|
 |1641|BaekJoon|[창용이의 시계](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%B0%BD%EC%9A%A9%EC%9D%B4%EC%9D%98%20%EC%8B%9C%EA%B3%84.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|12840|231019|
 |1640|BaekJoon|[More Dice](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20More%20Dice.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|9288|231018|

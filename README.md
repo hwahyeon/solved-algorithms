@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1648|BaekJoon|[A Serious Reading Problem](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20A%20Serious%20Reading%20Problem.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11368|231026|
 |1647|BaekJoon|[연세여 사랑한다](https://github.com/hwahyeon/solved-algorithms/blob/main/C/BaekJoon%20%7C%20%EC%97%B0%EC%84%B8%EC%97%AC%20%EC%82%AC%EB%9E%91%ED%95%9C%EB%8B%A4.c)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/C.svg" width="11" height="11"/> C|25915|231025|
 |1646|BaekJoon|[지속](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%A7%80%EC%86%8D.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|13416|231024|
 |1645|BaekJoon|[주식 투자](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%A3%BC%EC%8B%9D%20%ED%88%AC%EC%9E%90.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|11648|231023|

@@ -2,7 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
-|1655|BaekJoon|[서버](./Python/BaekJoon%202/BaekJoon%20%7C%20%EC%84%9C%EB%B2%84py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10409|231031|
+|1655|BaekJoon|[서버](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%EC%84%9C%EB%B2%84py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|10409|231031|
 
 <br/>
 <br/>

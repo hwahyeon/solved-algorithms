@@ -2,6 +2,7 @@
 I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1666|BaekJoon|[Loteria Falha](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Loteria%20Falha.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30664|231111|
 |1665|BaekJoon|[JavaScript](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/BaekJoon%20%7C%20JavaScript.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|23343|231110|
 |1664|BaekJoon|[크림빵](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20%ED%81%AC%EB%A6%BC%EB%B9%B5.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|28214|231109|
 |1663|BaekJoon|[Rust Study](https://github.com/hwahyeon/solved-algorithms/blob/main/Python/BaekJoon%202/BaekJoon%20%7C%20Rust%20Study.py)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/Python.svg" width="11" height="11"/> Python|30033|231108|

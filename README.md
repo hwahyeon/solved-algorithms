@@ -1,5 +1,4 @@
 # Algorithm
-I post my solutions every day. This challenge aims to develop my problem-solving skills.
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
 |1674|BaekJoon|[이 별은 무슨 색일까](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/BaekJoon%20%7C%20%EC%9D%B4%20%EB%B3%84%EC%9D%80%20%EB%AC%B4%EC%8A%A8%20%EC%83%89%EC%9D%BC%EA%B9%8C.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|30676|231207|

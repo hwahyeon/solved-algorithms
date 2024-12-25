@@ -1,6 +1,7 @@
 # Algorithm
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1679|Codewars|[Statistics for an Athletic Association](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Statistics%20for%20an%20Athletic%20Association.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|6kyu|241225|
 |1678|Codewars|[Mysterious function](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Mysterious%20function.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|6kyu|241224|
 |1677|Codewars|[Simple Fun #210: Maximize Points](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Simple%20Fun%20%23210%3A%20Maximize%20Points.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|6kyu|241221|
 |1676|Codewars|[Powers of 3](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Powers%20of%203.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|7kyu|241220|

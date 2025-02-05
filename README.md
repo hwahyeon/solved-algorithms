@@ -1,6 +1,7 @@
 # Algorithm
 |No.|[Platform](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/platform)|Name|[Language](https://github.com/hwahyeon/solved-algorithms/tree/main/attributes/language)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|No. or Lv.|yymmdd|
 |:---:|:---:|---|---|---|:---:|
+|1681|Codewars|[Identifying Mutual Likes in a Dating App](https://github.com/hwahyeon/solved-algorithms/blob/main/SQL/Codewars%20%7C%20Identifying%20Mutual%20Likes%20in%20a%20Dating%20App.sql)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/SQL.svg" width="11" height="11"/> PostgreSQL|7kyu|250205|
 |1680|Codewars|[Human Readable Time](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Human%20Readable%20Time.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|5kyu|250101|
 |1679|Codewars|[Statistics for an Athletic Association](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Statistics%20for%20an%20Athletic%20Association.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|6kyu|241225|
 |1678|Codewars|[Mysterious function](https://github.com/hwahyeon/solved-algorithms/blob/main/JavaScript/Codewars%20%7C%20Mysterious%20function.js)|<img src="https://github.com/hwahyeon/solved-algorithms/blob/main/attributes/language/JavaScript.svg" width="11" height="11"/> JavaScript|6kyu|241224|
